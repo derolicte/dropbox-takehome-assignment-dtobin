@@ -1,0 +1,24 @@
+services:
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_USER: dbx
+      POSTGRES_PASSWORD: dbxpassword
+      POSTGRES_DB: dbx
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+
+  etl:
+    build:
+      context: .
+      dockerfile: dockerfile.app
+    depends_on:
+      - db
+    env_file:
+      - .env
+    volumes:
+      - ./app:/app
+    working_dir: /app
+

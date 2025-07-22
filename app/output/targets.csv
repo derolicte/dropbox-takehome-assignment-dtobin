@@ -1,0 +1,51 @@
+region,hierarchy,status,type,product,net_new_acv_target,dq_flag,dq_check
+AMER,Region,Included,Direct,Core,1000000,,Pass
+APAC,Region,Included,Direct,Core,200000,,Pass
+EMEA,Region,Included,Direct,Core,500000,,Pass
+JAPAN,Region,Included,Direct,Core,400000,,Pass
+GLOBAL,Global,Included,Direct,Core,2100000,,Pass
+AMER,Region,Included,Channel,Core,500000,,Pass
+APAC,Region,Included,Channel,Core,300000,,Pass
+EMEA,Region,Included,Channel,Core,500000,,Pass
+JAPAN,Region,Included,Channel,Core,1000000,,Pass
+GLOBAL,Global,Included,Channel,Core,2300000,,Pass
+AMER,Region,Included,Direct,Sign,500000,,Pass
+APAC,Region,Included,Direct,Sign,100000,,Pass
+EMEA,Region,Included,Direct,Sign,100000,,Pass
+JAPAN,Region,Included,Direct,Sign,0,Target ACV is missing or not positive; ,Failed
+GLOBAL,Global,Included,Direct,Sign,700000,,Pass
+AMER,Region,Included,Channel,Sign,0,Target ACV is missing or not positive; ,Failed
+APAC,Region,Included,Channel,Sign,0,Target ACV is missing or not positive; ,Failed
+EMEA,Region,Included,Channel,Sign,0,Target ACV is missing or not positive; ,Failed
+JAPAN,Region,Included,Channel,Sign,0,Target ACV is missing or not positive; ,Failed
+GLOBAL,Global,Included,Channel,Sign,0,Target ACV is missing or not positive; ,Failed
+AMER,Region,Included,Direct,Send,100000,,Pass
+APAC,Region,Included,Direct,Send,0,Target ACV is missing or not positive; ,Failed
+EMEA,Region,Included,Direct,Send,0,Target ACV is missing or not positive; ,Failed
+JAPAN,Region,Included,Direct,Send,0,Target ACV is missing or not positive; ,Failed
+GLOBAL,Global,Included,Direct,Send,100000,,Pass
+AMER,Region,Included,Channel,Send,0,Target ACV is missing or not positive; ,Failed
+APAC,Region,Included,Channel,Send,0,Target ACV is missing or not positive; ,Failed
+EMEA,Region,Included,Channel,Send,0,Target ACV is missing or not positive; ,Failed
+JAPAN,Region,Included,Channel,Send,0,Target ACV is missing or not positive; ,Failed
+GLOBAL,Global,Included,Channel,Send,0,Target ACV is missing or not positive; ,Failed
+AMER,Region,Included,Direct,Dash,500000,,Pass
+APAC,Region,Included,Direct,Dash,100000,,Pass
+EMEA,Region,Included,Direct,Dash,200000,,Pass
+JAPAN,Region,Included,Direct,Dash,100000,,Pass
+GLOBAL,Global,Included,Direct,Dash,900000,,Pass
+AMER,Region,Included,Channel,Dash,0,Target ACV is missing or not positive; ,Failed
+APAC,Region,Included,Channel,Dash,0,Target ACV is missing or not positive; ,Failed
+EMEA,Region,Included,Channel,Dash,0,Target ACV is missing or not positive; ,Failed
+JAPAN,Region,Included,Channel,Dash,0,Target ACV is missing or not positive; ,Failed
+GLOBAL,Global,Included,Channel,Dash,0,Target ACV is missing or not positive; ,Failed
+AMER,Region,Included,Direct,Total,1600000,,Pass
+APAC,Region,Included,Direct,Total,300000,,Pass
+EMEA,Region,Included,Direct,Total,600000,,Pass
+JAPAN,Region,Included,Direct,Total,400000,,Pass
+GLOBAL,Global,Included,Direct,Total,2900000,,Pass
+AMER,Region,Included,Channel,Total,500000,,Pass
+APAC,Region,Included,Channel,Total,300000,,Pass
+EMEA,Region,Included,Channel,Total,500000,,Pass
+JAPAN,Region,Included,Channel,Total,1000000,,Pass
+GLOBAL,Global,Included,Channel,Total,2300000,,Pass

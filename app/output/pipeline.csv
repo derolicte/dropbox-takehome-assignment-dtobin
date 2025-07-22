@@ -1,0 +1,1079 @@
+opp_id,opp_name,type,stage,product_flag,crm_region,close_date,start_date,created_date,qualified_date,net_new_acv_usd,opp_owner,account_owner,week_start,days_from_qualified,type_1,reporting_region,reporting_manager,forecast_category,dq_flag,dq_check
+1,OPP - 1 - Net New,Net New,Stage 3,Sign,AMER,2025-09-01,2025-09-01,2025-02-10,2025-02-10,489731,REP 1,REP 1,2025-02-10,203,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+2,OPP - 2 - Net New,Net New,Stage 3,Sign,AMER,2025-09-30,2025-03-27,2024-09-17,2024-09-17,388608,REP 2,REP 2,2024-09-16,378,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+3,OPP - 3 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-30,2025-06-30,2024-06-28,2024-06-28,321951,REP 3,REP 3,2024-06-24,367,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+4,OPP - 4 - Net New,Net New,Stage 3,Dash,APAC,2025-05-02,2025-03-28,2025-02-19,2025-02-19,235294,REP 4,REP 23,2025-02-17,72,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+5,OPP - 5 - Upsell,Upsell,Stage 2,Core,JAPAN,2025-06-23,2025-06-23,2024-10-14,2024-10-14,227922,REP 5,REP 5,2024-10-14,252,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+6,OPP - 6 - Net New,Net New,Stage 3,Core,AMER,2025-08-15,2025-08-15,2025-02-07,2025-02-07,215100,REP 6,REP 6,2025-02-03,189,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+7,OPP - 7 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2024-10-01,2023-08-03,2023-08-03,212498,REP 7,REP 7,2023-07-31,760,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+8,OPP - 8 - Net New,Net New,Stage 3,Core,AMER,2025-06-10,2026-06-30,2025-02-12,2025-03-04,208542,REP 8,REP 65,2025-03-03,118,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+9,OPP - 9 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-10-31,2025-01-24,2025-01-24,182480,REP 9,REP 9,2025-01-20,157,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+10,OPP - 10 - Net New,Net New,Stage 2,Core,JAPAN,2025-07-01,2023-07-21,2023-07-21,2023-07-21,182338,REP 7,REP 7,2023-07-17,711,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+11,OPP - 11 - Net New,Net New,Stage 2,Dash,AMER,2025-09-30,2025-09-30,2025-04-08,2025-04-08,177000,REP 10,REP 10,2025-04-07,175,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+12,OPP - 12 - Net New,Net New,Stage 2,Core,AMER,2025-08-22,2022-04-08,2021-06-03,2021-06-03,174240,REP 8,REP 8,2021-05-31,1541,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+13,OPP - 13 - Net New,Net New,Stage 2,Dash,JAPAN,2025-06-30,2025-06-30,2025-04-06,2025-04-06,172071,REP 5,REP 5,2025-04-04,85,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+14,OPP - 14 - Net New,Net New,Stage 2,Core,JAPAN,2025-05-09,2025-05-25,2025-03-10,2025-03-10,158961,REP 7,REP 7,2025-03-10,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+15,OPP - 15 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2024-11-19,2024-11-18,2024-11-18,155844,REP 7,REP 7,2024-11-18,287,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+16,OPP - 16 - Renewal,Renewal,Stage 2,Core,JAPAN,2025-06-20,2025-06-20,2024-06-19,2025-04-01,147354,REP 11,REP 11,2025-03-31,366,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+17,OPP - 17 - Net New,Net New,Stage 2,Sign,AMER,2025-07-01,2024-12-04,2024-05-28,2024-05-28,130380,REP 12,REP 48,2024-05-27,399,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+18,OPP - 18 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2024-02-22,2024-02-22,2024-02-22,126623,REP 7,REP 7,2024-02-19,557,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+19,OPP - 19 - Net New,Net New,Stage 2,Dash,EMEA,2025-04-30,2025-04-30,2024-10-17,2024-10-17,122480,REP 13,REP 17,2024-10-14,195,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+20,OPP - 20 - Net New,Net New,Stage 3,Core,JAPAN,2025-09-01,2025-06-01,2025-02-26,2025-02-26,116883,REP 7,REP 11,2025-02-24,187,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+21,OPP - 21 - Net New,Net New,Stage 3,Core,JAPAN,2025-07-01,2025-07-01,2023-08-04,2023-08-04,112208,REP 7,REP 7,2023-07-31,697,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+22,OPP - 22 - Net New,Net New,Stage 2,Core,AMER,2025-06-01,2025-06-01,2025-03-17,2025-03-17,108900,REP 14,NOT ASSIGNED,2025-03-17,76,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+23,OPP - 23 - Net New,Net New,Stage 4,Core,AMER,2025-04-30,2024-04-30,2023-09-13,2023-09-13,104000,REP 15,REP 15,2023-09-11,595,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+24,OPP - 24 - Upsell,Upsell,Stage 3,Dash,APAC,2025-05-30,2025-05-30,2025-03-11,2025-03-11,102941,REP 16,REP 30,2025-03-10,80,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+25,OPP - 25 - Net New,Net New,Stage 3,Core,AMER,2025-06-29,2025-10-24,2025-03-13,2025-04-01,100980,REP 8,REP 19,2025-03-31,108,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+26,OPP - 26 - Net New,Net New,Stage 2,Core,AMER,2025-07-31,2025-07-31,2025-04-10,2025-04-10,95850,REP 15,REP 15,2025-04-07,112,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+27,OPP - 27 - Upsell,Upsell,Stage 3,Core,EMEA,2025-06-25,2025-06-25,2025-03-07,2025-03-07,92555,REP 17,REP 17,2025-03-03,110,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+28,OPP - 28 - Net New,Net New,Stage 2,Core,AMER,2025-06-01,2025-06-01,2025-03-17,2025-03-17,89700,REP 14,NOT ASSIGNED,2025-03-17,76,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+29,OPP - 29 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-30,2025-09-30,2024-11-21,2024-11-21,87662,REP 5,REP 5,2024-11-18,313,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+30,OPP - 30 - Net New,Net New,Stage 3,Core,JAPAN,2025-06-30,2025-04-30,2024-09-25,2024-09-25,86258,REP 18,REP 18,2024-09-23,278,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+31,OPP - 31 - Net New,Net New,Stage 2,Core,EMEA,2025-07-31,2025-01-31,2024-11-08,2024-11-08,84205,REP 9,REP 9,2024-11-04,265,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+32,OPP - 32 - Net New,Net New,Stage 2,Sign,AMER,2025-07-31,2025-07-31,2024-12-30,2025-01-02,79200,REP 2,NOT ASSIGNED,2024-12-30,213,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+33,OPP - 33 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-20,2025-04-20,2022-08-18,2022-08-19,77601,REP 19,REP 19,2022-08-15,1098,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+34,OPP - 34 - Net New,Net New,Stage 2,Dash,JAPAN,2025-06-30,2025-06-30,2025-04-08,2025-04-08,75128,REP 5,REP 5,2025-04-07,83,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+35,OPP - 35 - Net New,Net New,Stage 2,Core,AMER,2025-05-29,2025-05-29,2024-07-31,2024-07-31,75000,REP 20,REP 20,2024-07-29,302,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+36,OPP - 36 - Net New,Net New,Stage 2,Dash,AMER,2025-07-31,2025-05-12,2025-03-27,2025-03-28,75000,REP 21,NOT ASSIGNED,2025-03-24,126,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+37,OPP - 37 - Net New,Net New,Stage 2,Core,JAPAN,2025-04-05,2025-02-04,2025-02-04,2025-02-04,72935,REP 7,REP 7,2025-02-03,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+38,OPP - 38 - Upsell,Upsell,Stage 2,Dash,AMER,2025-05-30,2025-02-24,2025-02-24,2025-03-11,70800,REP 4,REP 36,2025-03-10,95,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+39,OPP - 39 - Upsell,Upsell,Stage 4,Core,AMER,2025-04-30,2025-05-01,2025-01-30,2025-01-30,69890,REP 10,REP 10,2025-01-27,90,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+40,OPP - 40 - Net New,Net New,Stage 2,Core,AMER,2025-04-30,2025-01-31,2024-09-27,2024-11-19,69300,REP 22,REP 22,2024-11-18,215,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+41,OPP - 41 - Net New,Net New,Stage 2,Dash,APAC,2025-06-30,2025-03-31,2024-10-17,2024-10-31,69020,REP 23,REP 23,2024-10-28,256,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+42,OPP - 42 - Upsell,Upsell,Stage 2,Core,EMEA,2025-07-18,2025-02-28,2025-02-28,2025-02-28,66088,REP 24,REP 24,2025-02-24,140,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+43,OPP - 43 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-30,2024-03-19,2024-06-27,65894,REP 25,REP 48,2024-06-24,468,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+44,OPP - 44 - Upsell,Upsell,Stage 2,Core,EMEA,2025-05-24,2025-04-02,2025-04-02,2025-04-08,64783,REP 26,REP 26,2025-04-07,52,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+45,OPP - 45 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-23,2025-06-23,2025-01-30,2025-01-30,63312,REP 5,REP 5,2025-01-27,144,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+46,OPP - 46 - Net New,Net New,Stage 4,Dash,AMER,2025-06-30,2025-06-30,2024-10-16,2024-10-17,62016,REP 27,REP 39,2024-10-14,257,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+47,OPP - 47 - Net New,Net New,Stage 2,Core,JAPAN,2025-05-01,2025-03-02,2025-03-02,2025-03-03,60901,REP 5,NOT ASSIGNED,2025-03-03,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+48,OPP - 48 - Net New,Net New,Stage 2,Core,JAPAN,2025-05-31,2024-10-03,2024-10-02,2024-10-02,60779,REP 7,REP 7,2024-09-30,241,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+49,OPP - 49 - Upsell,Upsell,Stage 2,Dash,AMER,2025-05-02,2025-01-09,2025-01-09,2025-01-14,60000,REP 4,REP 54,2025-01-13,113,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+50,OPP - 50 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-01-24,2025-01-24,60000,REP 28,REP 28,2025-01-20,157,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+51,OPP - 51 - Net New,Net New,Stage 2,Dash,AMER,2025-05-30,2025-05-30,2025-02-24,2025-02-24,60000,REP 16,REP 50,2025-02-24,95,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+52,OPP - 52 - Net New,Net New,Stage 3,Core,AMER,2025-09-30,2025-06-01,2025-01-16,2025-01-16,60000,REP 10,REP 10,2025-01-13,257,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+53,OPP - 53 - Net New,Net New,Stage 2,Core,EMEA,2025-07-31,2024-11-22,2024-10-18,2024-10-18,57122,REP 9,REP 9,2024-10-14,286,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+54,OPP - 54 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-22,2025-09-22,2024-12-17,2024-12-17,56104,REP 5,REP 5,2024-12-16,279,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+55,OPP - 55 - Net New,Net New,Stage 3,Core,AMER,2025-07-18,2025-07-18,2025-04-11,2025-04-11,55392,REP 29,REP 29,2025-04-07,98,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+56,OPP - 56 - Net New,Net New,Stage 3,Core,APAC,2025-05-31,2025-05-31,2025-01-28,2025-01-28,55328,REP 30,NOT ASSIGNED,2025-01-27,123,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+57,OPP - 57 - Net New,Net New,Stage 2,Dash,AMER,2025-09-28,2025-09-28,2025-03-14,2025-03-14,54600,REP 3,REP 3,2025-03-10,198,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+58,OPP - 58 - Upsell,Upsell,Stage 2,Core,JAPAN,2025-08-01,2025-08-01,2025-03-18,2025-03-18,52597,REP 5,REP 5,2025-03-17,136,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+59,OPP - 59 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-08,2025-06-08,2025-03-11,2025-03-11,52431,REP 3,REP 3,2025-03-10,89,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+60,OPP - 60 - Net New,Net New,Stage 2,Core,EMEA,2025-05-28,2025-03-20,2025-01-23,2025-01-23,51697,REP 31,REP 31,2025-01-20,125,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+61,OPP - 61 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-04-01,2024-08-14,2024-08-14,51480,REP 8,REP 8,2024-08-12,320,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+62,OPP - 62 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-01,2025-07-01,2024-08-04,2024-09-30,49536,REP 20,REP 20,2024-09-30,331,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+63,OPP - 63 - Renewal,Renewal,Stage 5,Dash,AMER,2025-06-30,2025-06-30,2022-10-20,2025-02-12,48450,REP 8,REP 8,2025-02-10,984,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+64,OPP - 64 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-30,2026-02-20,2025-02-19,2025-02-19,48187,REP 3,REP 3,2025-02-17,100,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+65,OPP - 65 - Net New,Net New,Stage 2,Core,AMER,2025-09-30,2025-09-30,2025-04-02,2025-04-02,48000,REP 32,REP 32,2025-03-31,181,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+66,OPP - 66 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-06-30,2025-01-10,2025-01-10,48000,REP 6,REP 6,2025-01-06,171,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+67,OPP - 67 - Upsell,Upsell,Stage 4,Dash,AMER,2025-06-30,2025-03-31,2025-01-10,2025-01-10,48000,REP 27,REP 50,2025-01-06,171,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+68,OPP - 68 - Upsell,Upsell,Stage 2,Core,JAPAN,2025-09-26,2022-08-30,2022-08-29,2023-10-10,47864,REP 11,REP 11,2023-10-09,1124,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+69,OPP - 69 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-21,2025-05-21,2024-05-07,2025-02-19,46514,REP 33,REP 33,2025-02-17,379,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+70,OPP - 70 - Net New,Net New,Stage 5,Core,EMEA,2025-06-30,2024-12-31,2024-10-30,2024-10-30,45953,REP 9,REP 9,2024-10-28,243,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+71,OPP - 71 - Net New,Net New,Stage 3,Core,EMEA,2025-07-31,2025-01-01,2024-10-25,2024-10-25,45611,REP 9,REP 9,2024-10-21,279,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+72,OPP - 72 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-28,2025-05-28,2024-05-24,2025-03-19,44880,REP 29,REP 29,2025-03-17,369,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+73,OPP - 73 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-02-21,2025-03-04,44800,REP 15,REP 15,2025-03-03,129,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+74,OPP - 74 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-30,2025-04-09,2025-04-09,43930,REP 3,REP 3,2025-04-07,82,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+75,OPP - 75 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-29,2025-09-29,2024-08-20,2024-09-30,43776,REP 8,REP 8,2024-09-30,405,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+76,OPP - 76 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-04-30,2025-02-19,2025-02-19,43584,REP 10,REP 10,2025-02-17,131,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+77,OPP - 77 - Net New,Net New,Stage 2,Core,APAC,2025-04-15,2024-12-15,2024-10-14,2024-10-14,42667,REP 23,REP 23,2024-10-14,183,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+78,OPP - 78 - Net New,Net New,Stage 2,Sign,AMER,2025-06-23,2025-06-23,2024-08-20,2024-08-20,42240,REP 34,REP 34,2024-08-19,307,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+79,OPP - 79 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-02-18,2025-02-18,42240,REP 35,REP 35,2025-02-17,132,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+80,OPP - 80 - Net New,Net New,Stage 2,Core,EMEA,2025-07-31,2024-12-27,2024-07-09,2024-07-09,42103,REP 9,REP 9,2024-07-08,387,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+81,OPP - 81 - Net New,Net New,Stage 2,Dash,AMER,2025-06-20,2025-06-20,2025-03-13,2025-03-13,42000,REP 36,REP 36,2025-03-10,99,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+82,OPP - 82 - Net New,Net New,Stage 2,Dash,APAC,2025-05-23,2025-05-30,2025-02-28,2025-02-28,41176,REP 4,NOT ASSIGNED,2025-02-24,84,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+83,OPP - 83 - Net New,Net New,Stage 4,Core,AMER,2025-06-20,2025-02-10,2024-07-30,2024-07-30,39897,REP 15,REP 15,2024-07-29,325,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+84,OPP - 84 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-11,2025-07-11,2024-06-26,2024-06-27,39863,REP 37,REP 37,2024-06-24,380,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+85,OPP - 85 - Net New,Net New,Stage 2,Sign,AMER,2025-09-13,2025-09-13,2025-03-05,2025-03-05,39672,REP 36,REP 36,2025-03-03,192,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+86,OPP - 86 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-03-31,2024-12-17,2024-12-17,39600,REP 35,REP 35,2024-12-16,134,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+87,OPP - 87 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-03-31,2025-02-11,2025-02-11,39600,REP 35,REP 35,2025-02-10,78,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+88,OPP - 88 - Net New,Net New,Stage 5,Core,AMER,2025-04-14,2025-04-14,2024-10-14,2024-10-16,39600,REP 32,REP 32,2024-10-14,182,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+89,OPP - 89 - Net New,Net New,Stage 4,Sign,AMER,2025-04-01,2024-12-31,2024-07-16,2024-07-16,38503,REP 38,REP 38,2024-07-15,259,Not Run-Rate,AMER,Rubeus Hagrid,Best Case,,Pass
+90,OPP - 90 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-30,2024-01-18,2024-01-17,2024-01-17,37987,REP 7,REP 7,2024-01-15,530,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+91,OPP - 91 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-04-11,2025-04-11,37500,REP 35,REP 35,2025-04-07,80,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+92,OPP - 92 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-22,2025-09-22,2024-09-03,2024-09-03,37403,REP 5,REP 5,2024-09-02,384,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+93,OPP - 93 - Renewal,Renewal,Stage 6,Sign,AMER,2025-04-15,2025-04-08,2024-05-15,2025-04-03,37277,REP 1,REP 1,2025-03-31,335,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+94,OPP - 94 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-28,2025-07-09,2024-07-01,2024-07-30,36807,REP 31,REP 31,2024-07-29,331,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+95,OPP - 95 - Upsell,Upsell,Stage 5,Core,JAPAN,2025-05-21,2025-05-21,2025-02-22,2025-02-22,36557,REP 18,REP 18,2025-02-21,88,Not Run-Rate,JAPAN,Colin Creevey,Commit,,Pass
+96,OPP - 96 - Net New,Net New,Stage 2,Core,AMER,2025-07-31,2024-08-31,2024-02-02,2024-02-02,36000,REP 10,REP 10,2024-01-29,545,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+97,OPP - 97 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-03-29,2025-04-01,34500,REP 14,REP 14,2025-03-31,93,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+98,OPP - 98 - Renewal,Renewal,Stage 3,Core,EMEA,2025-09-18,2025-09-18,2023-09-18,2023-09-18,34464,REP 24,REP 24,2023-09-18,731,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+99,OPP - 99 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-17,2025-06-17,2024-06-05,2025-03-14,34005,REP 10,REP 37,2025-03-10,377,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+100,OPP - 100 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-04,2024-12-30,2022-07-22,2023-11-02,33762,REP 19,REP 19,2023-10-30,1109,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+101,OPP - 101 - Net New,Net New,Stage 5,Core,AMER,2025-06-30,2025-06-22,2024-12-16,2024-12-16,30888,REP 33,REP 33,2024-12-16,196,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+102,OPP - 102 - Upsell,Upsell,Stage 3,Dash,AMER,2025-05-30,2025-05-30,2025-01-10,2025-01-10,30504,REP 16,REP 42,2025-01-06,140,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+103,OPP - 103 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-03-31,2025-02-21,2025-02-21,30240,REP 15,NOT ASSIGNED,2025-02-17,129,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+104,OPP - 104 - Net New,Net New,Stage 2,Core,AMER,2025-08-29,2025-01-01,2024-05-10,2024-05-13,30000,REP 39,REP 39,2024-05-13,476,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+105,OPP - 105 - Net New,Net New,Stage 2,Dash,AMER,2025-05-23,2025-03-28,2025-02-26,2025-02-26,30000,REP 16,REP 16,2025-02-24,86,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+106,OPP - 106 - Upsell,Upsell,Stage 3,Dash,AMER,2025-05-30,2025-05-05,2025-01-09,2025-01-14,30000,REP 4,REP 48,2025-01-13,141,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+107,OPP - 107 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-02-28,2025-01-13,2025-01-13,30000,REP 15,REP 15,2025-01-13,137,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+108,OPP - 108 - Net New,Net New,Stage 3,Core,AMER,2025-07-31,2025-06-30,2025-02-28,2025-02-28,30000,REP 40,REP 40,2025-02-24,153,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+109,OPP - 109 - Renewal,Renewal,Stage 2,Sign,AMER,2025-05-15,2025-05-15,2024-05-15,2025-03-18,29990,REP 41,REP 34,2025-03-17,365,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+110,OPP - 110 - Net New,Net New,Stage 2,Dash,APAC,2025-04-25,2025-04-25,2025-02-27,2025-02-27,29412,REP 16,NOT ASSIGNED,2025-02-24,57,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+111,OPP - 111 - Net New,Net New,Stage 2,Dash,AMER,2025-05-28,2025-03-10,2025-02-27,2025-04-09,28320,REP 4,REP 81,2025-04-07,90,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+112,OPP - 112 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2024-09-19,2024-08-01,2024-08-01,27930,REP 8,REP 8,2024-07-29,333,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+113,OPP - 113 - Net New,Net New,Stage 3,Sign,EMEA,2025-07-16,2024-10-14,2024-09-03,2024-09-03,27788,REP 24,REP 24,2024-09-02,316,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+114,OPP - 114 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-18,2025-04-18,2024-10-18,2025-03-11,27720,REP 42,REP 42,2025-03-10,182,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+115,OPP - 115 - Net New,Net New,Stage 2,Sign,AMER,2025-07-31,2025-06-01,2024-08-02,2024-08-02,27600,REP 40,REP 40,2024-07-29,363,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+116,OPP - 116 - Upsell,Upsell,Stage 3,Dash,EMEA,2025-04-30,2025-03-14,2025-01-09,2025-01-15,27450,REP 13,REP 45,2025-01-13,111,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+117,OPP - 117 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-10,2025-06-10,2022-09-02,2024-12-12,27438,REP 33,REP 19,2024-12-09,1073,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+118,OPP - 118 - Upsell,Upsell,Stage 2,Core,JAPAN,2025-05-24,2024-12-24,2024-05-26,2024-05-26,27170,REP 5,REP 5,2024-05-24,363,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+119,OPP - 119 - Net New,Net New,Stage 4,Core,JAPAN,2025-06-01,2025-06-01,2024-05-21,2024-05-21,27117,REP 5,REP 11,2024-05-20,376,Not Run-Rate,JAPAN,Colin Creevey,Best Case,,Pass
+120,OPP - 120 - Net New,Net New,Stage 4,Core,AMER,2025-04-30,2025-05-09,2025-02-26,2025-02-26,26512,REP 15,REP 15,2025-02-24,63,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+121,OPP - 121 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-10,2024-05-13,2024-05-12,2024-05-12,26500,REP 7,REP 7,2024-05-10,394,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+122,OPP - 122 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-03-13,2025-03-13,26460,REP 33,REP 33,2025-03-10,109,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+123,OPP - 123 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-27,2025-06-27,2023-09-29,2025-04-09,25636,REP 43,REP 43,2025-04-07,637,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+124,OPP - 124 - Renewal,Renewal,Stage 6,Sign,AMER,2025-07-22,2025-03-26,2024-07-22,2024-08-12,25384,REP 34,REP 34,2024-08-12,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+125,OPP - 125 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2025-09-01,2024-05-16,2024-05-16,25325,REP 5,REP 5,2024-05-13,473,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+126,OPP - 126 - Net New,Net New,Stage 3,Dash,AMER,2025-08-29,2025-03-28,2025-03-04,2025-03-04,25200,REP 16,NOT ASSIGNED,2025-03-03,178,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+127,OPP - 127 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-12-31,2025-02-03,2025-02-13,25039,REP 15,REP 15,2025-02-10,147,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+128,OPP - 128 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2025-05-01,2024-09-25,2024-09-25,24838,REP 7,REP 7,2024-09-23,341,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+129,OPP - 129 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-28,2025-06-28,2024-06-07,2025-02-18,24401,REP 10,REP 10,2025-02-17,386,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+130,OPP - 130 - Net New,Net New,Stage 2,Core,AMER,2025-09-30,2025-01-31,2024-12-04,2024-12-04,24000,REP 32,NOT ASSIGNED,2024-12-02,300,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+131,OPP - 131 - Net New,Net New,Stage 2,Core,AMER,2025-05-30,2025-05-01,2025-04-08,2025-04-08,24000,REP 15,REP 15,2025-04-07,52,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+132,OPP - 132 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-07-10,2024-07-11,24000,REP 22,REP 22,2024-07-08,355,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+133,OPP - 133 - Upsell,Upsell,Stage 2,Dash,JAPAN,2025-06-30,2025-06-30,2025-04-06,2025-04-06,23663,REP 5,REP 5,2025-04-04,85,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+134,OPP - 134 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-23,2025-06-23,2024-09-10,2023-07-20,23100,REP 3,REP 19,2023-07-17,286,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+135,OPP - 135 - Net New,Net New,Stage 2,Sign,AMER,2025-08-29,2025-08-01,2024-08-08,2024-08-08,22865,REP 44,REP 44,2024-08-05,386,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+136,OPP - 136 - Renewal,Renewal,Stage 3,Core,EMEA,2025-05-26,2025-05-26,2024-05-27,2024-11-13,22647,REP 45,REP 45,2024-11-11,364,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+137,OPP - 137 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-04-18,2025-02-12,2025-02-12,22620,REP 3,REP 19,2025-02-10,138,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+138,OPP - 138 - Renewal,Renewal,Stage 4,Core,JAPAN,2025-05-24,2025-05-24,2024-05-23,2025-01-20,22618,REP 5,REP 5,2025-01-20,366,Not Run-Rate,JAPAN,Colin Creevey,Best Case,,Pass
+139,OPP - 139 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-28,2025-07-01,2024-10-17,2024-10-17,22513,REP 8,REP 8,2024-10-14,254,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+140,OPP - 140 - Net New,Net New,Stage 2,Core,EMEA,2025-06-30,2025-01-06,2024-09-05,2024-09-05,22455,REP 9,REP 9,2024-09-02,298,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+141,OPP - 141 - Net New,Net New,Stage 2,Core,EMEA,2025-05-02,2025-05-02,2025-03-27,2025-03-27,22001,REP 46,REP 46,2025-03-24,36,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+142,OPP - 142 - Upsell,Upsell,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-12-20,2024-12-20,21601,REP 25,REP 25,2024-12-16,192,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+143,OPP - 143 - Net New,Net New,Stage 2,Sign,AMER,2025-07-01,2025-06-30,2025-03-18,2025-03-18,21600,REP 47,REP 47,2025-03-17,105,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+144,OPP - 144 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-20,2025-06-20,2025-04-07,2025-04-07,21587,REP 24,REP 24,2025-04-07,74,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+145,OPP - 145 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-20,2025-06-20,2025-04-07,2025-04-07,21587,REP 24,REP 24,2025-04-07,74,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+146,OPP - 146 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-14,2025-04-14,2025-02-21,2025-02-21,21565,REP 30,REP 30,2025-02-17,52,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+147,OPP - 147 - Net New,Net New,Stage 2,Dash,AMER,2025-04-25,2025-04-11,2025-01-15,2025-04-08,21240,REP 4,REP 15,2025-04-07,100,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+148,OPP - 148 - Net New,Net New,Stage 2,Dash,AMER,2025-05-30,2025-03-28,2025-02-25,2025-02-26,21240,REP 4,NOT ASSIGNED,2025-02-24,94,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+149,OPP - 149 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-03-17,2025-03-17,21000,REP 20,REP 20,2025-03-17,105,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+150,OPP - 150 - Net New,Net New,Stage 3,Dash,AMER,2025-06-30,2025-06-30,2024-09-17,2024-09-17,21000,REP 16,REP 36,2024-09-16,286,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+151,OPP - 151 - Net New,Net New,Stage 3,Dash,AMER,2025-05-30,2025-03-28,2025-01-15,2025-01-15,21000,REP 4,NOT ASSIGNED,2025-01-13,135,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+152,OPP - 152 - Net New,Net New,Stage 3,Dash,AMER,2025-06-20,2025-06-20,2025-04-06,2025-04-06,21000,REP 16,REP 43,2025-04-04,75,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+153,OPP - 153 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,20800,REP 14,REP 14,2025-03-31,90,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+154,OPP - 154 - Net New,Net New,Stage 2,Dash,APAC,2025-04-25,2025-04-25,2025-02-24,2025-02-24,20588,REP 16,REP 23,2025-02-24,60,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+155,OPP - 155 - Net New,Net New,Stage 2,Dash,APAC,2025-04-25,2025-04-25,2025-02-28,2025-02-28,20588,REP 4,REP 82,2025-02-24,56,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+156,OPP - 156 - Net New,Net New,Stage 2,Dash,EMEA,2025-09-30,2025-03-31,2025-02-27,2025-02-27,20104,REP 13,NOT ASSIGNED,2025-02-24,215,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+157,OPP - 157 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-21,2025-06-21,2022-06-21,2024-01-29,20012,REP 40,REP 48,2024-01-29,1096,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+158,OPP - 158 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-03-21,2025-03-21,19800,REP 35,REP 35,2025-03-17,101,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+159,OPP - 159 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-04-30,2025-03-27,2025-03-27,19800,REP 35,REP 35,2025-03-24,64,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+160,OPP - 160 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-02-25,2025-02-25,19584,REP 22,REP 22,2025-02-24,125,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+161,OPP - 161 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-30,2025-02-11,2025-02-11,2025-02-11,19500,REP 28,REP 28,2025-02-10,139,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+162,OPP - 162 - Upsell,Upsell,Stage 4,Dash,AMER,2025-05-29,2025-03-31,2025-01-10,2025-01-10,19301,REP 27,REP 22,2025-01-06,139,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+163,OPP - 163 - Net New,Net New,Stage 2,Send,AMER,2025-05-14,2024-09-04,2024-02-01,2024-02-01,19200,REP 48,REP 48,2024-01-29,468,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+164,OPP - 164 - Net New,Net New,Stage 3,Sign,AMER,2025-07-31,2024-02-05,2024-02-05,2024-02-05,19200,REP 10,REP 10,2024-02-05,542,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+165,OPP - 165 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-01-15,2024-07-24,2024-07-24,19080,REP 1,REP 1,2024-07-22,280,Not Run-Rate,AMER,Rubeus Hagrid,Best Case,,Pass
+166,OPP - 166 - Net New,Net New,Stage 3,Dash,EMEA,2025-04-30,2025-04-30,2024-10-15,2024-10-16,18948,REP 13,REP 17,2024-10-14,197,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+167,OPP - 167 - Net New,Net New,Stage 4,Core,AMER,2025-07-31,2025-02-24,2024-12-02,2024-12-02,18720,REP 14,REP 14,2024-12-02,241,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+168,OPP - 168 - Net New,Net New,Stage 3,Core,EMEA,2025-06-30,2025-05-16,2025-01-30,2025-01-30,18496,REP 49,REP 49,2025-01-27,151,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+169,OPP - 169 - Upsell,Upsell,Stage 2,Core,AMER,2025-06-28,2025-06-17,2024-10-21,2024-10-24,18346,REP 36,REP 36,2024-10-21,250,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+170,OPP - 170 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-30,2025-06-30,2022-09-28,2023-11-02,18150,REP 8,REP 8,2023-10-30,1006,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+171,OPP - 171 - Net New,Net New,Stage 2,Dash,APAC,2025-06-20,2025-06-20,2025-02-28,2025-02-28,18060,REP 16,NOT ASSIGNED,2025-02-24,112,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+172,OPP - 172 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-19,2025-07-19,2022-07-14,2023-11-02,18058,REP 19,REP 19,2023-10-30,1101,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+173,OPP - 173 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-07-01,2025-03-21,2025-03-21,18000,REP 50,REP 50,2025-03-17,101,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+174,OPP - 174 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-20,2025-06-20,2025-04-08,2025-04-08,17989,REP 24,REP 24,2025-04-07,73,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+175,OPP - 175 - Net New,Net New,Stage 4,Core,AMER,2025-06-30,2025-06-30,2025-02-19,2025-03-12,17888,REP 14,REP 14,2025-03-10,131,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+176,OPP - 176 - Upsell,Upsell,Stage 2,Dash,EMEA,2025-05-16,2025-05-16,2025-01-09,2025-01-15,17876,REP 13,REP 17,2025-01-13,127,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+177,OPP - 177 - Net New,Net New,Stage 2,Dash,AMER,2025-05-09,2025-05-09,2025-03-25,2025-04-10,17700,REP 4,NOT ASSIGNED,2025-04-07,45,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+178,OPP - 178 - Net New,Net New,Stage 2,Dash,AMER,2025-05-19,2025-05-19,2025-04-04,2025-04-09,17700,REP 4,NOT ASSIGNED,2025-04-07,45,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+179,OPP - 179 - Upsell,Upsell,Stage 2,Dash,EMEA,2025-05-30,2025-04-30,2025-01-09,2025-04-02,17637,REP 13,REP 24,2025-03-31,141,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+180,OPP - 180 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-23,2025-06-23,2024-11-14,2024-11-14,17626,REP 5,REP 5,2024-11-11,221,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+181,OPP - 181 - Renewal,Renewal,Stage 2,Core,EMEA,2025-09-30,2025-09-30,2023-09-29,2024-10-22,17620,REP 46,REP 46,2024-10-21,732,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+182,OPP - 182 - Renewal,Renewal,Stage 2,Dash,EMEA,2025-06-01,2025-06-01,2024-06-13,2025-03-13,17607,REP 51,REP 51,2025-03-10,353,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+183,OPP - 183 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-22,2025-06-22,2025-03-24,2025-03-24,17477,REP 33,REP 33,2025-03-24,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+184,OPP - 184 - Net New,Net New,Stage 3,Sign,AMER,2025-07-01,2025-06-30,2025-03-17,2025-03-17,17280,REP 47,REP 47,2025-03-17,106,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+185,OPP - 185 - Net New,Net New,Stage 5,Sign,AMER,2025-04-30,2025-01-15,2024-09-10,2024-09-10,17279,REP 1,REP 1,2024-09-09,232,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+186,OPP - 186 - Renewal,Renewal,Stage 3,Sign,AMER,2025-06-26,2025-06-26,2024-05-21,2025-03-18,17255,REP 52,REP 52,2025-03-17,401,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+187,OPP - 187 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-09,2025-06-09,2024-06-17,2025-04-04,17238,REP 17,REP 17,2025-03-31,357,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+188,OPP - 188 - Renewal,Renewal,Stage 2,Send,AMER,2025-09-01,2025-09-01,2023-09-06,2023-09-07,17155,REP 44,REP 44,2023-09-04,726,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+189,OPP - 189 - Renewal,Renewal,Stage 3,Core,AMER,2025-09-27,2025-06-05,2024-06-05,2024-06-05,17010,REP 53,REP 53,2024-06-03,479,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+190,OPP - 190 - Net New,Net New,Stage 2,Core,AMER,2025-06-20,2025-06-20,2025-02-18,2025-02-18,16909,REP 43,REP 43,2025-02-17,122,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+191,OPP - 191 - Upsell,Upsell,Stage 2,Core,AMER,2025-07-31,2024-09-30,2024-08-07,2024-08-07,16800,REP 10,REP 10,2024-08-05,358,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+192,OPP - 192 - Upsell,Upsell,Stage 3,Dash,AMER,2025-04-25,2025-04-07,2025-01-10,2025-01-10,16800,REP 16,REP 12,2025-01-06,105,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+193,OPP - 193 - Net New,Net New,Stage 3,Dash,AMER,2025-05-30,2025-05-30,2025-01-15,2025-01-15,16800,REP 16,REP 16,2025-01-13,135,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+194,OPP - 194 - Net New,Net New,Stage 2,Core,EMEA,2025-07-31,2025-07-31,2025-02-04,2025-02-04,16594,REP 17,REP 17,2025-02-03,177,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+195,OPP - 195 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-06-30,2025-04-09,2025-04-09,16535,REP 51,REP 51,2025-04-07,82,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+196,OPP - 196 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-02-27,2025-01-28,2025-01-28,16500,REP 2,REP 2,2025-01-27,153,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+197,OPP - 197 - Net New,Net New,Stage 3,Send,AMER,2025-07-31,2025-07-31,2025-02-10,2025-02-10,16200,REP 10,REP 10,2025-02-10,171,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+198,OPP - 198 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-19,2025-06-19,2024-06-19,2025-03-10,16200,REP 33,REP 33,2025-03-10,365,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+199,OPP - 199 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-16,2025-07-16,2024-07-22,2025-01-29,16177,REP 33,REP 33,2025-01-27,359,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+200,OPP - 200 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-23,2025-05-23,2024-04-26,2025-03-25,16170,REP 54,REP 54,2025-03-24,392,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+201,OPP - 201 - Net New,Net New,Stage 2,Sign,EMEA,2025-05-30,2025-04-01,2024-10-16,2024-10-17,16007,REP 26,REP 26,2024-10-14,226,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+202,OPP - 202 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-07-01,2025-03-06,2025-03-06,15840,REP 2,REP 2,2025-03-03,116,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+203,OPP - 203 - Net New,Net New,Stage 2,Core,AMER,2025-05-23,2025-05-23,2025-04-10,2025-04-10,15840,REP 55,REP 55,2025-04-07,43,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+204,OPP - 204 - Net New,Net New,Stage 2,Core,AMER,2025-04-30,2025-04-14,2025-03-17,2025-03-17,15750,REP 15,REP 15,2025-03-17,44,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+205,OPP - 205 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-19,2025-05-19,2024-05-20,2025-01-22,15732,REP 56,REP 56,2025-01-20,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+206,OPP - 206 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-03,2025-04-03,2025-04-05,2025-04-05,15684,REP 52,REP 52,2025-04-04,-2,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+207,OPP - 207 - Net New,Net New,Stage 4,Sign,AMER,2025-06-30,2025-05-01,2025-03-11,2025-03-13,15678,REP 32,REP 32,2025-03-10,111,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+208,OPP - 208 - Renewal,Renewal,Stage 2,Dash,EMEA,2025-05-09,2025-05-09,2024-05-14,2025-01-16,15600,REP 51,REP 51,2025-01-13,360,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+209,OPP - 209 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,15598,REP 57,REP 57,2025-03-31,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+210,OPP - 210 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2025-09-01,2025-01-16,2025-01-16,15584,REP 7,REP 7,2025-01-13,228,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+211,OPP - 211 - Upsell,Upsell,Stage 3,Dash,EMEA,2025-04-30,2025-04-30,2025-01-09,2025-01-15,15540,REP 13,NOT ASSIGNED,2025-01-13,111,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+212,OPP - 212 - Net New,Net New,Stage 6,Core,AMER,2025-04-15,2025-03-17,2025-01-23,2025-01-23,15435,REP 29,REP 37,2025-01-20,82,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+213,OPP - 213 - Net New,Net New,Stage 2,Sign,APAC,2025-05-30,2024-12-15,2024-09-15,2024-10-07,15422,REP 23,REP 23,2024-10-07,257,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+214,OPP - 214 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-03-30,2024-11-08,2024-11-08,15360,REP 22,REP 22,2024-11-04,234,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+215,OPP - 215 - Renewal,Renewal,Stage 2,Dash,EMEA,2025-06-21,2025-06-21,2024-06-21,2024-09-02,15310,REP 51,REP 51,2024-09-02,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+216,OPP - 216 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-25,2024-07-01,2023-05-14,2023-05-14,15195,REP 11,REP 11,2023-05-12,865,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+217,OPP - 217 - Net New,Net New,Stage 2,Core,JAPAN,2025-07-01,2025-07-01,2025-01-22,2025-01-22,15195,REP 7,REP 7,2025-01-20,160,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+218,OPP - 218 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-08,2025-05-08,2024-05-08,2025-04-03,15075,REP 25,REP 48,2025-03-31,365,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+219,OPP - 219 - Net New,Net New,Stage 2,Core,AMER,2025-07-31,2025-04-01,2025-02-26,2025-02-26,15000,REP 32,REP 32,2025-02-24,155,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+220,OPP - 220 - Net New,Net New,Stage 3,Dash,AMER,2025-07-31,2025-03-28,2025-01-14,2025-01-16,15000,REP 21,REP 48,2025-01-13,198,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+221,OPP - 221 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-03-24,2025-02-27,2025-02-27,15000,REP 28,REP 28,2025-02-24,123,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+222,OPP - 222 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-05-30,2025-03-13,2025-03-13,15000,REP 35,REP 35,2025-03-10,78,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+223,OPP - 223 - Net New,Net New,Stage 2,Dash,AMER,2025-07-01,2025-05-01,2025-03-20,2025-03-20,14868,REP 58,REP 58,2025-03-17,103,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+224,OPP - 224 - Net New,Net New,Stage 3,Dash,AMER,2025-06-01,2025-06-02,2025-04-04,2025-04-04,14868,REP 58,REP 58,2025-03-31,58,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+225,OPP - 225 - Net New,Net New,Stage 3,Sign,AMER,2025-07-31,2025-08-01,2025-01-10,2025-01-10,14818,REP 6,REP 6,2025-01-06,202,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+226,OPP - 226 - Net New,Net New,Stage 2,Sign,AMER,2025-05-30,2025-04-14,2025-03-14,2025-03-14,14784,REP 50,REP 48,2025-03-10,77,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+227,OPP - 227 - Upsell,Upsell,Stage 2,Core,JAPAN,2025-06-30,2025-06-28,2023-07-31,2023-07-31,14587,REP 5,REP 5,2023-07-31,700,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+228,OPP - 228 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-04-30,2025-04-03,2025-04-03,14520,REP 2,REP 2,2025-03-31,88,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+229,OPP - 229 - Upsell,Upsell,Stage 2,Core,AMER,2025-07-31,2024-09-30,2024-10-17,2024-10-17,14400,REP 10,REP 10,2024-10-14,287,Not Run-Rate,AMER,Susan Bones,Omitted,,Pass
+230,OPP - 230 - Net New,Net New,Stage 2,Core,AMER,2025-06-20,2025-02-03,2024-12-11,2024-12-11,14400,REP 42,REP 42,2024-12-09,191,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+231,OPP - 231 - Upsell,Upsell,Stage 4,Dash,APAC,2025-06-13,2025-06-13,2025-02-13,2025-02-13,14400,REP 16,REP 23,2025-02-10,120,Not Run-Rate,APAC,Severus Snape,Best Case,,Pass
+232,OPP - 232 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-20,2025-06-20,2024-08-05,2025-03-19,14280,REP 43,REP 43,2025-03-17,319,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+233,OPP - 233 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-03-24,2024-12-18,2024-12-18,14160,REP 41,REP 41,2024-12-16,194,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+234,OPP - 234 - Net New,Net New,Stage 2,Dash,AMER,2025-06-13,2025-03-13,2025-03-06,2025-04-10,14160,REP 4,REP 81,2025-04-07,99,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+235,OPP - 235 - Net New,Net New,Stage 2,Dash,AMER,2025-05-12,2025-05-12,2025-03-31,2025-04-03,14160,REP 27,REP 83,2025-03-31,42,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+236,OPP - 236 - Net New,Net New,Stage 2,Core,EMEA,2025-07-01,2024-10-31,2024-05-30,2024-05-30,14034,REP 9,REP 9,2024-05-27,397,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+237,OPP - 237 - Net New,Net New,Stage 3,Core,EMEA,2025-09-30,2025-01-31,2024-10-18,2024-10-18,14034,REP 9,REP 9,2024-10-14,347,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+238,OPP - 238 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-01,2025-08-01,2024-08-01,2024-08-20,14004,REP 36,REP 36,2024-08-19,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+239,OPP - 239 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-15,2025-08-15,2022-07-06,2023-11-02,13838,REP 50,REP 50,2023-10-30,1136,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+240,OPP - 240 - Net New,Net New,Stage 2,Send,JAPAN,2025-05-29,2025-06-02,2025-03-11,2025-03-11,13777,REP 11,REP 11,2025-03-10,79,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+241,OPP - 241 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-04-30,2025-03-27,2025-03-27,13642,REP 35,REP 35,2025-03-24,34,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+242,OPP - 242 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-27,2025-06-27,2024-06-28,2025-03-19,13608,REP 42,REP 42,2025-03-17,364,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+243,OPP - 243 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-09,2025-05-09,2024-05-10,2024-05-17,13608,REP 12,REP 12,2024-05-13,364,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+244,OPP - 244 - Renewal,Renewal,Stage 2,Sign,AMER,2025-08-29,2024-03-03,2024-02-13,2024-02-14,13500,REP 41,REP 41,2024-02-12,563,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+245,OPP - 245 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-06,2025-08-06,2024-08-05,2024-08-05,13363,REP 59,REP 59,2024-08-05,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+246,OPP - 246 - Net New,Net New,Stage 2,Sign,AMER,2025-08-29,2025-08-29,2024-07-01,2024-07-01,13200,REP 53,REP 53,2024-07-01,424,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+247,OPP - 247 - Net New,Net New,Stage 2,Sign,AMER,2025-04-30,2025-06-25,2024-11-25,2024-12-09,13200,REP 2,REP 2,2024-12-09,156,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+248,OPP - 248 - Net New,Net New,Stage 2,Sign,JAPAN,2025-04-28,2025-04-28,2024-12-09,2024-12-09,13200,REP 5,REP 5,2024-12-09,140,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+249,OPP - 249 - Net New,Net New,Stage 2,Sign,AMER,2025-05-30,2025-06-01,2025-04-03,2025-04-03,13200,REP 2,REP 2,2025-03-31,57,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+250,OPP - 250 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-04-14,2025-04-08,2025-04-08,12981,REP 15,REP 15,2025-04-07,22,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+251,OPP - 251 - Net New,Net New,Stage 2,Send,AMER,2025-04-01,2025-04-01,2024-02-13,2024-02-13,12960,REP 39,REP 39,2024-02-12,413,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+252,OPP - 252 - Renewal,Renewal,Stage 2,Sign,AMER,2025-06-26,2025-06-26,2024-05-28,2025-04-03,12685,REP 1,REP 1,2025-03-31,394,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+253,OPP - 253 - Renewal,Renewal,Stage 5,Core,JAPAN,2025-06-01,2025-06-01,2024-06-05,2025-02-21,12623,REP 18,REP 18,2025-02-17,361,Not Run-Rate,JAPAN,Colin Creevey,Commit,,Pass
+254,OPP - 254 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-01,2025-07-01,2022-06-21,2023-09-05,12600,REP 36,REP 36,2023-09-04,1106,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+255,OPP - 255 - Upsell,Upsell,Stage 3,Dash,AMER,2025-05-30,2025-03-21,2024-10-24,2024-10-24,12600,REP 16,REP 36,2024-10-21,218,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+256,OPP - 256 - Net New,Net New,Stage 3,Dash,AMER,2025-05-23,2025-05-23,2025-02-06,2025-02-06,12600,REP 16,REP 3,2025-02-03,106,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+257,OPP - 257 - Upsell,Upsell,Stage 3,Dash,AMER,2025-05-30,2025-03-28,2025-01-22,2025-01-22,12501,REP 21,REP 50,2025-01-20,128,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+258,OPP - 258 - Net New,Net New,Stage 5,Core,AMER,2025-05-23,2025-05-01,2024-01-29,2024-02-01,12480,REP 15,REP 15,2024-01-29,480,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+259,OPP - 259 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-04,2025-07-04,2025-04-05,2025-04-05,12462,REP 50,REP 50,2025-04-04,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+260,OPP - 260 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-31,2025-08-31,2024-08-02,2024-08-02,12442,REP 58,REP 58,2024-07-29,394,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+261,OPP - 261 - Net New,Net New,Stage 4,Dash,AMER,2025-07-01,2025-05-01,2025-03-20,2025-03-20,12390,REP 58,REP 58,2025-03-17,103,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+262,OPP - 262 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-17,2025-06-17,2024-06-18,2025-03-10,12285,REP 33,REP 33,2025-03-10,364,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+263,OPP - 263 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-20,2025-06-20,2022-12-28,2023-11-02,12275,REP 43,REP 43,2023-10-30,905,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+264,OPP - 264 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-03-01,2024-02-13,2024-02-15,12197,REP 34,REP 34,2024-02-12,503,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+265,OPP - 265 - Renewal,Renewal,Stage 6,Core,EMEA,2025-06-27,2025-04-30,2023-11-17,2024-02-02,12177,REP 49,REP 49,2024-01-29,588,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+266,OPP - 266 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-22,2025-09-22,2024-10-27,2024-10-27,12156,REP 5,REP 5,2024-10-25,330,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+267,OPP - 267 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-03-01,2025-01-07,2025-01-14,12075,REP 32,REP 32,2025-01-13,143,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+268,OPP - 268 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-24,2025-03-31,2025-02-24,2025-02-24,12063,REP 31,REP 31,2025-02-24,120,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+269,OPP - 269 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-25,2025-06-27,2025-03-20,2025-03-20,12063,REP 31,REP 31,2025-03-17,97,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+270,OPP - 270 - Upsell,Upsell,Stage 3,Core,EMEA,2025-06-18,2025-01-23,2025-01-23,2025-01-23,12057,REP 17,REP 17,2025-01-20,146,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+271,OPP - 271 - Net New,Net New,Stage 2,Dash,AMER,2025-05-30,2025-05-30,2025-03-28,2025-03-28,12000,REP 21,NOT ASSIGNED,2025-03-24,63,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+272,OPP - 272 - Net New,Net New,Stage 3,Dash,AMER,2025-06-30,2025-06-01,2025-04-11,2025-04-11,12000,REP 53,REP 53,2025-04-07,80,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+273,OPP - 273 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-16,2025-04-16,2025-01-16,2025-01-16,11956,REP 23,REP 23,2025-01-13,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+274,OPP - 274 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-03-24,2025-02-25,2025-02-25,11760,REP 28,REP 28,2025-02-24,125,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+275,OPP - 275 - Net New,Net New,Stage 2,Core,JAPAN,2025-04-01,2021-04-28,2021-04-28,2021-04-28,11688,REP 60,REP 11,2021-04-26,1434,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+276,OPP - 276 - Net New,Net New,Stage 2,Sign,AMER,2025-06-13,2025-01-18,2024-12-15,2024-12-18,11550,REP 2,NOT ASSIGNED,2024-12-16,180,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+277,OPP - 277 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-04-16,2025-03-17,2025-03-17,11550,REP 2,REP 2,2025-03-17,105,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+278,OPP - 278 - Net New,Net New,Stage 2,Send,AMER,2025-07-01,2025-04-05,2024-09-18,2024-09-18,11520,REP 47,REP 47,2024-09-16,286,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+279,OPP - 279 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-08,2025-05-08,2024-05-08,2025-03-27,11501,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+280,OPP - 280 - Renewal,Renewal,Stage 5,Core,EMEA,2025-07-04,2025-07-04,2023-11-16,2025-04-05,11405,REP 26,REP 26,2025-04-04,596,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+281,OPP - 281 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-25,2025-09-25,2024-09-25,2024-09-25,11088,REP 6,REP 6,2024-09-23,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+282,OPP - 282 - Net New,Net New,Stage 4,Core,EMEA,2025-05-15,2025-02-28,2024-09-06,2024-09-06,10885,REP 24,REP 24,2024-09-02,251,Not Run-Rate,EMEA,Amelia Bones,Best Case,,Pass
+283,OPP - 283 - Upsell,Upsell,Stage 2,Core,AMER,2025-04-04,2025-02-11,2025-02-11,2025-02-11,10852,REP 43,REP 43,2025-02-10,52,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+284,OPP - 284 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-01,2025-05-30,2024-03-26,2025-03-19,10826,REP 58,REP 58,2025-03-17,401,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+285,OPP - 285 - Net New,Net New,Stage 3,Send,AMER,2025-06-30,2025-06-30,2025-02-25,2025-02-25,10800,REP 33,REP 33,2025-02-24,125,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+286,OPP - 286 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-09,2025-06-09,2024-05-23,2024-05-24,10754,REP 40,REP 40,2024-05-20,382,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+287,OPP - 287 - Net New,Net New,Stage 6,Sign,APAC,2025-04-30,2025-03-31,2025-02-24,2025-02-24,10676,REP 23,REP 23,2025-02-24,65,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+288,OPP - 288 - Net New,Net New,Stage 2,Dash,AMER,2025-05-30,2025-05-05,2025-03-19,2025-04-10,10620,REP 4,NOT ASSIGNED,2025-04-07,72,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+289,OPP - 289 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-05,2025-06-05,2022-02-14,2025-04-03,10560,REP 22,REP 39,2025-03-31,1207,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+290,OPP - 290 - Net New,Net New,Stage 3,Core,AMER,2025-07-31,2025-02-03,2024-04-04,2024-04-05,10530,REP 14,REP 14,2024-04-01,483,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+291,OPP - 291 - Upsell,Upsell,Stage 2,Core,AMER,2025-08-08,2024-08-08,2024-08-08,2024-08-08,10522,REP 36,REP 48,2024-08-05,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+292,OPP - 292 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-01,2025-07-01,2024-06-20,2024-06-20,10520,REP 46,REP 46,2024-06-17,376,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+293,OPP - 293 - Net New,Net New,Stage 2,Dash,AMER,2025-06-04,2025-06-04,2025-03-13,2025-03-13,10500,REP 36,REP 36,2025-03-10,83,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+294,OPP - 294 - Net New,Net New,Stage 2,Dash,AMER,2025-05-16,2025-05-06,2025-03-17,2025-03-17,10500,REP 41,REP 41,2025-03-17,60,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+295,OPP - 295 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-05-23,2025-03-24,2025-03-24,10500,REP 54,REP 54,2025-03-24,98,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+296,OPP - 296 - Net New,Net New,Stage 3,Dash,AMER,2025-06-13,2025-06-13,2025-03-20,2025-03-20,10500,REP 16,REP 81,2025-03-17,85,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+297,OPP - 297 - Net New,Net New,Stage 4,Dash,AMER,2025-06-27,2025-03-21,2025-03-20,2025-03-20,10500,REP 42,REP 42,2025-03-17,99,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+298,OPP - 298 - Renewal,Renewal,Stage 3,Core,EMEA,2025-04-16,2025-04-16,2024-05-31,2025-03-27,10467,REP 46,REP 46,2025-03-24,320,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+299,OPP - 299 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-03-27,2025-03-28,10350,REP 14,REP 14,2025-03-24,95,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+300,OPP - 300 - Net New,Net New,Stage 4,Dash,AMER,2025-06-20,2025-04-07,2025-02-14,2025-02-20,10332,REP 21,REP 81,2025-02-17,126,Not Run-Rate,DASH,Remus Lupin,Best Case,,Pass
+301,OPP - 301 - Renewal,Renewal,Stage 5,Sign,AMER,2025-06-22,2025-06-22,2024-06-25,2024-09-27,10201,REP 33,REP 33,2024-09-23,362,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+302,OPP - 302 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-06-30,2023-12-13,2024-01-04,10164,REP 25,REP 25,2024-01-01,565,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+303,OPP - 303 - Net New,Net New,Stage 3,Sign,EMEA,2025-05-30,2025-03-14,2025-02-27,2025-02-27,10105,REP 9,REP 9,2025-02-24,92,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+304,OPP - 304 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-09,2025-05-09,2025-02-08,2025-02-08,10005,REP 59,REP 59,2025-02-07,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+305,OPP - 305 - Renewal,Renewal,Stage 4,Sign,AMER,2025-06-30,2025-02-24,2025-02-19,2025-02-19,10001,REP 14,REP 14,2025-02-17,131,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+306,OPP - 306 - Upsell,Upsell,Stage 2,Dash,AMER,2025-06-30,2025-01-09,2025-01-09,2025-01-14,10001,REP 4,REP 25,2025-01-13,172,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+307,OPP - 307 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-21,2025-07-21,2024-07-22,2024-11-19,9941,REP 57,REP 57,2024-11-18,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+308,OPP - 308 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-01,2024-12-27,2024-12-27,9900,REP 2,REP 2,2024-12-23,185,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+309,OPP - 309 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-07-01,2025-04-10,2025-04-10,9900,REP 2,NOT ASSIGNED,2025-04-07,81,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+310,OPP - 310 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-02-01,2024-12-05,2024-12-05,9900,REP 2,REP 2,2024-12-02,207,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+311,OPP - 311 - Net New,Net New,Stage 3,Sign,AMER,2025-05-31,2025-06-01,2025-04-03,2025-04-03,9900,REP 2,REP 2,2025-03-31,58,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+312,OPP - 312 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-03-31,2025-02-23,2025-02-24,9900,REP 14,REP 14,2025-02-24,66,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+313,OPP - 313 - Net New,Net New,Stage 4,Dash,APAC,2025-04-28,2025-04-28,2025-03-13,2025-04-03,9882,REP 27,NOT ASSIGNED,2025-03-31,46,Not Run-Rate,DASH,Remus Lupin,Best Case,,Pass
+314,OPP - 314 - Net New,Net New,Stage 2,Core,AMER,2025-07-31,2025-07-31,2025-04-10,2025-04-10,9792,REP 32,REP 32,2025-04-07,112,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+315,OPP - 315 - Upsell,Upsell,Stage 4,Core,AMER,2025-05-31,2025-05-26,2025-03-13,2025-03-13,9641,REP 10,REP 10,2025-03-10,79,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+316,OPP - 316 - Upsell,Upsell,Stage 4,Core,AMER,2025-09-30,2025-08-10,2024-12-03,2024-12-03,9639,REP 43,REP 43,2024-12-02,301,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+317,OPP - 317 - Net New,Net New,Stage 2,Sign,AMER,2025-07-31,2024-04-02,2024-04-02,2024-07-10,9600,REP 10,REP 10,2024-07-08,485,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+318,OPP - 318 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2024-11-01,2024-10-17,2024-10-17,9600,REP 34,REP 34,2024-10-14,256,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+319,OPP - 319 - Net New,Net New,Stage 2,Sign,AMER,2025-07-31,2025-04-30,2025-02-07,2025-02-07,9600,REP 32,REP 32,2025-02-03,174,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+320,OPP - 320 - Net New,Net New,Stage 2,Sign,AMER,2025-07-01,2025-06-30,2025-03-17,2025-03-17,9600,REP 47,REP 47,2025-03-17,106,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+321,OPP - 321 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-07-01,2025-03-20,2025-03-20,9600,REP 50,REP 50,2025-03-17,102,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+322,OPP - 322 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-06-30,2025-03-27,2025-03-27,9600,REP 46,REP 46,2025-03-24,95,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+323,OPP - 323 - Renewal,Renewal,Stage 3,Core,EMEA,2025-05-16,2025-05-09,2024-05-10,2025-02-25,9581,REP 45,REP 45,2025-02-24,371,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+324,OPP - 324 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-01-01,2024-11-12,2024-11-13,9504,REP 2,NOT ASSIGNED,2024-11-11,230,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+325,OPP - 325 - Net New,Net New,Stage 2,Sign,AMER,2025-05-30,2025-03-26,2024-12-12,2024-12-12,9504,REP 50,REP 48,2024-12-09,169,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+326,OPP - 326 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-04-01,2025-02-07,2025-02-07,9504,REP 2,REP 2,2025-02-03,143,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+327,OPP - 327 - Net New,Net New,Stage 2,Sign,AMER,2025-06-27,2025-06-27,2025-03-20,2025-03-20,9504,REP 42,REP 42,2025-03-17,99,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+328,OPP - 328 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-07-01,2025-04-08,2025-04-08,9504,REP 2,NOT ASSIGNED,2025-04-07,83,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+329,OPP - 329 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-04-01,2024-12-10,2024-12-10,9504,REP 2,REP 2,2024-12-09,202,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+330,OPP - 330 - Net New,Net New,Stage 3,Sign,AMER,2025-05-31,2025-05-10,2025-04-10,2025-04-10,9504,REP 2,REP 2,2025-04-07,51,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+331,OPP - 331 - Net New,Net New,Stage 4,Sign,AMER,2025-04-20,2025-06-30,2024-08-23,2025-01-09,9504,REP 47,REP 47,2025-01-06,240,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+332,OPP - 332 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-05-30,2025-02-28,2025-02-28,9450,REP 32,REP 32,2025-02-24,91,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+333,OPP - 333 - Renewal,Renewal,Stage 5,Core,JAPAN,2025-04-28,2025-04-28,2024-04-25,2024-12-11,9370,REP 18,REP 18,2024-12-09,368,Not Run-Rate,JAPAN,Colin Creevey,Commit,,Pass
+334,OPP - 334 - Net New,Net New,Stage 3,Core,AMER,2025-07-01,2024-12-16,2024-10-16,2024-10-16,9360,REP 6,REP 6,2024-10-14,258,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+335,OPP - 335 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-30,2025-04-30,2025-02-07,2025-02-07,9280,REP 22,REP 22,2025-02-03,82,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+336,OPP - 336 - Net New,Net New,Stage 2,Sign,AMER,2025-07-18,2025-08-01,2025-01-31,2025-01-31,9266,REP 36,REP 36,2025-01-27,168,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+337,OPP - 337 - Renewal,Renewal,Stage 5,Core,AMER,2025-09-01,2025-04-30,2024-09-01,2024-11-14,9216,REP 54,REP 54,2024-11-11,365,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+338,OPP - 338 - Renewal,Renewal,Stage 2,Dash,EMEA,2025-08-01,2025-08-01,2024-06-27,2024-11-08,9186,REP 24,REP 24,2024-11-04,400,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+339,OPP - 339 - Net New,Net New,Stage 2,Send,JAPAN,2025-09-30,2025-06-30,2025-01-21,2025-01-21,9184,REP 18,REP 18,2025-01-20,252,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+340,OPP - 340 - Net New,Net New,Stage 3,Core,EMEA,2025-06-25,2024-10-31,2024-07-11,2024-07-11,9122,REP 17,REP 17,2024-07-08,349,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+341,OPP - 341 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-03-31,2025-01-22,2025-02-06,9060,REP 15,REP 15,2025-02-03,128,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+342,OPP - 342 - Net New,Net New,Stage 2,Core,AMER,2025-05-30,2025-05-30,2024-03-19,2024-03-19,9000,REP 44,REP 44,2024-03-18,437,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+343,OPP - 343 - Net New,Net New,Stage 3,Dash,AMER,2025-06-13,2025-04-11,2025-01-22,2025-01-22,9000,REP 21,REP 19,2025-01-20,142,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+344,OPP - 344 - Renewal,Renewal,Stage 5,Sign,AMER,2025-05-19,2025-05-19,2024-06-11,2025-02-21,8986,REP 8,REP 8,2025-02-17,342,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+345,OPP - 345 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-01,2025-05-01,2025-01-31,2025-01-31,8925,REP 37,REP 37,2025-01-27,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+346,OPP - 346 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-25,2025-04-25,2025-03-25,2025-03-31,8880,REP 33,REP 33,2025-03-31,31,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+347,OPP - 347 - Net New,Net New,Stage 2,Dash,APAC,2025-04-30,2025-03-31,2024-11-14,2024-11-14,8824,REP 23,REP 23,2024-11-11,167,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+348,OPP - 348 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-30,2025-06-30,2024-09-02,2024-09-02,8766,REP 5,REP 5,2024-09-02,301,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+349,OPP - 349 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-01,2025-07-01,2022-08-03,2023-11-02,8760,REP 8,REP 8,2023-10-30,1063,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+350,OPP - 350 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-04-01,2025-03-27,2025-03-27,8736,REP 8,REP 8,2025-03-24,95,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+351,OPP - 351 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-26,2025-04-26,2025-01-26,2025-01-26,8700,REP 62,REP 62,2025-01-24,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+352,OPP - 352 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-20,2026-01-03,2025-01-03,2025-02-26,8686,REP 43,REP 43,2025-02-24,168,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+353,OPP - 353 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-03-31,2025-01-24,2025-01-24,8640,REP 22,REP 22,2025-01-20,157,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+354,OPP - 354 - Net New,Net New,Stage 2,Core,AMER,2025-04-30,2025-04-30,2025-04-08,2025-04-08,8640,REP 32,REP 32,2025-04-07,22,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+355,OPP - 355 - Upsell,Upsell,Stage 2,Dash,EMEA,2025-06-30,2024-12-03,2024-12-03,2024-12-03,8616,REP 31,REP 31,2024-12-02,209,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+356,OPP - 356 - Upsell,Upsell,Stage 2,Dash,EMEA,2025-06-30,2024-12-20,2024-12-20,2024-12-20,8616,REP 31,REP 31,2024-12-16,192,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+357,OPP - 357 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-03-31,2024-10-23,2024-12-19,8616,REP 13,REP 17,2024-12-16,250,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+358,OPP - 358 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-07-01,2024-11-19,2024-11-19,8616,REP 31,REP 31,2024-11-18,223,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+359,OPP - 359 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-01-30,2024-11-19,2024-11-19,8616,REP 31,REP 31,2024-11-18,223,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+360,OPP - 360 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-07-01,2025-02-24,2025-02-24,8616,REP 31,REP 31,2025-02-24,126,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+361,OPP - 361 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-25,2025-06-26,2025-04-02,2025-04-02,8616,REP 31,REP 31,2025-03-31,84,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+362,OPP - 362 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-12,2025-04-12,2024-04-12,2025-01-16,8586,REP 54,REP 54,2025-01-13,365,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+363,OPP - 363 - Net New,Net New,Stage 2,Dash,EMEA,2025-05-31,2025-03-31,2025-02-27,2025-02-27,8574,REP 13,REP 46,2025-02-24,93,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+364,OPP - 364 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-03-31,2025-02-27,2025-02-27,8574,REP 13,REP 46,2025-02-24,123,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+365,OPP - 365 - Net New,Net New,Stage 2,Dash,EMEA,2025-05-29,2025-03-31,2025-02-27,2025-02-27,8574,REP 13,REP 46,2025-02-24,91,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+366,OPP - 366 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-03-01,2025-01-27,2025-01-27,8554,REP 35,REP 35,2025-01-27,154,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+367,OPP - 367 - Net New,Net New,Stage 2,Dash,AMER,2025-07-18,2025-07-18,2025-03-14,2025-03-14,8496,REP 3,REP 3,2025-03-10,126,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+368,OPP - 368 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-03-31,2025-02-20,2025-02-20,8446,REP 35,REP 35,2025-02-17,99,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+369,OPP - 369 - Net New,Net New,Stage 5,Sign,AMER,2025-04-18,2025-04-18,2025-04-03,2025-04-03,8415,REP 2,REP 2,2025-03-31,15,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+370,OPP - 370 - Net New,Net New,Stage 2,Core,AMER,2025-06-27,2025-03-03,2024-08-16,2024-08-16,8400,REP 39,REP 39,2024-08-12,315,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+371,OPP - 371 - Net New,Net New,Stage 2,Dash,AMER,2025-05-16,2025-04-21,2025-03-07,2025-04-08,8400,REP 21,NOT ASSIGNED,2025-04-07,70,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+372,OPP - 372 - Net New,Net New,Stage 2,Dash,AMER,2025-04-17,2025-05-16,2025-03-21,2025-03-21,8400,REP 20,REP 39,2025-03-17,27,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+373,OPP - 373 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-15,2025-05-15,2024-05-15,2025-03-27,8400,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+374,OPP - 374 - Upsell,Upsell,Stage 3,Dash,AMER,2025-06-27,2025-04-25,2025-01-15,2025-01-15,8400,REP 16,NOT ASSIGNED,2025-01-13,163,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+375,OPP - 375 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2024-10-07,2024-09-11,2024-09-11,8400,REP 8,REP 8,2024-09-09,292,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+376,OPP - 376 - Net New,Net New,Stage 3,Dash,AMER,2025-09-30,2025-05-31,2025-01-30,2025-01-30,8400,REP 10,REP 10,2025-01-27,243,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+377,OPP - 377 - Net New,Net New,Stage 3,Dash,AMER,2025-06-30,2025-04-04,2025-02-18,2025-03-04,8400,REP 63,REP 63,2025-03-03,132,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+378,OPP - 378 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-07,2025-09-07,2022-09-07,2022-09-07,8375,REP 58,REP 58,2022-09-05,1096,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+379,OPP - 379 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-20,2025-06-20,2024-12-16,2025-03-19,8304,REP 43,REP 43,2025-03-17,186,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+380,OPP - 380 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-30,2025-04-09,2024-09-18,2024-09-19,8270,REP 36,REP 36,2024-09-16,224,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+381,OPP - 381 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-28,2025-04-28,2024-04-29,2025-04-08,8262,REP 55,REP 55,2025-04-07,364,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+382,OPP - 382 - Renewal,Renewal,Stage 2,Core,EMEA,2025-08-04,2025-08-04,2024-07-29,2024-07-29,8208,REP 51,REP 51,2024-07-29,371,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+383,OPP - 383 - Upsell,Upsell,Stage 2,Core,AMER,2025-07-31,2024-12-30,2024-10-16,2024-10-16,8160,REP 10,REP 10,2024-10-14,288,Not Run-Rate,AMER,Susan Bones,Omitted,,Pass
+384,OPP - 384 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-03,2025-06-03,2024-06-02,2025-03-19,8064,REP 43,REP 43,2025-03-17,366,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+385,OPP - 385 - Net New,Net New,Stage 2,Dash,EMEA,2025-04-30,2025-03-31,2025-02-26,2025-02-26,8042,REP 13,REP 68,2025-02-24,63,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+386,OPP - 386 - Net New,Net New,Stage 2,Dash,EMEA,2025-04-30,2025-03-31,2025-02-26,2025-02-26,8042,REP 13,REP 26,2025-02-24,63,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+387,OPP - 387 - Net New,Net New,Stage 2,Dash,EMEA,2025-07-31,2025-07-31,2025-03-20,2025-03-20,8042,REP 49,REP 49,2025-03-17,133,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+388,OPP - 388 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-06-30,2025-03-21,2025-03-21,8042,REP 13,NOT ASSIGNED,2025-03-17,101,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+389,OPP - 389 - Net New,Net New,Stage 6,Core,AMER,2025-04-17,2025-04-10,2025-04-02,2025-04-02,8008,REP 14,REP 14,2025-03-31,15,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+390,OPP - 390 - Net New,Net New,Stage 5,Sign,EMEA,2025-06-30,2025-01-06,2024-07-11,2024-07-11,8003,REP 9,REP 9,2024-07-08,354,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+391,OPP - 391 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-03-21,2025-03-24,8000,REP 14,REP 14,2025-03-24,101,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+392,OPP - 392 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-03-10,2025-03-11,8000,REP 14,REP 14,2025-03-10,112,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+393,OPP - 393 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-29,2025-06-29,2024-06-18,2025-01-22,7805,REP 10,REP 10,2025-01-20,376,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+394,OPP - 394 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-13,2025-05-13,2024-05-13,2025-03-27,7788,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+395,OPP - 395 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-23,2025-04-23,2024-04-23,2025-04-10,7740,REP 35,REP 35,2025-04-07,365,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+396,OPP - 396 - Renewal,Renewal,Stage 6,Sign,AMER,2025-06-28,2025-06-28,2024-06-28,2024-08-16,7688,REP 1,REP 1,2024-08-12,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+397,OPP - 397 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-06,2025-05-06,2025-02-07,2025-02-07,7682,REP 41,REP 41,2025-02-03,88,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+398,OPP - 398 - Upsell,Upsell,Stage 2,Core,EMEA,2025-06-06,2025-06-06,2025-03-20,2025-03-20,7680,REP 17,REP 17,2025-03-17,78,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+399,OPP - 399 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-09,2025-04-09,2025-04-11,2025-04-11,7603,REP 1,REP 1,2025-04-07,-2,Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+400,OPP - 400 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-10,2025-06-10,2024-06-24,2024-12-12,7595,REP 59,REP 59,2024-12-09,351,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+401,OPP - 401 - Net New,Net New,Stage 2,Core,AMER,2025-04-14,2025-03-31,2025-02-26,2025-02-26,7500,REP 20,REP 20,2025-02-24,47,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+402,OPP - 402 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-14,2025-05-14,2024-05-14,2025-01-16,7488,REP 51,REP 51,2025-01-13,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+403,OPP - 403 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-08,2025-06-08,2025-03-12,2025-03-12,7395,REP 10,REP 10,2025-03-10,88,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+404,OPP - 404 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-31,2025-05-31,2024-05-31,2025-02-20,7392,REP 22,REP 22,2025-02-17,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+405,OPP - 405 - Upsell,Upsell,Stage 3,Core,AMER,2025-05-30,2025-02-03,2024-11-26,2024-11-26,7373,REP 50,REP 50,2024-11-25,185,Not Run-Rate,AMER,Harry Potter,Omitted,,Pass
+406,OPP - 406 - Net New,Net New,Stage 2,Dash,EMEA,2025-05-30,2025-05-30,2025-03-07,2025-03-07,7349,REP 13,REP 46,2025-03-03,84,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+407,OPP - 407 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-11,2025-03-17,2024-12-28,2024-12-28,7245,REP 10,REP 37,2024-12-27,104,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+408,OPP - 408 - Net New,Net New,Stage 2,Send,AMER,2025-05-30,2025-05-30,2024-03-22,2024-03-22,7200,REP 44,REP 44,2024-03-18,434,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+409,OPP - 409 - Net New,Net New,Stage 2,Core,AMER,2025-09-30,2024-12-18,2024-10-25,2024-10-25,7200,REP 40,REP 40,2024-10-21,340,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+410,OPP - 410 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-04-19,2025-01-28,2025-01-28,7200,REP 2,REP 2,2025-01-27,153,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+411,OPP - 411 - Net New,Net New,Stage 5,Dash,AMER,2025-06-30,2025-04-21,2025-01-10,2025-03-26,7200,REP 50,REP 50,2025-03-24,171,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+412,OPP - 412 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-26,2025-05-26,2024-05-26,2025-03-04,7164,REP 64,REP 64,2025-03-03,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+413,OPP - 413 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-15,2025-06-15,2024-06-11,2024-11-18,7152,REP 59,REP 59,2024-11-18,369,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+414,OPP - 414 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-15,2025-05-15,2024-05-15,2025-01-27,7134,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+415,OPP - 415 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-18,2025-04-18,2024-04-18,2024-12-19,7128,REP 64,REP 64,2024-12-16,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+416,OPP - 416 - Net New,Net New,Stage 3,Sign,AMER,2025-04-30,2025-04-30,2025-03-25,2025-03-25,7128,REP 36,REP 36,2025-03-24,36,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+417,OPP - 417 - Net New,Net New,Stage 2,Send,EMEA,2025-05-29,2024-12-05,2024-11-18,2024-11-18,7021,REP 31,REP 31,2024-11-18,192,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+418,OPP - 418 - Renewal,Renewal,Stage 2,Core,EMEA,2025-04-20,2025-04-20,2024-04-20,2024-12-23,7020,REP 51,REP 51,2024-12-23,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+419,OPP - 419 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-20,2025-06-20,2024-06-20,2025-02-25,7008,REP 56,REP 56,2025-02-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+420,OPP - 420 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-30,2025-06-30,2024-05-29,2024-05-30,7008,REP 53,REP 53,2024-05-27,397,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+421,OPP - 421 - Net New,Net New,Stage 5,Core,EMEA,2025-05-15,2025-03-03,2025-02-24,2025-02-24,6985,REP 26,REP 26,2025-02-24,80,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+422,OPP - 422 - Net New,Net New,Stage 3,Core,AMER,2025-06-13,2025-06-13,2024-04-25,2024-04-25,6975,REP 44,REP 44,2024-04-22,414,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+423,OPP - 423 - Net New,Net New,Stage 3,Send,AMER,2025-09-30,2025-09-30,2023-02-23,2023-02-23,6912,REP 25,REP 25,2023-02-20,950,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+424,OPP - 424 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-01,2025-06-01,2024-06-20,2025-03-20,6912,REP 33,REP 19,2025-03-17,346,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+425,OPP - 425 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-06-30,2025-03-20,2025-03-21,6900,REP 14,REP 14,2025-03-17,102,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+426,OPP - 426 - Net New,Net New,Stage 3,Core,EMEA,2025-05-20,2023-12-05,2023-09-11,2023-09-11,6893,REP 31,REP 31,2023-09-11,617,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+427,OPP - 427 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-16,2025-06-16,2024-06-18,2024-08-27,6890,REP 17,REP 17,2024-08-26,363,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+428,OPP - 428 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-31,2025-05-31,2025-03-02,2025-03-02,6860,REP 46,REP 46,2025-02-28,90,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+429,OPP - 429 - Upsell,Upsell,Stage 2,Core,AMER,2025-06-30,2025-02-26,2025-02-26,2025-02-26,6854,REP 40,REP 40,2025-02-24,124,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+430,OPP - 430 - Renewal,Renewal,Stage 2,Core,JAPAN,2025-07-29,2025-07-29,2022-09-22,2023-11-02,6796,REP 11,REP 11,2023-10-30,1041,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+431,OPP - 431 - Upsell,Upsell,Stage 3,Core,AMER,2025-04-30,2025-05-01,2025-02-21,2025-02-21,6768,REP 50,REP 47,2025-02-17,68,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+432,OPP - 432 - Net New,Net New,Stage 5,Core,EMEA,2025-06-30,2025-02-28,2025-01-24,2025-01-24,6767,REP 9,REP 9,2025-01-20,157,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+433,OPP - 433 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,6688,REP 19,REP 19,2025-03-31,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+434,OPP - 434 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-30,2025-06-30,2025-01-13,2025-02-13,6651,REP 25,REP 25,2025-02-10,168,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+435,OPP - 435 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-18,2025-04-18,2024-04-25,2025-03-26,6615,REP 43,REP 43,2025-03-24,358,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+436,OPP - 436 - Upsell,Upsell,Stage 2,Core,EMEA,2025-05-30,2024-06-24,2024-03-27,2024-03-27,6614,REP 51,REP 51,2024-03-25,429,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+437,OPP - 437 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-29,2025-04-29,2024-04-29,2024-04-29,6554,REP 50,REP 50,2024-04-29,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+438,OPP - 438 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-06-30,2025-04-10,2025-04-10,6552,REP 14,REP 14,2025-04-07,81,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+439,OPP - 439 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-14,2025-06-14,2024-05-14,2025-02-17,6519,REP 51,REP 51,2025-02-17,396,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+440,OPP - 440 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-16,2025-05-16,2024-05-16,2024-07-19,6480,REP 65,REP 65,2024-07-15,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+441,OPP - 441 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-29,2025-04-29,2024-04-29,2024-12-30,6480,REP 64,REP 64,2024-12-30,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+442,OPP - 442 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-23,2025-05-23,2024-05-23,2025-02-19,6480,REP 64,REP 64,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+443,OPP - 443 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-30,2025-06-30,2024-07-08,2024-07-08,6476,REP 47,REP 47,2024-07-08,357,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+444,OPP - 444 - Net New,Net New,Stage 2,Dash,APAC,2025-05-30,2025-05-30,2025-04-06,2025-04-06,6471,REP 23,REP 23,2025-04-04,54,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+445,OPP - 445 - Renewal,Renewal,Stage 4,Core,AMER,2025-04-30,2025-04-30,2024-04-30,2024-12-31,6444,REP 64,REP 64,2024-12-30,365,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+446,OPP - 446 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-08,2025-05-08,2024-05-08,2025-02-06,6432,REP 64,REP 64,2025-02-03,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+447,OPP - 447 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-04-14,2025-03-27,2025-03-27,6420,REP 35,REP 35,2025-03-24,34,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+448,OPP - 448 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-03-04,2025-03-05,6400,REP 14,REP 14,2025-03-03,118,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+449,OPP - 449 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-19,2025-05-19,2024-05-19,2025-01-22,6384,REP 56,REP 56,2025-01-20,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+450,OPP - 450 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-07,2025-05-07,2024-05-07,2024-06-14,6322,REP 65,REP 65,2024-06-10,365,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+451,OPP - 451 - Net New,Net New,Stage 2,Dash,AMER,2025-06-20,2025-06-20,2025-04-01,2025-04-01,6300,REP 42,REP 42,2025-03-31,80,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+452,OPP - 452 - Upsell,Upsell,Stage 5,Core,APAC,2025-05-29,2025-05-29,2025-02-28,2025-02-28,6248,REP 23,REP 23,2025-02-24,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+453,OPP - 453 - Net New,Net New,Stage 2,Sign,AMER,2025-05-14,2025-02-21,2025-01-13,2025-04-10,6240,REP 65,REP 65,2025-04-07,121,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+454,OPP - 454 - Net New,Net New,Stage 3,Dash,AMER,2025-06-30,2025-06-30,2025-03-17,2025-03-17,6200,REP 25,REP 25,2025-03-17,105,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+455,OPP - 455 - Net New,Net New,Stage 2,Sign,JAPAN,2025-09-22,2025-09-22,2024-11-28,2024-11-29,6129,REP 5,REP 5,2024-11-25,298,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+456,OPP - 456 - Net New,Net New,Stage 2,Sign,JAPAN,2025-07-07,2025-07-07,2025-03-18,2025-03-18,6129,REP 5,REP 5,2025-03-17,111,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+457,OPP - 457 - Net New,Net New,Stage 2,Dash,EMEA,2025-09-30,2025-09-30,2024-11-27,2024-11-27,6124,REP 13,REP 17,2024-11-25,307,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+458,OPP - 458 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2024-12-20,2024-12-12,2024-12-12,6124,REP 13,REP 17,2024-12-09,200,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+459,OPP - 459 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-03-30,2025-02-26,2025-02-26,6124,REP 13,REP 24,2025-02-24,124,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+460,OPP - 460 - Net New,Net New,Stage 3,Sign,EMEA,2025-05-30,2024-11-19,2024-05-21,2024-05-21,6124,REP 51,REP 51,2024-05-20,374,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+461,OPP - 461 - Net New,Net New,Stage 3,Core,JAPAN,2025-06-28,2025-06-28,2023-11-06,2023-11-06,6078,REP 7,REP 7,2023-11-06,600,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+462,OPP - 462 - Net New,Net New,Stage 2,Dash,EMEA,2025-09-30,2025-09-30,2025-01-28,2025-01-28,6063,REP 13,REP 24,2025-01-27,245,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+463,OPP - 463 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-08,2025-05-08,2024-05-08,2024-11-20,6002,REP 51,REP 51,2024-11-18,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+464,OPP - 464 - Net New,Net New,Stage 2,Core,AMER,2025-07-31,2025-04-01,2025-02-25,2025-04-02,6000,REP 32,REP 32,2025-03-31,156,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+465,OPP - 465 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-03-28,2025-02-27,2025-02-27,6000,REP 27,REP 40,2025-02-24,123,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+466,OPP - 466 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-06-30,2025-03-14,2025-03-14,6000,REP 40,NOT ASSIGNED,2025-03-10,108,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+467,OPP - 467 - Net New,Net New,Stage 2,Dash,AMER,2025-09-30,2025-09-30,2025-03-14,2025-03-14,6000,REP 40,REP 40,2025-03-10,200,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+468,OPP - 468 - Net New,Net New,Stage 2,Dash,AMER,2025-08-29,2025-08-22,2025-04-08,2025-04-08,6000,REP 21,NOT ASSIGNED,2025-04-07,143,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+469,OPP - 469 - Net New,Net New,Stage 2,Dash,AMER,2025-05-11,2025-05-11,2025-04-09,2025-04-09,6000,REP 47,REP 47,2025-04-07,32,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+470,OPP - 470 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-06-30,2025-04-09,2025-04-09,6000,REP 52,REP 52,2025-04-07,82,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+471,OPP - 471 - Net New,Net New,Stage 2,Dash,AMER,2025-09-30,2025-09-30,2025-04-09,2025-04-09,6000,REP 52,REP 52,2025-04-07,174,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+472,OPP - 472 - Upsell,Upsell,Stage 3,Core,AMER,2025-04-01,2024-10-16,2024-10-16,2024-10-16,6000,REP 19,REP 19,2024-10-14,167,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+473,OPP - 473 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-02-28,2025-01-16,2025-01-16,6000,REP 1,REP 1,2025-01-13,104,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+474,OPP - 474 - Net New,Net New,Stage 4,Sign,AMER,2025-07-01,2025-04-16,2025-02-26,2025-02-26,6000,REP 47,REP 47,2025-02-24,125,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+475,OPP - 475 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-01,2025-05-01,2024-05-01,2025-01-31,6000,REP 57,REP 57,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+476,OPP - 476 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-22,2024-10-15,2024-08-22,2024-10-08,5976,REP 15,NOT ASSIGNED,2024-10-07,365,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+477,OPP - 477 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-31,2025-05-31,2024-04-17,2024-04-17,5962,REP 36,REP 36,2024-04-15,409,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+478,OPP - 478 - Renewal,Renewal,Stage 6,Core,AMER,2025-06-23,2025-06-23,2024-06-25,2025-02-24,5952,REP 53,REP 53,2025-02-24,363,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+479,OPP - 479 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-03-31,2025-02-27,2025-02-27,5940,REP 40,REP 40,2025-02-24,123,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+480,OPP - 480 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-24,2025-06-24,2024-06-25,2025-03-29,5940,REP 29,REP 19,2025-03-28,364,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+481,OPP - 481 - Net New,Net New,Stage 5,Sign,AMER,2025-05-01,2025-04-01,2025-03-24,2025-03-24,5940,REP 2,REP 84,2025-03-24,38,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+482,OPP - 482 - Net New,Net New,Stage 5,Sign,AMER,2025-05-01,2025-04-01,2025-04-10,2025-04-10,5940,REP 2,REP 84,2025-04-07,21,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+483,OPP - 483 - Net New,Net New,Stage 5,Sign,AMER,2025-05-01,2025-04-01,2025-04-10,2025-04-10,5940,REP 2,REP 84,2025-04-07,21,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+484,OPP - 484 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-21,2025-06-21,2025-03-23,2025-03-23,5913,REP 53,REP 53,2025-03-21,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+485,OPP - 485 - Net New,Net New,Stage 3,Core,JAPAN,2025-06-30,2025-01-01,2024-07-09,2024-07-09,5891,REP 18,REP 18,2024-07-08,356,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+486,OPP - 486 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-02,2025-07-02,2025-04-03,2025-04-03,5796,REP 39,REP 39,2025-03-31,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+487,OPP - 487 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-02-27,2025-02-27,5760,REP 25,REP 25,2025-02-24,123,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+488,OPP - 488 - Net New,Net New,Stage 3,Dash,EMEA,2025-06-30,2025-03-31,2025-02-26,2025-02-26,5744,REP 31,REP 31,2025-02-24,124,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+489,OPP - 489 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-16,2025-04-18,2022-11-30,2023-08-08,5655,REP 3,REP 3,2023-08-07,898,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+490,OPP - 490 - Net New,Net New,Stage 3,Core,EMEA,2025-05-31,2024-08-31,2024-06-18,2024-06-18,5616,REP 66,NOT ASSIGNED,2024-06-17,347,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+491,OPP - 491 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-27,2025-06-27,2025-02-07,2025-03-20,5580,REP 43,REP 43,2025-03-17,140,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+492,OPP - 492 - Upsell,Upsell,Stage 2,Dash,EMEA,2025-09-30,2025-03-14,2025-01-15,2025-01-15,5512,REP 13,REP 24,2025-01-13,258,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+493,OPP - 493 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-14,2025-06-14,2024-06-06,2025-02-17,5512,REP 51,REP 51,2025-02-17,373,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+494,OPP - 494 - Net New,Net New,Stage 3,Dash,EMEA,2025-04-30,2025-03-31,2024-12-17,2024-12-17,5512,REP 13,REP 51,2024-12-16,134,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+495,OPP - 495 - Net New,Net New,Stage 2,Dash,AMER,2025-06-16,2025-06-16,2025-04-08,2025-04-08,5448,REP 3,REP 19,2025-04-07,69,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+496,OPP - 496 - Net New,Net New,Stage 6,Core,AMER,2025-04-11,2025-04-10,2025-03-05,2025-03-06,5440,REP 14,REP 14,2025-03-03,37,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+497,OPP - 497 - Net New,Net New,Stage 2,Send,AMER,2025-06-30,2025-05-01,2025-04-08,2025-04-08,5400,REP 53,REP 53,2025-04-07,83,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+498,OPP - 498 - Net New,Net New,Stage 3,Send,AMER,2025-07-31,2025-03-31,2025-01-23,2025-01-29,5400,REP 32,REP 32,2025-01-27,189,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+499,OPP - 499 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-25,2025-04-25,2025-01-25,2025-01-25,5400,REP 33,REP 33,2025-01-24,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+500,OPP - 500 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-01,2025-05-01,2025-02-02,2025-02-02,5400,REP 47,REP 47,2025-01-31,149,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+501,OPP - 501 - Net New,Net New,Stage 2,Sign,AMER,2025-04-30,2025-04-30,2024-10-16,2024-10-16,5280,REP 50,REP 50,2024-10-14,196,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+502,OPP - 502 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-01,2025-03-27,2025-03-27,5280,REP 2,REP 2,2025-03-24,95,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+503,OPP - 503 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-05-11,2025-04-11,2025-04-11,5280,REP 2,REP 2,2025-04-07,80,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+504,OPP - 504 - Net New,Net New,Stage 3,Sign,AMER,2025-04-30,2025-03-31,2024-08-09,2024-08-09,5280,REP 2,REP 84,2024-08-05,264,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+505,OPP - 505 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-15,2025-04-15,2025-01-16,2025-01-16,5280,REP 28,REP 28,2025-01-13,89,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+506,OPP - 506 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-19,2025-06-19,2024-05-06,2024-11-21,5251,REP 51,REP 51,2024-11-18,409,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+507,OPP - 507 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-17,2025-06-17,2022-07-15,2024-09-17,5232,REP 8,REP 8,2024-09-16,1068,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+508,OPP - 508 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-24,2025-08-24,2022-08-24,2022-09-15,5148,REP 43,REP 43,2022-09-12,1096,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+509,OPP - 509 - Renewal,Renewal,Stage 5,Core,EMEA,2025-04-29,2025-04-29,2024-04-30,2024-12-30,5136,REP 51,REP 51,2024-12-30,364,Not Run-Rate,EMEA,Cho Chang,Commit,,Pass
+510,OPP - 510 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-15,2025-04-15,2025-01-16,2025-01-16,5099,REP 25,REP 25,2025-01-13,89,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+511,OPP - 511 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-02-10,2025-01-23,2025-01-23,5069,REP 35,REP 35,2025-01-20,97,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+512,OPP - 512 - Renewal,Renewal,Stage 5,Core,EMEA,2025-06-30,2026-04-06,2024-12-02,2025-03-21,5055,REP 49,REP 49,2025-03-17,210,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+513,OPP - 513 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-15,2025-05-15,2024-05-13,2025-03-17,5040,REP 42,REP 42,2025-03-17,367,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+514,OPP - 514 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-03,2025-06-03,2024-06-07,2024-09-30,5040,REP 8,REP 8,2024-09-30,361,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+515,OPP - 515 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-28,2025-05-28,2024-05-28,2025-02-26,5037,REP 51,REP 51,2025-02-24,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+516,OPP - 516 - Net New,Net New,Stage 2,Dash,AMER,2025-04-23,2025-04-23,2025-03-18,2025-03-18,5000,REP 25,REP 62,2025-03-17,36,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+517,OPP - 517 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-06-30,2025-03-21,2025-03-21,5000,REP 25,REP 25,2025-03-17,101,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+518,OPP - 518 - Renewal,Renewal,Stage 2,Dash,AMER,2025-08-17,2025-08-17,2024-08-12,2025-04-08,5000,REP 25,REP 25,2025-04-07,370,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+519,OPP - 519 - Net New,Net New,Stage 4,Dash,AMER,2025-04-30,2025-04-30,2024-12-05,2024-12-11,5000,REP 27,REP 25,2024-12-09,146,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+520,OPP - 520 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-03-11,2024-11-20,2024-11-26,5000,REP 27,REP 36,2024-11-25,222,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+521,OPP - 521 - Renewal,Renewal,Stage 5,Core,EMEA,2025-06-19,2025-06-19,2024-07-29,2023-09-29,4946,REP 31,REP 31,2023-09-25,325,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+522,OPP - 522 - Upsell,Upsell,Stage 5,Sign,AMER,2025-06-30,2025-02-22,2025-03-18,2025-03-18,4942,REP 33,REP 33,2025-03-17,104,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+523,OPP - 523 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-03-10,2025-02-28,2025-03-31,4932,REP 15,REP 15,2025-03-31,91,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+524,OPP - 524 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-03-31,2025-02-24,2025-02-25,4928,REP 14,REP 14,2025-02-24,126,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+525,OPP - 525 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-01,2025-06-01,2024-06-01,2025-02-07,4920,REP 56,REP 56,2025-02-03,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+526,OPP - 526 - Net New,Net New,Stage 2,Core,AMER,2025-07-19,2025-07-19,2024-10-17,2025-02-11,4896,REP 59,REP 59,2025-02-10,275,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+527,OPP - 527 - Net New,Net New,Stage 2,Sign,EMEA,2025-05-29,2025-06-01,2025-04-09,2025-04-09,4851,REP 31,REP 31,2025-04-07,50,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+528,OPP - 528 - Renewal,Renewal,Stage 6,Core,EMEA,2025-07-10,2025-07-10,2024-07-10,2025-02-18,4841,REP 9,REP 9,2025-02-17,365,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+529,OPP - 529 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-22,2025-06-22,2025-03-24,2025-03-24,4838,REP 6,REP 6,2025-03-24,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+530,OPP - 530 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-15,2025-06-15,2025-03-20,2025-03-20,4830,REP 33,REP 33,2025-03-17,87,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+531,OPP - 531 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-19,2025-07-19,2024-06-20,2025-03-21,4823,REP 51,REP 51,2025-03-17,394,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+532,OPP - 532 - Net New,Net New,Stage 2,Sign,AMER,2025-06-07,2024-06-27,2024-03-21,2024-03-21,4800,REP 64,REP 64,2024-03-18,443,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+533,OPP - 533 - Net New,Net New,Stage 2,Core,AMER,2025-07-01,2024-09-09,2024-07-29,2024-07-29,4800,REP 47,REP 47,2024-07-29,337,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+534,OPP - 534 - Net New,Net New,Stage 2,Sign,AMER,2025-07-08,2024-12-23,2024-10-17,2024-10-17,4800,REP 64,REP 64,2024-10-14,264,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+535,OPP - 535 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-05-01,2025-03-17,2025-03-17,4800,REP 50,REP 50,2025-03-17,105,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+536,OPP - 536 - Net New,Net New,Stage 2,Dash,AMER,2025-05-12,2025-05-12,2025-03-31,2025-04-08,4800,REP 21,NOT ASSIGNED,2025-04-07,42,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+537,OPP - 537 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-07-01,2025-04-08,2025-04-08,4800,REP 2,NOT ASSIGNED,2025-04-07,83,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+538,OPP - 538 - Net New,Net New,Stage 2,Dash,AMER,2025-07-25,2025-07-31,2025-04-08,2025-04-08,4800,REP 21,REP 57,2025-04-07,108,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+539,OPP - 539 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-30,2025-04-30,2024-04-29,2025-03-06,4800,REP 8,REP 8,2025-03-03,366,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+540,OPP - 540 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-20,2025-06-20,2024-06-20,2025-03-17,4800,REP 8,REP 8,2025-03-17,365,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+541,OPP - 541 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-10,2025-04-10,2025-03-31,2025-03-31,4794,REP 2,REP 2,2025-03-31,10,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+542,OPP - 542 - Net New,Net New,Stage 4,Core,AMER,2025-04-30,2025-04-30,2025-01-15,2025-01-28,4743,REP 15,REP 15,2025-01-27,105,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+543,OPP - 543 - Renewal,Renewal,Stage 2,Core,JAPAN,2025-07-19,2025-07-19,2022-07-14,2023-03-27,4731,REP 5,REP 5,2023-03-27,1101,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+544,OPP - 544 - Renewal,Renewal,Stage 5,Dash,AMER,2025-06-01,2025-06-01,2024-06-10,2025-02-27,4710,REP 8,REP 8,2025-02-24,356,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+545,OPP - 545 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-18,2025-05-18,2024-05-24,2024-05-24,4709,REP 50,REP 50,2024-05-20,359,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+546,OPP - 546 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-10,2025-07-10,2022-06-30,2025-04-10,4699,REP 12,REP 12,2025-04-07,1106,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+547,OPP - 547 - Upsell,Upsell,Stage 5,Core,JAPAN,2025-07-01,2025-07-01,2025-01-05,2025-01-06,4675,REP 18,REP 18,2025-01-06,177,Not Run-Rate,JAPAN,Colin Creevey,Commit,,Pass
+548,OPP - 548 - Renewal,Renewal,Stage 3,Core,EMEA,2025-05-21,2026-10-01,2023-10-01,2024-01-09,4670,REP 31,REP 31,2024-01-08,598,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+549,OPP - 549 - Renewal,Renewal,Stage 5,Core,APAC,2025-05-01,2025-05-01,2024-04-04,2025-02-02,4667,REP 30,REP 30,2025-01-31,392,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+550,OPP - 550 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-31,2025-05-31,2024-05-23,2025-01-31,4650,REP 6,REP 6,2025-01-27,373,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+551,OPP - 551 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-10,2025-06-10,2024-06-19,2025-03-12,4648,REP 44,REP 44,2025-03-10,356,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+552,OPP - 552 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-14,2025-04-14,2025-01-15,2025-01-15,4619,REP 62,REP 62,2025-01-13,89,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+553,OPP - 553 - Renewal,Renewal,Stage 3,Core,EMEA,2025-06-29,2025-06-29,2024-06-29,2025-01-21,4616,REP 9,REP 9,2025-01-20,365,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+554,OPP - 554 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-20,2025-06-20,2024-06-20,2025-02-25,4608,REP 56,REP 56,2025-02-24,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+555,OPP - 555 - Renewal,Renewal,Stage 6,Core,EMEA,2025-06-06,2025-06-06,2022-06-06,2023-11-02,4595,REP 49,REP 49,2023-10-30,1096,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+556,OPP - 556 - Net New,Net New,Stage 2,Dash,EMEA,2025-06-30,2025-06-30,2025-04-07,2025-04-07,4595,REP 66,REP 66,2025-04-07,84,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+557,OPP - 557 - Upsell,Upsell,Stage 5,Core,APAC,2025-06-12,2025-06-12,2025-03-14,2025-03-14,4507,REP 30,REP 30,2025-03-10,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+558,OPP - 558 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-13,2025-06-13,2024-06-10,2024-06-10,4501,REP 51,REP 51,2024-06-10,368,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+559,OPP - 559 - Net New,Net New,Stage 2,Core,AMER,2025-09-30,2025-09-30,2024-10-15,2024-10-15,4500,REP 25,REP 25,2024-10-14,350,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+560,OPP - 560 - Net New,Net New,Stage 2,Sign,AMER,2025-05-30,2025-05-30,2024-10-15,2024-10-15,4500,REP 44,REP 44,2024-10-14,227,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+561,OPP - 561 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-03-31,2025-02-26,2025-02-26,4500,REP 53,REP 53,2025-02-24,124,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+562,OPP - 562 - Net New,Net New,Stage 4,Sign,AMER,2025-05-30,2024-12-30,2024-12-02,2024-12-02,4488,REP 50,REP 50,2024-12-02,179,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+563,OPP - 563 - Renewal,Renewal,Stage 5,Core,EMEA,2025-08-10,2025-08-10,2023-10-12,2023-10-13,4460,REP 24,REP 24,2023-10-09,668,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+564,OPP - 564 - Net New,Net New,Stage 3,Sign,EMEA,2025-04-17,2024-12-16,2024-10-14,2024-10-14,4446,REP 46,REP 46,2024-10-14,185,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+565,OPP - 565 - Upsell,Upsell,Stage 2,Core,APAC,2025-05-31,2025-03-31,2025-02-26,2025-02-26,4384,REP 23,REP 23,2025-02-24,94,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+566,OPP - 566 - Net New,Net New,Stage 2,Sign,EMEA,2025-05-31,2024-07-01,2024-05-07,2024-05-07,4365,REP 66,REP 66,2024-05-06,389,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+567,OPP - 567 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-11,2025-08-11,2024-08-07,2024-08-07,4320,REP 53,REP 53,2024-08-05,369,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+568,OPP - 568 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-25,2025-04-25,2023-04-25,2025-01-26,4320,REP 36,REP 36,2025-01-24,731,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+569,OPP - 569 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-01,2025-05-01,2025-02-02,2025-02-02,4313,REP 29,REP 29,2025-01-31,88,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+570,OPP - 570 - Renewal,Renewal,Stage 5,Core,EMEA,2025-06-10,2025-06-10,2024-05-09,2025-03-11,4294,REP 24,REP 24,2025-03-10,397,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+571,OPP - 571 - Renewal,Renewal,Stage 5,Core,APAC,2025-05-31,2025-05-31,2022-07-23,2025-03-04,4244,REP 30,REP 30,2025-03-03,1043,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+572,OPP - 572 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-17,2025-05-17,2025-02-17,2025-02-17,4224,REP 24,REP 24,2025-02-17,89,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+573,OPP - 573 - Renewal,Renewal,Stage 5,Sign,AMER,2025-04-30,2025-04-18,2024-09-17,2025-03-10,4224,REP 44,REP 44,2025-03-10,225,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+574,OPP - 574 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-31,2025-05-31,2025-03-10,2025-03-10,4210,REP 24,REP 24,2025-03-10,82,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+575,OPP - 575 - Upsell,Upsell,Stage 2,Dash,AMER,2025-06-20,2025-06-20,2025-03-06,2025-03-06,4200,REP 3,REP 3,2025-03-03,106,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+576,OPP - 576 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-06-30,2025-04-04,2025-04-08,4200,REP 14,REP 81,2025-04-07,87,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+577,OPP - 577 - Net New,Net New,Stage 3,Dash,AMER,2025-05-30,2025-04-30,2025-03-19,2025-03-20,4200,REP 54,REP 54,2025-03-17,72,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+578,OPP - 578 - Net New,Net New,Stage 5,Dash,AMER,2025-04-14,2025-04-14,2025-03-10,2025-03-11,4200,REP 16,NOT ASSIGNED,2025-03-10,35,Not Run-Rate,DASH,Remus Lupin,Commit,,Pass
+579,OPP - 579 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-27,2025-04-27,2024-04-27,2025-02-15,4200,REP 40,REP 40,2025-02-14,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+580,OPP - 580 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-18,2025-06-18,2025-03-20,2025-03-20,4155,REP 3,REP 3,2025-03-17,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+581,OPP - 581 - Net New,Net New,Stage 2,Core,EMEA,2025-04-30,2025-01-31,2024-12-19,2024-12-19,4134,REP 9,REP 9,2024-12-16,132,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+582,OPP - 582 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-28,2025-06-28,2024-06-27,2024-10-02,4128,REP 59,REP 59,2024-09-30,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+583,OPP - 583 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,4118,REP 36,REP 36,2025-03-31,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+584,OPP - 584 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-06,2025-05-06,2025-02-05,2025-02-05,4080,REP 39,REP 39,2025-02-03,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+585,OPP - 585 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-08,2025-06-08,2025-03-10,2025-03-10,4070,REP 24,REP 24,2025-03-10,90,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+586,OPP - 586 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-23,2025-05-23,2024-06-04,2025-02-19,4065,REP 22,REP 22,2025-02-17,353,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+587,OPP - 587 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-01,2025-05-01,2024-04-02,2025-03-28,4050,REP 22,REP 22,2025-03-24,394,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+588,OPP - 588 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-08,2025-05-08,2024-05-09,2025-01-16,4042,REP 51,REP 51,2025-01-13,364,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+589,OPP - 589 - Upsell,Upsell,Stage 2,Dash,AMER,2025-06-30,2025-03-31,2025-01-10,2025-01-16,4000,REP 27,REP 42,2025-01-13,171,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+590,OPP - 590 - Net New,Net New,Stage 2,Core,AMER,2025-09-30,2025-02-24,2025-02-11,2025-02-11,3994,REP 19,REP 19,2025-02-10,231,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+591,OPP - 591 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-09,2025-06-09,2025-03-12,2025-03-12,3990,REP 50,REP 50,2025-03-10,89,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+592,OPP - 592 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-30,2025-04-01,2025-01-31,2025-02-12,3984,REP 40,REP 40,2025-02-10,150,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+593,OPP - 593 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-15,2025-08-15,2024-08-13,2024-09-19,3946,REP 12,REP 12,2024-09-16,367,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+594,OPP - 594 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-31,2025-05-31,2024-05-31,2025-03-02,3900,REP 58,REP 58,2025-02-28,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+595,OPP - 595 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-05,2025-06-05,2024-06-05,2025-03-17,3900,REP 67,REP 67,2025-03-17,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+596,OPP - 596 - Renewal,Renewal,Stage 3,Core,EMEA,2025-07-29,2025-07-29,2022-08-04,2025-04-01,3860,REP 45,REP 45,2025-03-31,1090,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+597,OPP - 597 - Upsell,Upsell,Stage 5,Core,EMEA,2025-04-19,2025-04-19,2025-01-20,2025-01-20,3858,REP 46,REP 46,2025-01-20,89,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+598,OPP - 598 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-02,2025-05-02,2025-02-03,2025-02-03,3858,REP 51,REP 51,2025-02-03,88,Not Run-Rate,EMEA,Cho Chang,Commit,,Pass
+599,OPP - 599 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-28,2025-04-28,2024-04-11,2024-12-11,3858,REP 42,REP 42,2024-12-09,382,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+600,OPP - 600 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-26,2025-06-26,2024-06-26,2025-02-26,3840,REP 59,REP 59,2025-02-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+601,OPP - 601 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-16,2025-04-16,2024-04-16,2024-12-19,3838,REP 56,REP 56,2024-12-16,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+602,OPP - 602 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-31,2025-05-31,2023-05-31,2025-03-07,3795,REP 22,REP 22,2025-03-03,731,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+603,OPP - 603 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-19,2025-05-19,2025-02-20,2025-02-20,3782,REP 17,REP 17,2025-02-17,88,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+604,OPP - 604 - Upsell,Upsell,Stage 4,Core,AMER,2025-05-03,2025-05-03,2024-12-04,2024-12-04,3770,REP 25,REP 25,2024-12-02,150,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+605,OPP - 605 - Net New,Net New,Stage 2,Core,AMER,2025-04-30,2025-04-30,2025-03-24,2025-03-25,3744,REP 32,REP 32,2025-03-24,37,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+606,OPP - 606 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-06,2025-06-06,2024-06-06,2025-02-20,3744,REP 64,REP 64,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+607,OPP - 607 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-16,2025-07-16,2024-07-08,2024-07-08,3744,REP 8,REP 8,2024-07-08,373,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+608,OPP - 608 - Net New,Net New,Stage 2,Dash,EMEA,2025-04-30,2025-03-31,2025-02-24,2025-02-24,3734,REP 13,NOT ASSIGNED,2025-02-24,65,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+609,OPP - 609 - Renewal,Renewal,Stage 4,Core,AMER,2025-07-27,2025-07-27,2024-07-29,2025-04-01,3726,REP 47,REP 47,2025-03-31,363,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+610,OPP - 610 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-17,2025-06-17,2025-03-19,2025-03-19,3708,REP 20,REP 20,2025-03-17,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+611,OPP - 611 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-06,2025-05-06,2024-05-06,2025-03-28,3698,REP 22,REP 22,2025-03-24,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+612,OPP - 612 - Renewal,Renewal,Stage 4,Sign,AMER,2025-05-14,2025-05-14,2022-05-17,2025-04-03,3696,REP 1,REP 1,2025-03-31,1093,Not Run-Rate,AMER,Rubeus Hagrid,Best Case,,Pass
+613,OPP - 613 - Renewal,Renewal,Stage 2,Core,EMEA,2025-04-12,2025-04-12,2024-04-12,2025-01-16,3690,REP 51,REP 51,2025-01-13,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+614,OPP - 614 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-16,2025-06-16,2025-03-18,2025-03-18,3620,REP 6,REP 6,2025-03-17,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+615,OPP - 615 - Net New,Net New,Stage 2,Send,AMER,2025-04-30,2025-03-31,2024-10-01,2024-10-01,3600,REP 65,REP 65,2024-09-30,211,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+616,OPP - 616 - Net New,Net New,Stage 2,Send,AMER,2025-06-30,2025-03-31,2024-10-21,2024-10-21,3600,REP 6,REP 6,2024-10-21,252,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+617,OPP - 617 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-12,2025-05-12,2025-02-11,2025-02-11,3600,REP 50,REP 50,2025-02-10,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+618,OPP - 618 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-06-28,2025-03-03,3564,REP 59,REP 59,2025-03-03,367,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+619,OPP - 619 - Renewal,Renewal,Stage 4,Sign,AMER,2025-06-05,2025-06-05,2024-06-14,2025-03-12,3564,REP 44,REP 44,2025-03-10,356,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+620,OPP - 620 - Upsell,Upsell,Stage 2,Core,AMER,2025-04-30,2025-01-31,2024-10-09,2024-10-09,3552,REP 65,REP 65,2024-10-07,203,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+621,OPP - 621 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-10,2025-05-10,2025-02-11,2025-02-11,3549,REP 22,REP 22,2025-02-10,88,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+622,OPP - 622 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-25,2023-06-30,2023-03-02,2023-03-02,3532,REP 11,REP 11,2023-02-27,938,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+623,OPP - 623 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-24,2025-04-24,2024-04-26,2025-01-27,3528,REP 59,REP 59,2025-01-27,363,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+624,OPP - 624 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-12,2025-05-12,2025-02-11,2025-02-11,3523,REP 51,REP 51,2025-02-10,90,Not Run-Rate,EMEA,Cho Chang,Commit,,Pass
+625,OPP - 625 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-19,2025-05-19,2024-05-21,2025-03-06,3515,REP 66,REP 66,2025-03-03,363,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+626,OPP - 626 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-13,2025-06-13,2024-06-13,2025-02-21,3499,REP 64,REP 64,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+627,OPP - 627 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-12,2025-05-12,2024-04-22,2024-04-22,3456,REP 6,REP 6,2024-04-22,385,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+628,OPP - 628 - Upsell,Upsell,Stage 3,Core,EMEA,2025-05-28,2024-08-15,2024-07-03,2024-07-03,3446,REP 31,REP 31,2024-07-01,329,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+629,OPP - 629 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-06-24,2025-03-27,3392,REP 36,REP 36,2025-03-24,371,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+630,OPP - 630 - Upsell,Upsell,Stage 6,Core,AMER,2025-04-16,2025-04-11,2025-04-11,2025-04-11,3384,REP 58,REP 58,2025-04-07,5,Run-Rate,AMER,Harry Potter,Commit,,Pass
+631,OPP - 631 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-30,2025-01-13,2024-09-12,2024-09-12,3329,REP 44,REP 44,2024-09-09,230,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+632,OPP - 632 - Net New,Net New,Stage 2,Sign,AMER,2025-04-30,2025-04-30,2025-02-07,2025-02-07,3300,REP 2,REP 2,2025-02-03,82,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+633,OPP - 633 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-05-01,2025-03-24,2025-03-24,3300,REP 2,REP 2,2025-03-24,98,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+634,OPP - 634 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-07-01,2025-04-03,2025-04-03,3300,REP 2,REP 2,2025-03-31,88,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+635,OPP - 635 - Net New,Net New,Stage 3,Sign,AMER,2025-05-23,2025-02-22,2025-01-08,2025-01-15,3300,REP 2,REP 84,2025-01-13,135,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+636,OPP - 636 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-04-03,2025-03-04,2025-03-04,3300,REP 2,REP 2,2025-03-03,118,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+637,OPP - 637 - Net New,Net New,Stage 5,Sign,AMER,2025-06-01,2025-05-01,2025-04-07,2025-04-07,3300,REP 2,REP 2,2025-04-07,55,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+638,OPP - 638 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-30,2025-04-30,2024-04-30,2024-05-01,3299,REP 32,REP 32,2024-04-29,365,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+639,OPP - 639 - Renewal,Renewal,Stage 6,Core,EMEA,2025-04-25,2025-04-25,2024-04-04,2024-04-04,3217,REP 45,REP 45,2024-04-01,386,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+640,OPP - 640 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-14,2025-07-14,2024-07-14,2025-03-17,3215,REP 51,REP 51,2025-03-17,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+641,OPP - 641 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-24,2025-05-24,2024-05-21,2025-02-25,3215,REP 17,REP 17,2025-02-24,368,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+642,OPP - 642 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-12,2025-06-12,2024-04-29,2025-02-12,3189,REP 12,REP 12,2025-02-10,409,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+643,OPP - 643 - Upsell,Upsell,Stage 2,Core,APAC,2025-05-29,2024-10-14,2024-10-13,2024-10-13,3184,REP 23,REP 23,2024-10-11,228,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+644,OPP - 644 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-04-30,2025-02-19,2025-02-19,3168,REP 15,REP 15,2025-02-17,70,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+645,OPP - 645 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-21,2025-05-21,2024-05-28,2025-03-28,3150,REP 58,REP 58,2025-03-24,358,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+646,OPP - 646 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-15,2025-05-15,2025-02-18,2025-02-18,3127,REP 68,REP 68,2025-02-17,86,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+647,OPP - 647 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-30,2025-06-30,2024-11-04,2024-11-26,3120,REP 25,REP 25,2024-11-25,238,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+648,OPP - 648 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-22,2025-06-22,2024-06-24,2024-09-30,3110,REP 1,REP 1,2024-09-30,363,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+649,OPP - 649 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-18,2025-05-18,2022-05-19,2025-03-31,3075,REP 54,REP 54,2025-03-31,1095,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+650,OPP - 650 - Net New,Net New,Stage 3,Dash,EMEA,2025-06-30,2025-06-30,2024-12-10,2024-12-10,3062,REP 13,REP 51,2024-12-09,202,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+651,OPP - 651 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-10,2025-04-09,2024-05-10,2025-04-09,3048,REP 14,REP 14,2025-04-07,365,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+652,OPP - 652 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-03,2025-05-03,2025-02-04,2025-02-04,3014,REP 42,REP 42,2025-02-03,88,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+653,OPP - 653 - Upsell,Upsell,Stage 2,Dash,AMER,2025-04-30,2024-12-17,2024-12-17,2024-12-17,3000,REP 62,REP 62,2024-12-16,134,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+654,OPP - 654 - Net New,Net New,Stage 2,Core,AMER,2025-05-30,2025-05-30,2025-02-26,2025-02-26,3000,REP 44,REP 44,2025-02-24,93,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+655,OPP - 655 - Net New,Net New,Stage 2,Dash,AMER,2025-05-01,2025-05-01,2025-03-17,2025-03-26,3000,REP 21,NOT ASSIGNED,2025-03-24,45,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+656,OPP - 656 - Net New,Net New,Stage 2,Dash,AMER,2025-05-19,2025-05-19,2025-04-04,2025-04-11,3000,REP 21,NOT ASSIGNED,2025-04-07,45,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+657,OPP - 657 - Net New,Net New,Stage 2,Sign,AMER,2025-06-14,2025-06-14,2025-04-09,2025-04-10,3000,REP 69,REP 69,2025-04-07,66,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+658,OPP - 658 - Net New,Net New,Stage 2,Dash,AMER,2025-06-30,2025-07-25,2025-04-10,2025-04-11,3000,REP 21,REP 81,2025-04-07,81,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+659,OPP - 659 - Net New,Net New,Stage 3,Dash,AMER,2025-07-30,2025-07-30,2025-02-27,2025-02-27,3000,REP 58,REP 58,2025-02-24,153,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+660,OPP - 660 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-04-11,2025-04-03,2025-04-03,3000,REP 35,REP 35,2025-03-31,88,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+661,OPP - 661 - Net New,Net New,Stage 4,Sign,AMER,2025-05-20,2025-05-20,2025-04-11,2025-04-11,3000,REP 69,REP 69,2025-04-07,39,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+662,OPP - 662 - Renewal,Renewal,Stage 3,Sign,AMER,2025-06-12,2025-06-12,2024-08-12,2024-12-09,2904,REP 1,REP 1,2024-12-09,304,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+663,OPP - 663 - Renewal,Renewal,Stage 5,Sign,AMER,2025-05-01,2025-05-01,2024-05-08,2025-03-25,2904,REP 1,REP 1,2025-03-24,358,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+664,OPP - 664 - Upsell,Upsell,Stage 6,Core,AMER,2025-04-25,2025-03-19,2025-03-19,2025-03-19,2890,REP 10,REP 10,2025-03-17,37,Not Run-Rate,AMER,Susan Bones,Best Case,,Pass
+665,OPP - 665 - Net New,Net New,Stage 2,Core,AMER,2025-05-30,2025-05-30,2025-04-09,2025-04-09,2880,REP 32,REP 32,2025-04-07,51,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+666,OPP - 666 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-03-31,2025-02-19,2025-02-20,2880,REP 32,REP 32,2025-02-17,100,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+667,OPP - 667 - Upsell,Upsell,Stage 4,Core,AMER,2025-04-30,2025-01-24,2025-01-23,2025-01-23,2880,REP 65,REP 65,2025-01-20,97,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+668,OPP - 668 - Net New,Net New,Stage 4,Core,AMER,2025-04-30,2025-04-11,2025-04-08,2025-04-08,2880,REP 32,REP 32,2025-04-07,22,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+669,OPP - 669 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-02-28,2025-02-11,2025-02-11,2880,REP 32,REP 32,2025-02-10,78,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+670,OPP - 670 - Net New,Net New,Stage 5,Sign,EMEA,2025-04-30,2025-04-30,2025-02-27,2025-02-27,2829,REP 9,REP 9,2025-02-24,62,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+671,OPP - 671 - Renewal,Renewal,Stage 5,Sign,AMER,2025-05-23,2025-05-23,2024-05-23,2025-03-11,2825,REP 52,REP 52,2025-03-10,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+672,OPP - 672 - Renewal,Renewal,Stage 5,Core,EMEA,2025-06-30,2025-06-30,2024-06-27,2025-03-17,2821,REP 45,REP 45,2025-03-17,368,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+673,OPP - 673 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-06,2025-04-08,2025-04-08,2805,REP 2,REP 2,2025-04-07,83,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+674,OPP - 674 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-31,2025-05-31,2025-03-02,2025-03-02,2803,REP 66,REP 66,2025-02-28,90,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+675,OPP - 675 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-01,2025-05-01,2024-04-24,2024-04-24,2784,REP 59,REP 59,2024-04-22,372,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+676,OPP - 676 - Net New,Net New,Stage 3,Core,AMER,2025-05-30,2025-05-30,2025-04-01,2025-04-01,2760,REP 35,REP 35,2025-03-31,59,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+677,OPP - 677 - Net New,Net New,Stage 3,Core,EMEA,2025-05-30,2024-12-06,2024-11-25,2024-11-25,2756,REP 17,REP 17,2024-11-25,186,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+678,OPP - 678 - Net New,Net New,Stage 5,Core,EMEA,2025-09-30,2025-03-14,2025-02-27,2025-02-27,2756,REP 9,REP 9,2025-02-24,215,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+679,OPP - 679 - Net New,Net New,Stage 5,Core,EMEA,2025-09-30,2025-03-14,2025-03-06,2025-03-06,2756,REP 9,REP 9,2025-03-03,208,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+680,OPP - 680 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-02,2025-05-02,2024-04-17,2024-10-21,2733,REP 54,REP 54,2024-10-21,380,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+681,OPP - 681 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-31,2025-05-31,2024-05-30,2024-05-30,2700,REP 33,REP 33,2024-05-27,366,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+682,OPP - 682 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-17,2025-05-17,2024-05-17,2024-05-17,2700,REP 57,REP 57,2024-05-13,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+683,OPP - 683 - Net New,Net New,Stage 3,Dash,EMEA,2025-04-30,2024-12-31,2024-12-05,2024-12-05,2700,REP 13,REP 85,2024-12-02,146,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+684,OPP - 684 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-05,2025-06-05,2024-05-13,2025-03-07,2699,REP 47,REP 47,2025-03-03,388,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+685,OPP - 685 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-30,2025-06-30,2024-08-13,2024-08-28,2677,REP 25,REP 25,2024-08-26,321,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+686,OPP - 686 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-10,2025-06-10,2024-06-14,2024-06-14,2640,REP 57,REP 57,2024-06-10,361,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+687,OPP - 687 - Upsell,Upsell,Stage 4,Sign,AMER,2025-05-09,2025-05-10,2025-03-21,2025-03-21,2640,REP 25,REP 25,2025-03-17,49,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+688,OPP - 688 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-05-30,2024-06-25,2624,REP 12,REP 12,2024-06-24,396,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+689,OPP - 689 - Net New,Net New,Stage 2,Dash,AMER,2025-05-30,2025-03-31,2025-03-04,2025-03-04,2580,REP 21,NOT ASSIGNED,2025-03-03,87,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+690,OPP - 690 - Net New,Net New,Stage 2,Sign,EMEA,2025-05-22,2025-04-20,2025-03-21,2025-03-21,2526,REP 46,REP 46,2025-03-17,62,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+691,OPP - 691 - Renewal,Renewal,Stage 5,Core,EMEA,2025-04-23,2025-04-23,2024-04-23,2025-04-08,2458,REP 26,REP 26,2025-04-07,365,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+692,OPP - 692 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-07,2025-04-07,2025-04-09,2025-04-09,2455,REP 52,REP 52,2025-04-07,-2,Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+693,OPP - 693 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-18,2025-06-18,2024-06-18,2025-03-27,2434,REP 43,REP 43,2025-03-24,365,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+694,OPP - 694 - Net New,Net New,Stage 3,Core,JAPAN,2025-09-25,2024-11-01,2024-09-10,2024-10-02,2431,REP 11,REP 11,2024-09-30,380,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+695,OPP - 695 - Upsell,Upsell,Stage 6,Core,AMER,2025-04-03,2025-04-03,2025-04-02,2025-04-02,2418,REP 57,REP 57,2025-03-31,1,Run-Rate,AMER,Cho Chang,Commit,,Pass
+696,OPP - 696 - Upsell,Upsell,Stage 6,Core,AMER,2025-05-09,2025-05-09,2025-02-08,2025-02-08,2400,REP 59,REP 59,2025-02-07,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+697,OPP - 697 - Upsell,Upsell,Stage 2,Core,AMER,2025-06-28,2024-10-16,2024-10-16,2024-10-16,2400,REP 8,REP 8,2024-10-14,255,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+698,OPP - 698 - Net New,Net New,Stage 2,Sign,AMER,2025-06-30,2025-06-30,2025-04-02,2025-04-02,2400,REP 2,NOT ASSIGNED,2025-03-31,89,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+699,OPP - 699 - Net New,Net New,Stage 2,Sign,AMER,2025-05-31,2025-04-08,2025-04-08,2025-04-08,2400,REP 2,REP 2,2025-04-07,53,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+700,OPP - 700 - Net New,Net New,Stage 3,Core,AMER,2025-06-02,2024-06-11,2024-04-11,2024-04-11,2400,REP 59,REP 59,2024-04-08,417,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+701,OPP - 701 - Net New,Net New,Stage 3,Core,AMER,2025-06-20,2024-07-01,2024-06-26,2024-06-26,2400,REP 39,REP 39,2024-06-24,359,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+702,OPP - 702 - Net New,Net New,Stage 3,Core,AMER,2025-06-30,2025-06-30,2025-03-29,2025-03-31,2400,REP 14,REP 14,2025-03-31,93,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+703,OPP - 703 - Net New,Net New,Stage 4,Core,AMER,2025-06-30,2025-06-30,2025-03-10,2025-03-10,2400,REP 14,REP 14,2025-03-10,112,Not Run-Rate,AMER,Hermione Granger,Best Case,,Pass
+704,OPP - 704 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-23,2025-05-23,2025-02-26,2025-02-26,2400,REP 54,REP 54,2025-02-24,86,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+705,OPP - 705 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-22,2025-06-22,2024-05-07,2025-02-13,2376,REP 50,REP 50,2025-02-10,411,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+706,OPP - 706 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-20,2025-06-20,2024-06-25,2025-03-27,2376,REP 39,REP 39,2025-03-24,360,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+707,OPP - 707 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-13,2025-05-13,2023-05-16,2024-02-14,2375,REP 40,REP 40,2024-02-12,728,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+708,OPP - 708 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-17,2025-04-17,2025-01-18,2025-01-18,2340,REP 42,REP 42,2025-01-17,89,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+709,OPP - 709 - Net New,Net New,Stage 2,Core,AMER,2025-06-01,2024-10-01,2024-07-02,2024-07-02,2304,REP 8,REP 8,2024-07-01,334,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+710,OPP - 710 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-11,2025-05-11,2024-05-11,2025-01-16,2266,REP 51,REP 51,2025-01-13,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+711,OPP - 711 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-08,2025-06-08,2024-03-10,2024-03-10,2263,REP 38,REP 38,2024-03-08,455,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+712,OPP - 712 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-26,2025-05-26,2025-02-27,2025-02-27,2243,REP 36,REP 36,2025-02-24,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+713,OPP - 713 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-24,2025-04-24,2024-04-24,2024-12-27,2160,REP 67,REP 67,2024-12-23,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+714,OPP - 714 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-04-30,2025-04-11,2025-04-11,2160,REP 32,REP 32,2025-04-07,80,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+715,OPP - 715 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-12,2025-05-12,2025-02-11,2025-02-11,2160,REP 58,REP 58,2025-02-10,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+716,OPP - 716 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-22,2025-04-22,2022-04-22,2025-01-20,2117,REP 53,REP 53,2025-01-20,1096,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+717,OPP - 717 - Net New,Net New,Stage 2,Core,AMER,2025-06-30,2025-03-26,2025-03-26,2025-03-26,2100,REP 50,REP 50,2025-03-24,96,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+718,OPP - 718 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-22,2025-06-22,2024-05-10,2024-07-18,2100,REP 62,REP 62,2024-07-15,408,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+719,OPP - 719 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-10,2025-05-10,2025-02-09,2025-02-09,2100,REP 6,REP 6,2025-02-07,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+720,OPP - 720 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-20,2025-05-20,2025-02-19,2025-02-19,2100,REP 47,REP 47,2025-02-17,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+721,OPP - 721 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-25,2025-05-25,2024-05-16,2025-02-26,2100,REP 48,REP 48,2025-02-24,374,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+722,OPP - 722 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-18,2025-04-18,2024-03-21,2024-04-04,2094,REP 40,REP 40,2024-04-01,393,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+723,OPP - 723 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-09,2025-05-09,2025-02-12,2025-02-12,2089,REP 46,REP 46,2025-02-10,86,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+724,OPP - 724 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-31,2025-05-31,2025-03-02,2025-03-02,2088,REP 12,REP 12,2025-02-28,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+725,OPP - 725 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-15,2025-04-15,2024-03-26,2025-01-16,2079,REP 40,REP 40,2025-01-13,385,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+726,OPP - 726 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-28,2025-06-28,2024-06-28,2024-06-28,2079,REP 59,REP 59,2024-06-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+727,OPP - 727 - Renewal,Renewal,Stage 2,Core,EMEA,2025-04-25,2025-04-25,2024-03-28,2024-03-28,2067,REP 51,REP 51,2024-03-25,393,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+728,OPP - 728 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-24,2025-04-24,2025-01-24,2025-01-24,2066,REP 40,REP 40,2025-01-20,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+729,OPP - 729 - Renewal,Renewal,Stage 5,Sign,AMER,2025-08-02,2025-08-02,2024-08-15,2025-02-24,2063,REP 33,REP 33,2025-02-24,352,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+730,OPP - 730 - Renewal,Renewal,Stage 4,Core,AMER,2025-04-30,2025-04-30,2024-04-30,2025-03-27,2052,REP 43,REP 43,2025-03-24,365,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+731,OPP - 731 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-17,2025-05-17,2024-06-05,2025-04-07,2047,REP 12,REP 12,2025-04-07,346,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+732,OPP - 732 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-16,2025-05-16,2024-05-15,2024-05-15,2016,REP 65,REP 65,2024-05-13,366,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+733,OPP - 733 - Net New,Net New,Stage 5,Core,AMER,2025-05-15,2025-06-27,2025-03-24,2025-03-31,2016,REP 32,REP 32,2025-03-31,52,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+734,OPP - 734 - Net New,Net New,Stage 3,Core,AMER,2025-07-30,2025-02-28,2025-02-07,2025-02-10,1989,REP 32,REP 32,2025-02-10,173,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+735,OPP - 735 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-30,2025-05-30,2024-05-29,2024-05-29,1985,REP 6,REP 6,2024-05-27,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+736,OPP - 736 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-18,2025-05-18,2024-05-18,2024-12-02,1980,REP 70,NOT ASSIGNED,2024-12-02,365,Not Run-Rate,AMER,Draco Malfoy,Pipeline,,Pass
+737,OPP - 737 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-06,2025-06-06,2024-06-05,2025-02-27,1973,REP 36,REP 36,2025-02-24,366,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+738,OPP - 738 - Upsell,Upsell,Stage 2,Core,AMER,2025-06-28,2024-12-31,2024-10-17,2024-10-17,1958,REP 8,REP 8,2024-10-14,254,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+739,OPP - 739 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-19,2025-04-19,2025-01-20,2025-01-20,1956,REP 50,REP 50,2025-01-20,89,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+740,OPP - 740 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-28,2025-06-28,2024-06-28,2025-03-25,1938,REP 25,REP 25,2025-03-24,365,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+741,OPP - 741 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-01,2025-05-01,2023-05-01,2025-01-22,1929,REP 12,REP 12,2025-01-20,731,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+742,OPP - 742 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-21,2025-06-21,2025-03-23,2025-03-23,1926,REP 57,REP 57,2025-03-21,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+743,OPP - 743 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-12,2025-05-12,2024-05-07,2025-03-26,1920,REP 59,REP 59,2025-03-24,370,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+744,OPP - 744 - Renewal,Renewal,Stage 4,Core,AMER,2025-07-03,2025-07-03,2024-07-03,2024-08-07,1890,REP 54,REP 54,2024-08-05,365,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+745,OPP - 745 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-31,2025-05-31,2024-05-31,2025-01-31,1872,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+746,OPP - 746 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-23,2025-06-23,2025-03-25,2025-03-25,1850,REP 33,REP 33,2025-03-24,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+747,OPP - 747 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-13,2025-07-13,2024-07-13,2025-01-16,1824,REP 36,REP 36,2025-01-13,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+748,OPP - 748 - Net New,Net New,Stage 2,Send,AMER,2025-06-30,2025-03-31,2025-02-13,2025-02-16,1800,REP 14,REP 14,2025-02-14,137,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+749,OPP - 749 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-30,2025-06-30,2022-06-14,2025-03-06,1800,REP 50,REP 50,2025-03-03,1112,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+750,OPP - 750 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-13,2025-04-13,2025-01-13,2025-01-13,1800,REP 12,REP 12,2025-01-13,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+751,OPP - 751 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-24,2025-04-24,2025-01-24,2025-01-24,1800,REP 47,REP 47,2025-01-20,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+752,OPP - 752 - Net New,Net New,Stage 3,Send,AMER,2025-06-13,2024-11-18,2024-08-22,2024-08-22,1800,REP 36,REP 36,2024-08-19,295,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+753,OPP - 753 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-06-30,2025-03-31,1782,REP 6,REP 6,2025-03-31,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+754,OPP - 754 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-01,2025-06-01,2024-06-01,2025-03-28,1766,REP 22,REP 22,2025-03-24,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+755,OPP - 755 - Upsell,Upsell,Stage 3,Core,AMER,2025-04-25,2025-03-14,2025-02-25,2025-02-25,1755,REP 43,REP 43,2025-02-24,59,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+756,OPP - 756 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-02,2025-06-02,2025-03-04,2025-03-04,1755,REP 58,REP 58,2025-03-03,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+757,OPP - 757 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-20,2025-06-20,2025-03-22,2025-03-22,1738,REP 62,REP 62,2025-03-21,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+758,OPP - 758 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-12,2025-05-12,2025-02-13,2025-02-13,1733,REP 53,REP 53,2025-02-10,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+759,OPP - 759 - Renewal,Renewal,Stage 2,Core,EMEA,2025-08-01,2025-08-01,2022-06-24,2023-11-02,1728,REP 71,NOT ASSIGNED,2023-10-30,1134,Not Run-Rate,EMEA,Colin Creevey,Pipeline,,Pass
+760,OPP - 760 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-17,2025-05-17,2024-04-26,2024-04-26,1728,REP 59,REP 59,2024-04-22,386,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+761,OPP - 761 - Renewal,Renewal,Stage 3,Sign,AMER,2025-06-15,2025-06-15,2022-06-03,2025-04-03,1728,REP 44,REP 44,2025-03-31,1108,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+762,OPP - 762 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-25,2025-05-25,2024-05-26,2025-01-31,1728,REP 56,REP 56,2025-01-27,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+763,OPP - 763 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-12,2025-05-12,2024-05-12,2025-03-27,1704,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+764,OPP - 764 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-24,2025-05-24,2024-05-25,2025-03-26,1685,REP 67,REP 67,2025-03-24,364,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+765,OPP - 765 - Renewal,Renewal,Stage 2,Sign,AMER,2025-05-26,2025-05-26,2024-05-06,2025-03-12,1680,REP 44,REP 44,2025-03-10,385,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+766,OPP - 766 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-14,2025-06-14,2024-06-14,2025-01-17,1680,REP 50,REP 48,2025-01-13,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+767,OPP - 767 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-24,2025-06-24,2024-05-10,2025-02-07,1664,REP 6,REP 6,2025-02-03,410,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+768,OPP - 768 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-01,2025-07-01,2025-01-02,2025-01-02,1650,REP 33,REP 33,2024-12-30,180,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+769,OPP - 769 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-19,2025-04-19,2025-01-20,2025-01-20,1643,REP 30,REP 30,2025-01-20,89,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+770,OPP - 770 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-13,2025-05-13,2024-05-13,2025-03-06,1584,REP 25,REP 25,2025-03-03,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+771,OPP - 771 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,1575,REP 59,REP 59,2025-03-31,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+772,OPP - 772 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-22,2025-06-22,2025-03-24,2025-03-24,1568,REP 48,REP 48,2025-03-24,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+773,OPP - 773 - Net New,Net New,Stage 3,Core,AMER,2025-04-30,2025-02-28,2024-12-06,2024-12-06,1540,REP 14,NOT ASSIGNED,2024-12-02,145,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+774,OPP - 774 - Renewal,Renewal,Stage 4,Sign,AMER,2025-08-07,2025-08-07,2024-08-07,2024-12-05,1536,REP 64,REP 64,2024-12-02,365,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+775,OPP - 775 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-30,2025-06-30,2025-04-05,2025-04-05,1532,REP 45,REP 45,2025-04-04,86,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+776,OPP - 776 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-30,2025-06-30,2024-06-28,2024-06-28,1530,REP 59,REP 59,2024-06-24,367,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+777,OPP - 777 - Renewal,Renewal,Stage 2,Sign,AMER,2025-06-16,2025-06-16,2024-07-11,2025-03-26,1521,REP 52,REP 52,2025-03-24,340,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+778,OPP - 778 - Renewal,Renewal,Stage 2,Sign,AMER,2025-06-05,2025-06-05,2024-06-05,2025-02-18,1512,REP 59,REP 59,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+779,OPP - 779 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-30,2025-07-30,2024-08-05,2024-10-29,1512,REP 41,REP 41,2024-10-28,359,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+780,OPP - 780 - Net New,Net New,Stage 6,Sign,AMER,2025-04-04,2025-04-01,2025-01-23,2025-01-23,1500,REP 35,REP 35,2025-01-20,71,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+781,OPP - 781 - Net New,Net New,Stage 3,Sign,AMER,2025-06-30,2025-04-01,2025-03-07,2025-03-07,1500,REP 53,REP 53,2025-03-03,115,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+782,OPP - 782 - Net New,Net New,Stage 3,Sign,AMER,2025-05-15,2025-05-15,2025-03-20,2025-04-10,1500,REP 55,REP 55,2025-04-07,56,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+783,OPP - 783 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-28,2025-06-28,2025-03-30,2025-03-30,1500,REP 50,REP 50,2025-03-28,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+784,OPP - 784 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-01,2024-10-29,2024-07-31,2024-07-31,1499,REP 54,REP 54,2024-07-29,244,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+785,OPP - 785 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-28,2025-06-28,2024-06-28,2025-03-27,1483,REP 43,REP 43,2025-03-24,365,Not Run-Rate,AMER,Filius Flitwick,Best Case,,Pass
+786,OPP - 786 - Net New,Net New,Stage 2,Sign,AMER,2025-05-14,2025-05-14,2025-03-12,2025-03-12,1478,REP 50,REP 50,2025-03-10,63,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+787,OPP - 787 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-01,2025-05-01,2025-02-02,2025-02-02,1473,REP 41,REP 41,2025-01-31,88,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+788,OPP - 788 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-26,2025-06-26,2025-03-28,2025-03-28,1460,REP 39,REP 39,2025-03-24,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+789,OPP - 789 - Upsell,Upsell,Stage 4,Core,AMER,2025-06-30,2025-06-30,2025-01-30,2025-01-30,1454,REP 25,REP 25,2025-01-27,151,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+790,OPP - 790 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-21,2025-04-21,2024-04-21,2024-12-26,1446,REP 64,REP 64,2024-12-23,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+791,OPP - 791 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-17,2025-05-17,2024-05-17,2025-01-27,1440,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+792,OPP - 792 - Renewal,Renewal,Stage 4,Core,AMER,2025-04-30,2025-04-30,2024-06-11,2025-01-17,1440,REP 53,REP 53,2025-01-13,323,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+793,OPP - 793 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-15,2025-04-15,2025-01-15,2025-01-15,1440,REP 43,REP 43,2025-01-13,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+794,OPP - 794 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-18,2025-06-18,2025-03-20,2025-03-20,1440,REP 33,REP 33,2025-03-17,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+795,OPP - 795 - Net New,Net New,Stage 5,Core,AMER,2025-04-30,2025-03-31,2025-02-14,2025-02-21,1440,REP 32,REP 32,2025-02-17,75,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+796,OPP - 796 - Renewal,Renewal,Stage 3,Core,AMER,2025-07-06,2025-07-06,2024-07-05,2024-09-18,1404,REP 25,REP 25,2024-09-16,366,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+797,OPP - 797 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-24,2025-05-24,2024-05-28,2025-02-25,1392,REP 46,REP 46,2025-02-24,361,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+798,OPP - 798 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-02,2025-06-02,2025-03-04,2025-03-04,1386,REP 25,REP 25,2025-03-03,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+799,OPP - 799 - Upsell,Upsell,Stage 4,Send,AMER,2025-04-10,2025-04-10,2025-04-10,2025-04-10,1382,REP 38,REP 38,2025-04-07,0,Run-Rate,AMER,Rubeus Hagrid,Best Case,,Pass
+800,OPP - 800 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-29,2025-06-29,2022-06-14,2022-06-15,1381,REP 39,REP 39,2022-06-13,1111,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+801,OPP - 801 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-26,2025-07-26,2024-07-22,2024-09-30,1378,REP 46,REP 46,2024-09-30,369,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+802,OPP - 802 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-20,2025-05-20,2025-02-21,2025-02-21,1350,REP 65,REP 65,2025-02-17,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+803,OPP - 803 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-23,2025-04-23,2024-04-23,2025-01-24,1350,REP 47,REP 47,2025-01-20,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+804,OPP - 804 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-07,2025-06-07,2025-03-09,2025-03-09,1346,REP 58,REP 58,2025-03-07,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+805,OPP - 805 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-10,2025-09-10,2024-08-21,2025-03-10,1344,REP 8,REP 8,2025-03-10,385,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+806,OPP - 806 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-24,2025-04-24,2024-04-11,2024-04-11,1344,REP 65,REP 65,2024-04-08,378,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+807,OPP - 807 - Renewal,Renewal,Stage 2,Core,EMEA,2025-06-18,2025-06-18,2024-06-18,2024-06-18,1344,REP 46,REP 46,2024-06-17,365,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+808,OPP - 808 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-23,2025-06-23,2025-03-25,2025-03-25,1344,REP 6,REP 6,2025-03-24,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+809,OPP - 809 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-01,2025-05-01,2025-02-02,2025-02-02,1337,REP 62,REP 62,2025-01-31,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+810,OPP - 810 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-14,2025-05-14,2024-05-14,2025-03-27,1320,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+811,OPP - 811 - Renewal,Renewal,Stage 4,Sign,AMER,2025-06-30,2025-06-30,2024-06-11,2025-03-19,1320,REP 52,REP 52,2025-03-17,384,Not Run-Rate,AMER,Rubeus Hagrid,Best Case,,Pass
+812,OPP - 812 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-29,2025-05-29,2024-05-29,2025-02-20,1296,REP 64,REP 64,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+813,OPP - 813 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-09,2025-06-09,2024-05-20,2025-02-18,1296,REP 59,REP 59,2025-02-17,385,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+814,OPP - 814 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-21,2025-06-21,2025-03-23,2025-03-23,1284,REP 50,REP 50,2025-03-21,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+815,OPP - 815 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-11,2025-06-11,2025-03-13,2025-03-13,1280,REP 22,REP 22,2025-03-10,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+816,OPP - 816 - Net New,Net New,Stage 4,Core,AMER,2025-04-30,2025-03-26,2025-03-25,2025-03-25,1260,REP 65,REP 57,2025-03-24,36,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+817,OPP - 817 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-20,2025-06-20,2025-03-22,2025-03-22,1231,REP 48,REP 48,2025-03-21,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+818,OPP - 818 - Upsell,Upsell,Stage 2,Core,AMER,2025-05-29,2024-09-05,2024-09-05,2024-09-05,1200,REP 36,REP 36,2024-09-02,266,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+819,OPP - 819 - Upsell,Upsell,Stage 2,Core,AMER,2025-04-30,2025-03-31,2024-10-01,2024-10-01,1200,REP 65,REP 65,2024-09-30,211,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+820,OPP - 820 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-30,2025-03-31,2024-08-28,2024-08-28,1200,REP 6,REP 6,2024-08-26,306,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+821,OPP - 821 - Upsell,Upsell,Stage 3,Core,AMER,2025-06-30,2024-11-20,2024-10-22,2024-10-22,1200,REP 6,REP 6,2024-10-21,251,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+822,OPP - 822 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-16,2025-05-16,2024-05-16,2024-05-16,1200,REP 58,REP 58,2024-05-13,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+823,OPP - 823 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-30,2025-06-30,2024-06-07,2024-06-08,1188,REP 53,REP 53,2024-06-07,388,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+824,OPP - 824 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-15,2025-08-15,2024-08-15,2024-08-16,1152,REP 53,REP 53,2024-08-12,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+825,OPP - 825 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-09,2025-06-09,2025-03-11,2025-03-11,1152,REP 40,REP 40,2025-03-10,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+826,OPP - 826 - Upsell,Upsell,Stage 6,Core,EMEA,2025-06-18,2025-03-04,2025-02-13,2025-02-13,1149,REP 17,REP 17,2025-02-10,125,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+827,OPP - 827 - Upsell,Upsell,Stage 2,Core,EMEA,2025-05-31,2024-10-10,2024-10-10,2024-10-10,1149,REP 66,REP 66,2024-10-07,233,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+828,OPP - 828 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-26,2025-07-26,2024-07-25,2025-02-27,1149,REP 68,REP 68,2025-02-24,366,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+829,OPP - 829 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-03,2025-07-03,2025-04-04,2025-04-04,1144,REP 3,REP 3,2025-03-31,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+830,OPP - 830 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-01,2025-07-01,2024-07-02,2024-09-11,1140,REP 48,REP 48,2024-09-09,364,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+831,OPP - 831 - Upsell,Upsell,Stage 2,Core,EMEA,2025-05-31,2025-02-25,2025-02-25,2025-02-25,1140,REP 66,REP 66,2025-02-24,95,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+832,OPP - 832 - Renewal,Renewal,Stage 3,Core,AMER,2025-05-28,2025-05-28,2024-05-28,2025-03-19,1140,REP 50,REP 50,2025-03-17,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+833,OPP - 833 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-22,2025-04-22,2025-01-22,2025-01-22,1140,REP 23,REP 23,2025-01-20,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+834,OPP - 834 - Net New,Net New,Stage 2,Core,JAPAN,2025-09-01,2025-04-01,2024-12-25,2024-12-25,1140,REP 7,REP 7,2024-12-23,250,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+835,OPP - 835 - Net New,Net New,Stage 2,Core,JAPAN,2025-06-23,2025-06-23,2025-01-26,2025-01-26,1140,REP 5,REP 5,2025-01-24,148,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+836,OPP - 836 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-09,2025-05-09,2024-04-18,2024-04-18,1138,REP 65,REP 65,2024-04-15,386,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+837,OPP - 837 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-11,2025-05-11,2024-05-10,2025-01-30,1134,REP 53,REP 53,2025-01-27,366,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+838,OPP - 838 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-14,2025-06-14,2024-06-11,2024-06-12,1120,REP 50,REP 50,2024-06-10,368,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+839,OPP - 839 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-01,2025-05-01,2025-01-31,2025-01-31,1109,REP 22,REP 22,2025-01-27,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+840,OPP - 840 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,1104,REP 28,REP 28,2025-03-31,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+841,OPP - 841 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-01,2024-09-25,2024-09-06,2024-09-09,1080,REP 47,REP 47,2024-09-09,298,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+842,OPP - 842 - Renewal,Renewal,Stage 3,Core,AMER,2025-07-22,2025-07-22,2024-07-22,2025-03-25,1068,REP 53,REP 53,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+843,OPP - 843 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-25,2025-06-25,2024-06-25,2025-03-28,1062,REP 40,REP 40,2025-03-24,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+844,OPP - 844 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-29,2025-07-29,2024-06-17,2025-03-21,1061,REP 46,REP 46,2025-03-17,407,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+845,OPP - 845 - Renewal,Renewal,Stage 6,Core,AMER,2025-06-29,2025-06-29,2024-05-21,2024-05-21,1050,REP 50,REP 50,2024-05-20,404,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+846,OPP - 846 - Renewal,Renewal,Stage 5,Sign,AMER,2025-05-27,2025-05-27,2024-05-17,2025-03-19,1045,REP 8,REP 8,2025-03-17,375,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+847,OPP - 847 - Renewal,Renewal,Stage 5,Sign,AMER,2025-05-26,2025-05-26,2025-03-20,2025-03-20,1020,REP 33,REP 33,2025-03-17,67,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+848,OPP - 848 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-10,2025-06-10,2024-06-10,2025-03-17,1013,REP 67,REP 67,2025-03-17,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+849,OPP - 849 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-16,2025-06-16,2024-06-04,2024-06-04,1000,REP 6,REP 6,2024-06-03,377,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+850,OPP - 850 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-26,2025-05-26,2024-05-03,2024-08-08,992,REP 72,NOT ASSIGNED,2024-08-05,388,Not Run-Rate,AMER,Draco Malfoy,Pipeline,,Pass
+851,OPP - 851 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-28,2025-04-28,2024-04-28,2025-01-02,960,REP 56,REP 56,2024-12-30,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+852,OPP - 852 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-08,2025-06-08,2024-06-13,2024-06-13,959,REP 59,REP 59,2024-06-10,360,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+853,OPP - 853 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-03,2025-09-05,2024-09-03,2024-09-04,936,REP 36,REP 36,2024-09-02,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+854,OPP - 854 - Upsell,Upsell,Stage 3,Core,JAPAN,2025-06-30,2024-12-19,2024-12-19,2024-12-19,935,REP 18,REP 18,2024-12-16,193,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+855,OPP - 855 - Renewal,Renewal,Stage 6,Core,AMER,2025-06-24,2025-06-24,2024-05-16,2025-04-07,900,REP 65,REP 65,2025-04-07,404,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+856,OPP - 856 - Net New,Net New,Stage 3,Sign,AMER,2025-04-25,2025-04-25,2025-04-03,2025-04-03,900,REP 43,REP 43,2025-03-31,22,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+857,OPP - 857 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-02,2025-05-02,2025-02-03,2025-02-03,900,REP 47,REP 47,2025-02-03,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+858,OPP - 858 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-20,2025-05-20,2025-02-21,2025-02-21,900,REP 65,REP 65,2025-02-17,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+859,OPP - 859 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-20,2025-06-20,2025-03-24,2025-03-24,900,REP 20,REP 20,2025-03-24,88,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+860,OPP - 860 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-18,2025-05-18,2024-05-14,2025-01-20,900,REP 53,REP 53,2025-01-20,369,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+861,OPP - 861 - Upsell,Upsell,Stage 6,Core,AMER,2025-05-01,2025-05-01,2024-08-09,2024-08-09,893,REP 8,REP 8,2024-08-05,265,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+862,OPP - 862 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-19,2025-05-19,2024-05-19,2025-02-24,891,REP 57,REP 57,2025-02-24,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+863,OPP - 863 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-22,2025-04-22,2024-04-22,2025-04-10,890,REP 50,REP 48,2025-04-07,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+864,OPP - 864 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-11,2025-05-11,2024-05-11,2025-01-28,888,REP 69,REP 69,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+865,OPP - 865 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-18,2025-05-18,2024-05-18,2025-01-31,882,REP 53,REP 53,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+866,OPP - 866 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-31,2025-05-31,2025-03-04,2025-03-04,882,REP 40,REP 40,2025-03-03,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+867,OPP - 867 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-09,2025-06-09,2024-06-04,2025-03-22,882,REP 50,REP 50,2025-03-21,370,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+868,OPP - 868 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-08,2025-05-08,2024-05-08,2025-04-04,869,REP 73,NOT ASSIGNED,2025-03-31,365,Not Run-Rate,EMEA,Colin Creevey,Commit,,Pass
+869,OPP - 869 - Renewal,Renewal,Stage 6,Core,AMER,2025-07-31,2025-07-31,2024-07-31,2025-03-28,864,REP 53,REP 53,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+870,OPP - 870 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-16,2025-04-16,2022-04-16,2023-11-02,864,REP 57,REP 57,2023-10-30,1096,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+871,OPP - 871 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-20,2025-05-20,2024-05-16,2024-05-16,864,REP 6,REP 6,2024-05-13,369,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+872,OPP - 872 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-14,2025-06-14,2025-03-17,2025-03-17,864,REP 59,REP 59,2025-03-17,89,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+873,OPP - 873 - Renewal,Renewal,Stage 5,Core,APAC,2025-05-17,2025-05-17,2024-05-16,2025-02-18,864,REP 23,REP 23,2025-02-17,366,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+874,OPP - 874 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-29,2025-04-29,2024-05-03,2025-01-24,852,REP 54,REP 54,2025-01-20,361,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+875,OPP - 875 - Renewal,Renewal,Stage 6,Core,AMER,2025-06-16,2025-06-16,2024-05-06,2025-04-10,819,REP 74,NOT ASSIGNED,2025-04-07,406,Not Run-Rate,AMER,Draco Malfoy,Commit,,Pass
+876,OPP - 876 - Renewal,Renewal,Stage 5,Core,EMEA,2025-09-27,2025-09-27,2024-09-27,2025-03-25,804,REP 75,NOT ASSIGNED,2025-03-24,365,Not Run-Rate,EMEA,Colin Creevey,Commit,,Pass
+877,OPP - 877 - Renewal,Renewal,Stage 2,Dash,AMER,2025-07-01,2025-07-01,2022-07-08,2023-05-22,804,REP 19,REP 19,2023-05-22,1089,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+878,OPP - 878 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-21,2025-04-21,2025-01-22,2025-01-22,804,REP 48,REP 48,2025-01-20,89,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+879,OPP - 879 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-02,2025-06-02,2024-06-02,2025-02-20,792,REP 64,REP 64,2025-02-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+880,OPP - 880 - Renewal,Renewal,Stage 5,Sign,AMER,2025-04-19,2025-04-19,2024-04-19,2025-03-25,792,REP 1,REP 1,2025-03-24,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+881,OPP - 881 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-04,2025-05-04,2025-02-03,2025-02-03,785,REP 36,REP 36,2025-02-03,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+882,OPP - 882 - Renewal,Renewal,Stage 6,Core,AMER,2025-06-24,2025-06-24,2024-06-24,2025-03-04,780,REP 64,REP 64,2025-03-03,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+883,OPP - 883 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-01,2025-07-01,2024-06-25,2024-06-25,769,REP 55,REP 55,2024-06-24,371,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+884,OPP - 884 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-26,2025-04-26,2024-04-25,2024-12-04,763,REP 76,REP 76,2024-12-02,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+885,OPP - 885 - Renewal,Renewal,Stage 5,Core,EMEA,2025-04-24,2025-04-24,2024-04-25,2025-03-19,763,REP 75,NOT ASSIGNED,2025-03-17,364,Not Run-Rate,EMEA,Colin Creevey,Commit,,Pass
+886,OPP - 886 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-24,2025-08-24,2024-08-21,2024-11-26,761,REP 50,REP 50,2024-11-25,368,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+887,OPP - 887 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-11,2025-05-11,2024-05-11,2025-01-31,748,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+888,OPP - 888 - Renewal,Renewal,Stage 5,Sign,AMER,2025-04-24,2025-04-24,2024-04-24,2025-02-25,739,REP 1,REP 1,2025-02-24,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit,,Pass
+889,OPP - 889 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-30,2025-04-30,2022-04-29,2023-03-02,738,REP 57,REP 57,2023-02-27,1097,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+890,OPP - 890 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-06-07,2025-04-01,735,REP 54,REP 54,2025-03-31,388,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+891,OPP - 891 - Renewal,Renewal,Stage 2,Core,EMEA,2025-09-01,2025-09-01,2024-09-06,2024-09-06,735,REP 9,REP 9,2024-09-02,360,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+892,OPP - 892 - Net New,Net New,Stage 2,Core,AMER,2025-05-30,2025-04-30,2025-04-08,2025-04-10,720,REP 32,REP 32,2025-04-07,52,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+893,OPP - 893 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-16,2025-06-16,2024-05-08,2024-06-18,720,REP 6,REP 6,2024-06-17,404,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+894,OPP - 894 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-15,2025-05-15,2024-05-15,2025-01-27,720,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+895,OPP - 895 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-13,2025-07-13,2024-07-31,2024-11-15,713,REP 45,REP 45,2024-11-11,347,Not Run-Rate,EMEA,Terry Boot,Pipeline,,Pass
+896,OPP - 896 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-19,2025-04-19,2024-04-19,2025-03-31,706,REP 43,REP 43,2025-03-31,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+897,OPP - 897 - Upsell,Upsell,Stage 5,Core,APAC,2025-05-27,2025-05-27,2025-02-28,2025-02-28,704,REP 30,REP 30,2025-02-24,88,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+898,OPP - 898 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-15,2025-06-15,2023-05-30,2024-05-02,703,REP 58,REP 58,2024-04-29,747,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+899,OPP - 899 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-25,2025-04-25,2024-04-25,2024-04-25,702,REP 67,REP 67,2024-04-22,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+900,OPP - 900 - Net New,Net New,Stage 6,Sign,AMER,2025-04-11,2025-04-11,2025-03-27,2025-03-27,696,REP 2,REP 2,2025-03-24,15,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+901,OPP - 901 - Net New,Net New,Stage 6,Sign,AMER,2025-04-11,2025-04-11,2025-04-11,2025-04-11,696,REP 2,NOT ASSIGNED,2025-04-07,0,Run-Rate,AMER,Hermione Granger,Commit,,Pass
+902,OPP - 902 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-07,2025-06-07,2024-12-08,2024-12-08,691,REP 68,REP 68,2024-12-06,181,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+903,OPP - 903 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-18,2025-04-18,2025-01-23,2025-01-23,690,REP 42,REP 42,2025-01-20,85,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+904,OPP - 904 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-12,2025-07-12,2024-07-05,2024-07-05,680,REP 6,REP 6,2024-07-01,372,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+905,OPP - 905 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-17,2025-06-17,2024-12-18,2024-12-18,675,REP 20,REP 20,2024-12-16,181,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+906,OPP - 906 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-03,2025-06-03,2025-03-05,2025-03-05,673,REP 53,REP 53,2025-03-03,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+907,OPP - 907 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-22,2025-07-22,2023-07-22,2023-11-02,672,REP 57,REP 57,2023-10-30,731,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+908,OPP - 908 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-15,2025-04-15,2024-11-20,2024-11-20,667,REP 57,REP 57,2024-11-18,146,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+909,OPP - 909 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-26,2025-04-26,2023-05-13,2024-07-31,666,REP 62,REP 62,2024-07-29,714,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+910,OPP - 910 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-29,2025-05-29,2025-02-28,2025-02-28,644,REP 3,REP 3,2025-02-24,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+911,OPP - 911 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-27,2025-04-27,2024-04-27,2024-12-30,644,REP 64,REP 64,2024-12-30,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+912,OPP - 912 - Renewal,Renewal,Stage 2,Sign,AMER,2025-06-17,2025-06-17,2024-06-28,2025-04-03,634,REP 1,REP 1,2025-03-31,354,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+913,OPP - 913 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-19,2025-05-19,2024-04-22,2025-04-03,630,REP 58,REP 48,2025-03-31,392,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+914,OPP - 914 - Net New,Net New,Stage 4,Sign,AMER,2025-04-30,2025-02-07,2025-02-28,2025-02-28,630,REP 65,REP 65,2025-02-24,61,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+915,OPP - 915 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-01,2025-05-01,2024-11-01,2025-01-02,621,REP 6,REP 6,2024-12-30,181,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+916,OPP - 916 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-04,2025-06-04,2024-06-04,2025-03-14,616,REP 53,REP 53,2025-03-10,365,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+917,OPP - 917 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-21,2025-09-21,2024-08-27,2024-08-27,610,REP 58,REP 58,2024-08-26,390,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+918,OPP - 918 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-27,2025-08-27,2024-08-15,2024-08-15,610,REP 59,REP 59,2024-08-12,377,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+919,OPP - 919 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-10,2025-05-10,2024-11-20,2024-11-20,600,REP 65,REP 65,2024-11-18,171,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+920,OPP - 920 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-30,2025-04-30,2025-01-30,2025-01-30,600,REP 53,REP 53,2025-01-27,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+921,OPP - 921 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-02,2025-05-02,2025-02-03,2025-02-03,600,REP 47,REP 47,2025-02-03,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+922,OPP - 922 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-10,2025-06-10,2025-03-12,2025-03-12,600,REP 54,REP 54,2025-03-10,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+923,OPP - 923 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-26,2025-04-26,2024-04-25,2024-07-17,600,REP 36,REP 36,2024-07-15,366,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+924,OPP - 924 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-26,2025-05-26,2024-05-29,2025-01-27,600,REP 59,REP 59,2025-01-27,362,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+925,OPP - 925 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-03,2025-07-03,2024-09-27,2025-04-03,600,REP 47,REP 47,2025-03-31,279,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+926,OPP - 926 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-30,2025-04-30,2024-04-30,2025-03-27,576,REP 61,REP 61,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+927,OPP - 927 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-08,2025-05-08,2025-02-07,2025-02-07,576,REP 59,REP 59,2025-02-03,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+928,OPP - 928 - Renewal,Renewal,Stage 5,Core,EMEA,2025-06-10,2025-06-10,2024-06-10,2025-01-20,576,REP 31,REP 31,2025-01-20,365,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+929,OPP - 929 - Upsell,Upsell,Stage 3,Core,AMER,2025-04-18,2025-03-06,2025-03-19,2025-03-19,562,REP 36,REP 36,2025-03-17,30,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+930,OPP - 930 - Renewal,Renewal,Stage 3,Core,AMER,2025-07-16,2025-07-16,2024-07-17,2025-03-20,562,REP 53,REP 53,2025-03-17,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+931,OPP - 931 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-24,2025-05-24,2024-05-16,2024-05-17,561,REP 51,REP 51,2024-05-13,373,Not Run-Rate,EMEA,Cho Chang,Commit,,Pass
+932,OPP - 932 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-12,2025-05-12,2024-05-12,2025-02-25,558,REP 53,REP 53,2025-02-24,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+933,OPP - 933 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-26,2025-04-26,2024-04-16,2024-04-16,549,REP 59,REP 59,2024-04-15,375,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+934,OPP - 934 - Renewal,Renewal,Stage 6,Core,EMEA,2025-04-16,2025-04-16,2024-06-05,2025-01-27,547,REP 73,NOT ASSIGNED,2025-01-27,315,Not Run-Rate,EMEA,Colin Creevey,Commit,,Pass
+935,OPP - 935 - Net New,Net New,Stage 6,Core,AMER,2025-04-28,2025-03-31,2025-03-25,2025-03-25,540,REP 32,REP 32,2025-03-24,34,Not Run-Rate,AMER,Hermione Granger,Commit,,Pass
+936,OPP - 936 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-15,2025-04-15,2024-04-15,2024-12-19,540,REP 59,REP 59,2024-12-16,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+937,OPP - 937 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-24,2025-04-24,2024-04-24,2025-01-27,540,REP 59,REP 59,2025-01-27,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+938,OPP - 938 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-17,2025-04-17,2024-03-14,2025-04-08,540,REP 47,REP 47,2025-04-07,399,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+939,OPP - 939 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-16,2025-04-16,2024-04-23,2024-04-23,528,REP 65,REP 65,2024-04-22,358,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+940,OPP - 940 - Renewal,Renewal,Stage 5,Sign,AMER,2025-06-16,2025-06-16,2023-06-20,2025-03-28,528,REP 33,REP 33,2025-03-24,727,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+941,OPP - 941 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-12,2025-05-12,2024-05-12,2025-03-06,523,REP 67,REP 67,2025-03-03,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+942,OPP - 942 - Upsell,Upsell,Stage 5,Core,APAC,2025-06-03,2025-06-03,2025-03-05,2025-03-05,518,REP 23,REP 23,2025-03-03,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+943,OPP - 943 - Renewal,Renewal,Stage 4,Core,APAC,2025-06-23,2025-06-23,2024-10-08,2024-10-08,518,REP 30,REP 30,2024-10-07,258,Not Run-Rate,APAC,Severus Snape,Best Case,,Pass
+944,OPP - 944 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-22,2025-06-22,2025-03-25,2025-03-25,513,REP 54,REP 54,2025-03-24,89,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+945,OPP - 945 - Upsell,Upsell,Stage 5,Core,EMEA,2025-07-03,2025-07-03,2025-04-04,2025-04-04,511,REP 66,REP 66,2025-03-31,90,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+946,OPP - 946 - Renewal,Renewal,Stage 5,Core,APAC,2025-06-01,2025-06-01,2024-05-08,2025-03-08,507,REP 30,REP 30,2025-03-07,389,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+947,OPP - 947 - Upsell,Upsell,Stage 6,Sign,AMER,2025-04-11,2025-04-11,2025-04-11,2025-04-11,500,REP 2,NOT ASSIGNED,2025-04-07,0,Run-Rate,AMER,Hermione Granger,Commit,,Pass
+948,OPP - 948 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-05,2025-07-05,2024-06-17,2024-11-20,480,REP 65,REP 65,2024-11-18,383,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+949,OPP - 949 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-25,2025-06-25,2024-06-25,2024-06-25,480,REP 20,REP 20,2024-06-24,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+950,OPP - 950 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-21,2025-06-21,2025-03-23,2025-03-23,480,REP 62,REP 62,2025-03-21,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+951,OPP - 951 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-22,2025-05-22,2024-05-16,2025-04-11,473,REP 13,NOT ASSIGNED,2025-04-07,371,Not Run-Rate,DASH,Remus Lupin,Pipeline,,Pass
+952,OPP - 952 - Upsell,Upsell,Stage 5,Core,EMEA,2025-04-23,2025-04-23,2025-01-24,2025-01-24,462,REP 49,REP 49,2025-01-20,89,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+953,OPP - 953 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-14,2025-05-14,2025-02-13,2025-02-13,461,REP 66,REP 66,2025-02-10,90,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+954,OPP - 954 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-26,2025-05-26,2025-02-27,2025-02-27,461,REP 42,REP 42,2025-02-24,88,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+955,OPP - 955 - Upsell,Upsell,Stage 5,Core,APAC,2025-05-04,2025-05-04,2025-02-05,2025-02-05,457,REP 30,REP 30,2025-02-03,88,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+956,OPP - 956 - Renewal,Renewal,Stage 4,Core,AMER,2025-04-19,2025-04-19,2024-04-17,2025-03-17,450,REP 58,REP 58,2025-03-17,367,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+957,OPP - 957 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-15,2025-06-15,2022-06-15,2025-03-24,450,REP 20,REP 20,2025-03-24,1096,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+958,OPP - 958 - Upsell,Upsell,Stage 5,Sign,AMER,2025-06-30,2025-02-22,2025-03-18,2025-03-18,449,REP 33,REP 33,2025-03-17,104,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+959,OPP - 959 - Net New,Net New,Stage 2,Core,JAPAN,2025-04-28,2025-04-14,2025-03-11,2025-03-11,443,REP 5,REP 5,2025-03-10,48,Not Run-Rate,JAPAN,Colin Creevey,Pipeline,,Pass
+960,OPP - 960 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-25,2025-05-25,2024-11-27,2024-11-27,441,REP 46,REP 46,2024-11-25,179,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+961,OPP - 961 - Renewal,Renewal,Stage 3,Core,EMEA,2025-09-06,2025-09-06,2022-12-28,2023-01-16,435,REP 49,REP 49,2023-01-16,983,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+962,OPP - 962 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-12,2025-07-12,2024-06-13,2024-12-09,432,REP 53,REP 53,2024-12-09,394,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+963,OPP - 963 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-10,2025-09-10,2024-09-10,2024-11-19,432,REP 53,REP 53,2024-11-18,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+964,OPP - 964 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-28,2025-06-28,2024-06-28,2025-03-06,432,REP 64,REP 64,2025-03-03,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+965,OPP - 965 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-30,2025-05-30,2024-06-03,2024-06-03,432,REP 47,REP 47,2024-06-03,361,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+966,OPP - 966 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-08,2025-07-08,2024-07-08,2025-04-09,430,REP 22,REP 22,2025-04-07,365,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+967,OPP - 967 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-29,2025-07-29,2024-07-29,2025-03-28,425,REP 53,REP 53,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+968,OPP - 968 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-26,2025-06-26,2025-03-28,2025-03-28,414,REP 26,REP 26,2025-03-24,90,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+969,OPP - 969 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-18,2025-04-18,2024-11-20,2024-11-20,408,REP 23,REP 23,2024-11-18,149,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+970,OPP - 970 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-27,2025-04-27,2024-04-29,2025-02-21,405,REP 6,REP 6,2025-02-17,363,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+971,OPP - 971 - Upsell,Upsell,Stage 5,Core,APAC,2025-05-03,2025-05-03,2025-02-04,2025-02-04,403,REP 30,REP 30,2025-02-03,88,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+972,OPP - 972 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-17,2025-05-17,2025-02-18,2025-02-18,402,REP 57,REP 57,2025-02-17,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+973,OPP - 973 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-28,2025-06-28,2023-07-05,2025-03-19,394,REP 37,REP 37,2025-03-17,724,Not Run-Rate,AMER,Susan Bones,Pipeline,,Pass
+974,OPP - 974 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-05,2025-08-05,2024-08-02,2024-09-05,384,REP 57,REP 57,2024-09-02,368,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+975,OPP - 975 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-10,2025-05-10,2024-05-10,2025-01-21,374,REP 53,REP 53,2025-01-20,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+976,OPP - 976 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-21,2025-04-21,2024-04-20,2025-03-24,360,REP 59,REP 59,2025-03-24,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+977,OPP - 977 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,360,REP 57,REP 57,2025-03-31,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+978,OPP - 978 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-04,2025-06-04,2024-06-04,2025-02-25,360,REP 36,REP 36,2025-02-24,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+979,OPP - 979 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-18,2025-05-18,2025-02-19,2025-02-19,359,REP 46,REP 46,2025-02-17,88,Not Run-Rate,EMEA,Ron Weasley,Commit,,Pass
+980,OPP - 980 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-25,2025-05-25,2025-02-26,2025-02-26,345,REP 33,REP 37,2025-02-24,88,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+981,OPP - 981 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-31,2025-08-31,2024-09-02,2024-10-10,336,REP 65,REP 65,2024-10-07,363,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+982,OPP - 982 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-19,2025-09-19,2024-09-19,2024-11-01,336,REP 53,REP 53,2024-10-28,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+983,OPP - 983 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-11,2025-07-11,2025-01-12,2025-01-12,306,REP 42,REP 42,2025-01-10,180,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+984,OPP - 984 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-28,2025-06-28,2024-06-27,2025-03-31,300,REP 6,REP 6,2025-03-31,366,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+985,OPP - 985 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-25,2025-04-25,2025-01-26,2025-01-26,300,REP 57,REP 57,2025-01-24,89,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+986,OPP - 986 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-04,2025-05-04,2025-02-05,2025-02-05,300,REP 58,REP 58,2025-02-03,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+987,OPP - 987 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-26,2025-05-26,2025-02-27,2025-02-27,300,REP 53,REP 53,2025-02-24,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+988,OPP - 988 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-16,2025-05-16,2025-02-17,2025-02-17,292,REP 48,REP 48,2025-02-17,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+989,OPP - 989 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-18,2025-05-18,2024-05-28,2024-10-28,288,REP 74,NOT ASSIGNED,2024-10-28,355,Not Run-Rate,AMER,Draco Malfoy,Pipeline,,Pass
+990,OPP - 990 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-18,2025-06-18,2024-06-18,2025-03-25,288,REP 59,REP 59,2025-03-24,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+991,OPP - 991 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-18,2025-08-18,2024-08-16,2024-08-16,288,REP 57,REP 57,2024-08-12,367,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+992,OPP - 992 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-29,2025-08-29,2024-08-29,2025-03-19,288,REP 47,REP 47,2025-03-17,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+993,OPP - 993 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-18,2025-09-18,2024-09-10,2025-04-03,288,REP 59,REP 59,2025-03-31,373,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+994,OPP - 994 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-16,2025-06-16,2025-03-20,2025-03-20,288,REP 42,REP 42,2025-03-17,88,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+995,OPP - 995 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-16,2025-06-16,2024-06-17,2025-01-08,288,REP 57,REP 57,2025-01-06,364,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+996,OPP - 996 - Renewal,Renewal,Stage 2,Core,EMEA,2025-05-09,2025-05-09,2022-05-09,2023-11-02,284,REP 73,NOT ASSIGNED,2023-10-30,1096,Not Run-Rate,EMEA,Colin Creevey,Pipeline,,Pass
+997,OPP - 997 - Renewal,Renewal,Stage 5,Core,AMER,2025-07-02,2025-07-02,2024-07-03,2025-04-03,280,REP 36,REP 36,2025-03-31,364,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+998,OPP - 998 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,278,REP 12,REP 12,2025-03-31,90,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+999,OPP - 999 - Upsell,Upsell,Stage 6,Core,EMEA,2025-04-04,2025-04-04,2025-04-04,2025-04-04,276,REP 9,REP 9,2025-03-31,0,Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+1000,OPP - 1000 - Renewal,Renewal,Stage 2,Core,EMEA,2025-09-05,2025-09-05,2025-02-12,2025-02-26,276,REP 24,REP 24,2025-02-24,205,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+1001,OPP - 1001 - Renewal,Renewal,Stage 2,Sign,AMER,2025-06-11,2025-06-11,2024-06-20,2025-04-03,264,REP 1,REP 1,2025-03-31,356,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline,,Pass
+1002,OPP - 1002 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-30,2025-06-30,2024-06-03,2024-06-03,259,REP 59,REP 59,2024-06-03,392,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1003,OPP - 1003 - Renewal,Renewal,Stage 6,Sign,AMER,2025-04-22,2025-04-22,2024-05-14,2025-04-10,259,REP 77,NOT ASSIGNED,2025-04-07,343,Not Run-Rate,AMER,Draco Malfoy,Commit,,Pass
+1004,OPP - 1004 - Renewal,Renewal,Stage 4,Core,AMER,2025-05-19,2025-05-19,2024-05-20,2024-12-03,252,REP 65,REP 65,2024-12-02,364,Not Run-Rate,AMER,Cho Chang,Best Case,,Pass
+1005,OPP - 1005 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-17,2025-05-17,2025-02-18,2025-02-18,252,REP 59,REP 59,2025-02-17,88,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1006,OPP - 1006 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-23,2025-04-23,2024-04-22,2024-11-20,252,REP 36,REP 36,2024-11-18,366,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1007,OPP - 1007 - Upsell,Upsell,Stage 5,Core,APAC,2025-05-15,2025-05-15,2025-02-18,2025-02-18,249,REP 23,REP 23,2025-02-17,86,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+1008,OPP - 1008 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-15,2025-08-15,2024-08-21,2024-09-30,246,REP 15,NOT ASSIGNED,2024-09-30,359,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+1009,OPP - 1009 - Renewal,Renewal,Stage 5,Core,EMEA,2025-05-16,2025-05-16,2024-05-16,2024-05-16,245,REP 24,REP 24,2024-05-13,365,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+1010,OPP - 1010 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-08,2025-05-08,2025-02-15,2025-02-15,245,REP 17,REP 17,2025-02-14,82,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+1011,OPP - 1011 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-16,2025-04-16,2024-04-02,2024-04-02,240,REP 47,REP 47,2024-04-01,379,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1012,OPP - 1012 - Renewal,Renewal,Stage 4,Core,AMER,2025-06-18,2025-06-18,2024-06-18,2025-02-27,233,REP 58,REP 58,2025-02-24,365,Not Run-Rate,AMER,Harry Potter,Best Case,,Pass
+1013,OPP - 1013 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-01,2025-06-01,2024-09-03,2024-09-03,230,REP 66,REP 66,2024-09-02,271,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+1014,OPP - 1014 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-20,2025-04-20,2024-11-20,2024-11-20,225,REP 42,REP 42,2024-11-18,151,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1015,OPP - 1015 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-06,2025-05-06,2024-04-22,2025-02-10,216,REP 12,REP 12,2025-02-10,379,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1016,OPP - 1016 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-02,2025-03-17,2024-12-20,2024-12-20,216,REP 20,REP 20,2024-12-16,133,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1017,OPP - 1017 - Renewal,Renewal,Stage 3,Core,EMEA,2025-06-22,2025-06-22,2024-06-25,2025-03-13,215,REP 49,REP 49,2025-03-10,362,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+1018,OPP - 1018 - Upsell,Upsell,Stage 5,Core,EMEA,2025-06-22,2025-06-22,2024-12-23,2024-12-23,207,REP 45,REP 45,2024-12-23,181,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+1019,OPP - 1019 - Renewal,Renewal,Stage 5,Core,EMEA,2025-07-10,2025-07-10,2024-07-09,2025-04-11,207,REP 17,REP 17,2025-04-07,366,Not Run-Rate,EMEA,Amelia Bones,Commit,,Pass
+1020,OPP - 1020 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-30,2025-06-30,2025-04-01,2025-04-01,204,REP 42,REP 42,2025-03-31,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1021,OPP - 1021 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-29,2025-04-29,2025-01-29,2025-01-29,203,REP 30,REP 30,2025-01-27,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+1022,OPP - 1022 - Upsell,Upsell,Stage 5,Core,AMER,2025-07-01,2025-07-01,2025-04-02,2025-04-02,200,REP 57,REP 57,2025-03-31,90,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1023,OPP - 1023 - Renewal,Renewal,Stage 5,Core,APAC,2025-06-06,2025-06-06,2024-06-06,2025-04-07,192,REP 23,REP 23,2025-04-07,365,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+1024,OPP - 1024 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-04,2025-06-04,2024-06-04,2024-06-04,192,REP 57,REP 57,2024-06-03,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1025,OPP - 1025 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-04,2025-07-04,2024-06-30,2024-06-30,192,REP 46,REP 46,2024-06-28,369,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+1026,OPP - 1026 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-22,2025-07-22,2024-07-23,2025-04-07,192,REP 65,REP 65,2025-04-07,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1027,OPP - 1027 - Renewal,Renewal,Stage 2,Core,EMEA,2025-09-04,2025-09-04,2024-09-04,2025-02-04,191,REP 51,REP 51,2025-02-03,365,Not Run-Rate,EMEA,Cho Chang,Pipeline,,Pass
+1028,OPP - 1028 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-28,2025-06-28,2025-03-30,2025-03-30,189,REP 39,REP 39,2025-03-28,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1029,OPP - 1029 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-19,2025-09-19,2024-09-19,2024-10-10,180,REP 8,REP 8,2024-10-07,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+1030,OPP - 1030 - Renewal,Renewal,Stage 3,Core,AMER,2025-06-03,2025-06-03,2024-05-02,2025-01-31,180,REP 57,REP 57,2025-01-27,397,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1031,OPP - 1031 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-21,2025-06-21,2024-06-21,2025-04-02,179,REP 58,REP 58,2025-03-31,365,Not Run-Rate,AMER,Harry Potter,Pipeline,,Pass
+1032,OPP - 1032 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-26,2025-05-26,2025-02-25,2025-02-25,178,REP 29,REP 29,2025-02-24,90,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+1033,OPP - 1033 - Upsell,Upsell,Stage 5,Core,AMER,2025-05-20,2025-05-20,2025-02-21,2025-02-21,177,REP 36,REP 36,2025-02-17,88,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1034,OPP - 1034 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-03,2025-05-03,2024-04-05,2024-07-17,169,REP 6,REP 6,2024-07-15,393,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1035,OPP - 1035 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-30,2025-05-30,2024-04-15,2024-06-04,167,REP 40,REP 40,2024-06-03,410,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1036,OPP - 1036 - Upsell,Upsell,Stage 5,Core,AMER,2025-06-02,2025-06-02,2025-03-04,2025-03-04,165,REP 43,REP 43,2025-03-03,90,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1037,OPP - 1037 - Upsell,Upsell,Stage 5,Core,APAC,2025-04-29,2025-04-29,2025-01-29,2025-01-29,155,REP 23,REP 23,2025-01-27,90,Not Run-Rate,APAC,Severus Snape,Commit,,Pass
+1038,OPP - 1038 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-15,2025-04-15,2024-04-15,2024-12-19,154,REP 59,REP 59,2024-12-16,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1039,OPP - 1039 - Upsell,Upsell,Stage 5,Core,EMEA,2025-05-28,2025-05-28,2024-12-10,2024-12-10,153,REP 31,REP 31,2024-12-09,169,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+1040,OPP - 1040 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-30,2025-04-30,2024-05-02,2024-11-21,153,REP 32,REP 32,2024-11-18,363,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+1041,OPP - 1041 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-28,2025-09-28,2024-08-30,2024-08-30,132,REP 59,REP 59,2024-08-26,394,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1042,OPP - 1042 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-15,2025-03-25,2025-04-10,2025-04-10,131,REP 40,REP 40,2025-04-07,5,Run-Rate,AMER,Harry Potter,Commit,,Pass
+1043,OPP - 1043 - Renewal,Renewal,Stage 2,Core,AMER,2025-05-11,2025-05-11,2024-05-12,2024-05-12,125,REP 59,REP 59,2024-05-10,364,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1044,OPP - 1044 - Renewal,Renewal,Stage 5,Core,AMER,2025-04-29,2025-04-29,2024-05-02,2024-05-02,120,REP 22,REP 22,2024-04-29,362,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1045,OPP - 1045 - Upsell,Upsell,Stage 5,Core,JAPAN,2025-04-18,2025-04-15,2025-04-11,2025-04-11,117,REP 18,REP 18,2025-04-07,7,Run-Rate,JAPAN,Colin Creevey,Commit,,Pass
+1046,OPP - 1046 - Renewal,Renewal,Stage 3,Core,APAC,2025-06-30,2025-06-30,2023-06-28,2025-04-01,114,REP 30,REP 30,2025-03-31,733,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+1047,OPP - 1047 - Renewal,Renewal,Stage 2,Core,APAC,2025-05-29,2025-05-29,2024-05-29,2024-11-06,110,REP 78,NOT ASSIGNED,2024-11-04,365,Not Run-Rate,APAC,Severus Snape,Pipeline,,Pass
+1048,OPP - 1048 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-16,2025-05-16,2024-05-17,2024-08-21,108,REP 58,REP 58,2024-08-19,364,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1049,OPP - 1049 - Renewal,Renewal,Stage 3,Sign,AMER,2025-04-01,2025-04-01,2024-04-18,2025-04-07,105,REP 54,REP 54,2025-04-07,348,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+1050,OPP - 1050 - Renewal,Renewal,Stage 6,Core,AMER,2025-05-15,2025-05-15,2024-08-01,2024-12-17,99,REP 25,REP 25,2024-12-16,287,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1051,OPP - 1051 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-01,2025-06-01,2024-05-10,2024-07-11,97,REP 58,REP 58,2024-07-08,387,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1052,OPP - 1052 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-19,2025-06-19,2024-06-05,2024-06-05,97,REP 57,REP 57,2024-06-03,379,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1053,OPP - 1053 - Renewal,Renewal,Stage 5,Core,AMER,2025-06-25,2025-06-25,2024-06-24,2025-03-06,96,REP 8,REP 8,2025-03-03,366,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1054,OPP - 1054 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-27,2025-07-27,2024-07-29,2024-10-28,96,REP 6,REP 6,2024-10-28,363,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1055,OPP - 1055 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-28,2025-08-28,2024-08-28,2024-09-23,84,REP 65,REP 65,2024-09-23,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1056,OPP - 1056 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-16,2025-08-16,2023-07-19,2023-11-02,79,REP 54,REP 39,2023-10-30,759,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+1057,OPP - 1057 - Upsell,Upsell,Stage 5,Core,AMER,2025-04-01,2025-03-23,2025-01-14,2025-01-14,72,REP 29,REP 29,2025-01-13,77,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+1058,OPP - 1058 - Renewal,Renewal,Stage 6,Core,AMER,2025-07-15,2025-07-15,2024-07-15,2024-11-14,60,REP 53,REP 53,2024-11-11,365,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1059,OPP - 1059 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-02,2025-07-02,2024-07-02,2024-11-15,60,REP 15,NOT ASSIGNED,2024-11-11,365,Not Run-Rate,AMER,Hermione Granger,Pipeline,,Pass
+1060,OPP - 1060 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-11,2025-07-11,2024-07-11,2024-10-16,60,REP 6,REP 6,2024-10-14,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1061,OPP - 1061 - Renewal,Renewal,Stage 6,Core,AMER,2025-04-16,2025-04-16,2024-04-16,2025-03-12,58,REP 40,REP 40,2025-03-10,365,Not Run-Rate,AMER,Harry Potter,Commit,,Pass
+1062,OPP - 1062 - Renewal,Renewal,Stage 2,Core,EMEA,2025-08-07,2025-08-07,2024-08-28,2024-12-12,54,REP 75,NOT ASSIGNED,2024-12-09,344,Not Run-Rate,EMEA,Colin Creevey,Pipeline,,Pass
+1063,OPP - 1063 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-28,2025-06-28,2024-05-30,2024-05-30,48,REP 54,REP 54,2024-05-27,394,Not Run-Rate,AMER,Filius Flitwick,Pipeline,,Pass
+1064,OPP - 1064 - Renewal,Renewal,Stage 2,Core,AMER,2025-07-12,2025-07-12,2024-07-12,2024-07-12,48,REP 57,REP 57,2024-07-08,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1065,OPP - 1065 - Renewal,Renewal,Stage 2,Core,AMER,2025-08-03,2025-08-03,2024-08-03,2024-11-08,48,REP 57,REP 57,2024-11-04,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1066,OPP - 1066 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-03,2025-09-03,2024-09-05,2024-11-13,48,REP 6,REP 6,2024-11-11,363,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1067,OPP - 1067 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-09,2025-05-09,2024-05-07,2024-05-07,48,REP 47,REP 47,2024-05-06,367,Not Run-Rate,AMER,Cho Chang,Commit,,Pass
+1068,OPP - 1068 - Renewal,Renewal,Stage 6,Core,EMEA,2025-05-05,2025-05-05,2023-05-08,2023-09-21,46,REP 31,REP 31,2023-09-18,728,Not Run-Rate,EMEA,Terry Boot,Commit,,Pass
+1069,OPP - 1069 - Renewal,Renewal,Stage 3,Core,EMEA,2025-05-13,2025-05-13,2024-05-13,2025-03-13,46,REP 49,REP 49,2025-03-10,365,Not Run-Rate,EMEA,Ron Weasley,Pipeline,,Pass
+1070,OPP - 1070 - Renewal,Renewal,Stage 2,Core,EMEA,2025-08-26,2025-08-26,2024-08-27,2024-11-18,46,REP 9,REP 9,2024-11-18,364,Not Run-Rate,EMEA,Amelia Bones,Pipeline,,Pass
+1071,OPP - 1071 - Renewal,Renewal,Stage 5,Core,AMER,2025-05-14,2025-05-14,2024-05-16,2024-08-14,40,REP 43,REP 43,2024-08-12,363,Not Run-Rate,AMER,Filius Flitwick,Commit,,Pass
+1072,OPP - 1072 - Renewal,Renewal,Stage 2,Core,AMER,2025-04-24,2025-04-24,2024-04-24,2024-04-24,40,REP 79,NOT ASSIGNED,2024-04-22,365,Not Run-Rate,AMER,Draco Malfoy,Pipeline,,Pass
+1073,OPP - 1073 - Renewal,Renewal,Stage 2,Core,AMER,2025-06-14,2025-06-14,2024-06-14,2024-08-08,24,REP 59,REP 59,2024-08-05,365,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1074,OPP - 1074 - Renewal,Renewal,Stage 4,Core,AMER,2025-04-16,2025-04-16,2023-04-13,2023-04-14,20,REP 10,REP 10,2023-04-10,734,Not Run-Rate,AMER,Susan Bones,Commit,,Pass
+1075,OPP - 1075 - Renewal,Renewal,Stage 2,Core,AMER,2025-09-26,2025-09-26,2024-09-24,2025-03-27,3,REP 57,REP 57,2025-03-24,367,Not Run-Rate,AMER,Cho Chang,Pipeline,,Pass
+1076,OPP - 1076 - Renewal,Renewal,Stage 2,Core,EMEA,2025-07-28,2025-07-28,2023-06-30,2025-02-18,0,REP 31,REP 31,2025-02-17,759,Not Run-Rate,EMEA,Terry Boot,Pipeline,"Pipeline ACV is zero or negative, which is invalid; ",Failed
+1077,OPP - 1077 - Renewal,Renewal,Stage 3,Core,AMER,2025-04-23,2025-04-23,2024-04-11,2025-03-27,0,REP 43,REP 43,2025-03-24,377,Not Run-Rate,AMER,Filius Flitwick,Pipeline,"Pipeline ACV is zero or negative, which is invalid; ",Failed
+1078,OPP - 1078 - Net New,Net New,Stage 5,Core,AMER,2025-05-01,2025-04-01,2025-04-10,2025-04-10,NULL,REP 2,REP 84,2025-04-07,21,Not Run-Rate,AMER,Hermione Granger,Commit,"Pipeline ACV is zero or negative, which is invalid; ",Failed

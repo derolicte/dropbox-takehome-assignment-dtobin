@@ -1,0 +1,69 @@
+region,level,manager,product,forecast_value,dq_flag,dq_check
+AMER,Manager,Cho Chang,Core,212286,,Pass
+AMER,Manager,Cho Chang,Dash,169829,,Pass
+AMER,Manager,Cho Chang,Send,377720,,Pass
+AMER,Manager,Cho Chang,Sign,161880,,Pass
+AMER,Manager,Draco Malfoy,Core,265357,,Pass
+AMER,Manager,Draco Malfoy,Dash,212286,,Pass
+AMER,Manager,Draco Malfoy,Send,472150,,Pass
+AMER,Manager,Draco Malfoy,Sign,202350,,Pass
+AMER,Manager,Filius Flitwick,Core,424571,,Pass
+AMER,Manager,Filius Flitwick,Dash,339657,,Pass
+AMER,Manager,Filius Flitwick,Send,163330,,Pass
+AMER,Manager,Filius Flitwick,Sign,69999,,Pass
+AMER,Manager,Harry Potter,Core,530714,,Pass
+AMER,Manager,Harry Potter,Dash,424571,,Pass
+AMER,Manager,Harry Potter,Send,417980,,Pass
+AMER,Manager,Harry Potter,Sign,179134,,Pass
+AMER,Manager,Hermione Granger,Core,185750,,Pass
+AMER,Manager,Hermione Granger,Dash,148600,,Pass
+AMER,Manager,Hermione Granger,Send,659455,,Pass
+AMER,Manager,Hermione Granger,Sign,282624,,Pass
+AMER,Manager,Rubeus Hagrid,Core,291893,,Pass
+AMER,Manager,Rubeus Hagrid,Dash,233514,,Pass
+AMER,Manager,Rubeus Hagrid,Send,387785,,Pass
+AMER,Manager,Rubeus Hagrid,Sign,166194,,Pass
+AMER,Manager,Susan Bones,Core,318429,,Pass
+AMER,Manager,Susan Bones,Dash,254743,,Pass
+AMER,Manager,Susan Bones,Send,566580,,Pass
+AMER,Manager,Susan Bones,Sign,242820,,Pass
+APAC,Manager,Severus Snape,Core,583000,,Pass
+APAC,Manager,Severus Snape,Dash,466400,,Pass
+APAC,Manager,Severus Snape,Send,70000,,Pass
+APAC,Manager,Severus Snape,Sign,30000,,Pass
+DASH,Manager,Remus Lupin,Core,NULL,,Pass
+DASH,Manager,Remus Lupin,Dash,300000,,Pass
+DASH,Manager,Remus Lupin,Send,NULL,,Pass
+DASH,Manager,Remus Lupin,Sign,NULL,,Pass
+EMEA,Manager,Amelia Bones,Core,1227000,,Pass
+EMEA,Manager,Amelia Bones,Dash,981600,,Pass
+EMEA,Manager,Amelia Bones,Send,235200,,Pass
+EMEA,Manager,Amelia Bones,Sign,100800,,Pass
+EMEA,Manager,Ron Weasley,Core,1227000,,Pass
+EMEA,Manager,Ron Weasley,Dash,981600,,Pass
+EMEA,Manager,Ron Weasley,Send,235200,,Pass
+EMEA,Manager,Ron Weasley,Sign,100800,,Pass
+EMEA,Manager,Terry Boot,Core,1227000,,Pass
+EMEA,Manager,Terry Boot,Dash,981600,,Pass
+EMEA,Manager,Terry Boot,Send,235200,,Pass
+EMEA,Manager,Terry Boot,Sign,100800,,Pass
+JAPAN,Manager,Colin Creevey,Core,1225000,,Pass
+JAPAN,Manager,Colin Creevey,Dash,980000,,Pass
+JAPAN,Manager,Colin Creevey,Send,4900,,Pass
+JAPAN,Manager,Colin Creevey,Sign,2100,,Pass
+AMER,Region,NULL,Core,3047000,,Pass
+AMER,Region,NULL,Dash,2437600,,Pass
+AMER,Region,NULL,Send,642600,,Pass
+AMER,Region,NULL,Sign,275400,,Pass
+APAC,Region,NULL,Core,583000,,Pass
+APAC,Region,NULL,Dash,466400,,Pass
+APAC,Region,NULL,Send,70000,,Pass
+APAC,Region,NULL,Sign,30000,,Pass
+EMEA,Region,NULL,Core,1553000,,Pass
+EMEA,Region,NULL,Dash,1242400,,Pass
+EMEA,Region,NULL,Send,250600,,Pass
+EMEA,Region,NULL,Sign,107400,,Pass
+JAPAN,Region,NULL,Core,1225000,,Pass
+JAPAN,Region,NULL,Dash,980000,,Pass
+JAPAN,Region,NULL,Send,4900,,Pass
+JAPAN,Region,NULL,Sign,2100,,Pass

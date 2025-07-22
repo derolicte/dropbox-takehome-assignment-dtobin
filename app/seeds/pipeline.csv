@@ -1,0 +1,1079 @@
+﻿Opp ID,Opp Name,Type,Stage,Product Flag,CRM Region,Close Date,Start Date,Created Date,Qualified Date,Net New ACV (USD),Opp Owner,Account Owner,Week Start,Days from Qualified,Type,Reporting Region,Reporting Manager,Forecast Category
+1,OPP - 1 - Net New,Net New,Stage 3,Sign,AMER,09/01/2025,09/01/2025,02/10/2025,02/10/2025,"$489,731",REP 1,REP 1,02/10/2025,203,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+2,OPP - 2 - Net New,Net New,Stage 3,Sign,AMER,9/30/2025,3/27/2025,9/17/2024,9/17/2024,"$388,608",REP 2,REP 2,9/16/2024,378,Not Run-Rate,AMER,Hermione Granger,Pipeline
+3,OPP - 3 - Renewal,Renewal,Stage 4,Core,AMER,6/30/2025,6/30/2025,6/28/2024,6/28/2024,"$321,951",REP 3,REP 3,6/24/2024,367,Not Run-Rate,AMER,Susan Bones,Best Case
+4,OPP - 4 - Net New,Net New,Stage 3,Dash,APAC,05/02/2025,3/28/2025,2/19/2025,2/19/2025,"$235,294",REP 4,REP 23,2/17/2025,72,Not Run-Rate,APAC,Severus Snape,Pipeline
+5,OPP - 5 - Upsell,Upsell,Stage 2,Core,JAPAN,6/23/2025,6/23/2025,10/14/2024,10/14/2024,"$227,922",REP 5,REP 5,10/14/2024,252,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+6,OPP - 6 - Net New,Net New,Stage 3,Core,AMER,8/15/2025,8/15/2025,02/07/2025,02/07/2025,"$215,100",REP 6,REP 6,02/03/2025,189,Not Run-Rate,AMER,Cho Chang,Pipeline
+7,OPP - 7 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,10/01/2024,08/03/2023,08/03/2023,"$212,498",REP 7,REP 7,7/31/2023,760,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+8,OPP - 8 - Net New,Net New,Stage 3,Core,AMER,06/10/2025,6/30/2026,02/12/2025,03/04/2025,"$208,542",REP 8,REP 65,03/03/2025,118,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+9,OPP - 9 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,10/31/2025,1/24/2025,1/24/2025,"$182,480",REP 9,REP 9,1/20/2025,157,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+10,OPP - 10 - Net New,Net New,Stage 2,Core,JAPAN,07/01/2025,7/21/2023,7/21/2023,7/21/2023,"$182,338",REP 7,REP 7,7/17/2023,711,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+11,OPP - 11 - Net New,Net New,Stage 2,Dash,AMER,9/30/2025,9/30/2025,04/08/2025,04/08/2025,"$177,000",REP 10,REP 10,04/07/2025,175,Not Run-Rate,AMER,Susan Bones,Pipeline
+12,OPP - 12 - Net New,Net New,Stage 2,Core,AMER,8/22/2025,04/08/2022,06/03/2021,06/03/2021,"$174,240",REP 8,REP 8,5/31/2021,1541,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+13,OPP - 13 - Net New,Net New,Stage 2,Dash,JAPAN,6/30/2025,6/30/2025,04/06/2025,04/06/2025,"$172,071",REP 5,REP 5,04/04/2025,85,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+14,OPP - 14 - Net New,Net New,Stage 2,Core,JAPAN,05/09/2025,5/25/2025,03/10/2025,03/10/2025,"$158,961",REP 7,REP 7,03/10/2025,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+15,OPP - 15 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,11/19/2024,11/18/2024,11/18/2024,"$155,844",REP 7,REP 7,11/18/2024,287,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+16,OPP - 16 - Renewal,Renewal,Stage 2,Core,JAPAN,6/20/2025,6/20/2025,6/19/2024,04/01/2025,"$147,354",REP 11,REP 11,3/31/2025,366,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+17,OPP - 17 - Net New,Net New,Stage 2,Sign,AMER,07/01/2025,12/04/2024,5/28/2024,5/28/2024,"$130,380",REP 12,REP 48,5/27/2024,399,Not Run-Rate,AMER,Harry Potter,Pipeline
+18,OPP - 18 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,2/22/2024,2/22/2024,2/22/2024,"$126,623",REP 7,REP 7,2/19/2024,557,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+19,OPP - 19 - Net New,Net New,Stage 2,Dash,EMEA,4/30/2025,4/30/2025,10/17/2024,10/17/2024,"$122,480",REP 13,REP 17,10/14/2024,195,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+20,OPP - 20 - Net New,Net New,Stage 3,Core,JAPAN,09/01/2025,06/01/2025,2/26/2025,2/26/2025,"$116,883",REP 7,REP 11,2/24/2025,187,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+21,OPP - 21 - Net New,Net New,Stage 3,Core,JAPAN,07/01/2025,07/01/2025,08/04/2023,08/04/2023,"$112,208",REP 7,REP 7,7/31/2023,697,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+22,OPP - 22 - Net New,Net New,Stage 2,Core,AMER,06/01/2025,06/01/2025,3/17/2025,3/17/2025,"$108,900",REP 14,NOT ASSIGNED,3/17/2025,76,Not Run-Rate,AMER,Hermione Granger,Pipeline
+23,OPP - 23 - Net New,Net New,Stage 4,Core,AMER,4/30/2025,4/30/2024,9/13/2023,9/13/2023,"$104,000",REP 15,REP 15,09/11/2023,595,Not Run-Rate,AMER,Hermione Granger,Commit
+24,OPP - 24 - Upsell,Upsell,Stage 3,Dash,APAC,5/30/2025,5/30/2025,03/11/2025,03/11/2025,"$102,941",REP 16,REP 30,03/10/2025,80,Not Run-Rate,APAC,Severus Snape,Pipeline
+25,OPP - 25 - Net New,Net New,Stage 3,Core,AMER,6/29/2025,10/24/2025,3/13/2025,04/01/2025,"$100,980",REP 8,REP 19,3/31/2025,108,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+26,OPP - 26 - Net New,Net New,Stage 2,Core,AMER,7/31/2025,7/31/2025,04/10/2025,04/10/2025,"$95,850",REP 15,REP 15,04/07/2025,112,Not Run-Rate,AMER,Hermione Granger,Pipeline
+27,OPP - 27 - Upsell,Upsell,Stage 3,Core,EMEA,6/25/2025,6/25/2025,03/07/2025,03/07/2025,"$92,555",REP 17,REP 17,03/03/2025,110,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+28,OPP - 28 - Net New,Net New,Stage 2,Core,AMER,06/01/2025,06/01/2025,3/17/2025,3/17/2025,"$89,700",REP 14,NOT ASSIGNED,3/17/2025,76,Not Run-Rate,AMER,Hermione Granger,Pipeline
+29,OPP - 29 - Net New,Net New,Stage 2,Core,JAPAN,9/30/2025,9/30/2025,11/21/2024,11/21/2024,"$87,662",REP 5,REP 5,11/18/2024,313,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+30,OPP - 30 - Net New,Net New,Stage 3,Core,JAPAN,6/30/2025,4/30/2025,9/25/2024,9/25/2024,"$86,258",REP 18,REP 18,9/23/2024,278,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+31,OPP - 31 - Net New,Net New,Stage 2,Core,EMEA,7/31/2025,1/31/2025,11/08/2024,11/08/2024,"$84,205",REP 9,REP 9,11/04/2024,265,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+32,OPP - 32 - Net New,Net New,Stage 2,Sign,AMER,7/31/2025,7/31/2025,12/30/2024,01/02/2025,"$79,200",REP 2,NOT ASSIGNED,12/30/2024,213,Not Run-Rate,AMER,Hermione Granger,Pipeline
+33,OPP - 33 - Renewal,Renewal,Stage 2,Core,AMER,8/20/2025,4/20/2025,8/18/2022,8/19/2022,"$77,601",REP 19,REP 19,8/15/2022,1098,Not Run-Rate,AMER,Susan Bones,Pipeline
+34,OPP - 34 - Net New,Net New,Stage 2,Dash,JAPAN,6/30/2025,6/30/2025,04/08/2025,04/08/2025,"$75,128",REP 5,REP 5,04/07/2025,83,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+35,OPP - 35 - Net New,Net New,Stage 2,Core,AMER,5/29/2025,5/29/2025,7/31/2024,7/31/2024,"$75,000",REP 20,REP 20,7/29/2024,302,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+36,OPP - 36 - Net New,Net New,Stage 2,Dash,AMER,7/31/2025,05/12/2025,3/27/2025,3/28/2025,"$75,000",REP 21,NOT ASSIGNED,3/24/2025,126,Not Run-Rate,DASH,Remus Lupin,Pipeline
+37,OPP - 37 - Net New,Net New,Stage 2,Core,JAPAN,04/05/2025,02/04/2025,02/04/2025,02/04/2025,"$72,935",REP 7,REP 7,02/03/2025,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+38,OPP - 38 - Upsell,Upsell,Stage 2,Dash,AMER,5/30/2025,2/24/2025,2/24/2025,03/11/2025,"$70,800",REP 4,REP 36,03/10/2025,95,Not Run-Rate,AMER,Harry Potter,Pipeline
+39,OPP - 39 - Upsell,Upsell,Stage 4,Core,AMER,4/30/2025,05/01/2025,1/30/2025,1/30/2025,"$69,890",REP 10,REP 10,1/27/2025,90,Not Run-Rate,AMER,Susan Bones,Best Case
+40,OPP - 40 - Net New,Net New,Stage 2,Core,AMER,4/30/2025,1/31/2025,9/27/2024,11/19/2024,"$69,300",REP 22,REP 22,11/18/2024,215,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+41,OPP - 41 - Net New,Net New,Stage 2,Dash,APAC,6/30/2025,3/31/2025,10/17/2024,10/31/2024,"$69,020",REP 23,REP 23,10/28/2024,256,Not Run-Rate,APAC,Severus Snape,Pipeline
+42,OPP - 42 - Upsell,Upsell,Stage 2,Core,EMEA,7/18/2025,2/28/2025,2/28/2025,2/28/2025,"$66,088",REP 24,REP 24,2/24/2025,140,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+43,OPP - 43 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,6/30/2025,3/19/2024,6/27/2024,"$65,894",REP 25,REP 48,6/24/2024,468,Not Run-Rate,AMER,Harry Potter,Pipeline
+44,OPP - 44 - Upsell,Upsell,Stage 2,Core,EMEA,5/24/2025,04/02/2025,04/02/2025,04/08/2025,"$64,783",REP 26,REP 26,04/07/2025,52,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+45,OPP - 45 - Net New,Net New,Stage 2,Core,JAPAN,6/23/2025,6/23/2025,1/30/2025,1/30/2025,"$63,312",REP 5,REP 5,1/27/2025,144,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+46,OPP - 46 - Net New,Net New,Stage 4,Dash,AMER,6/30/2025,6/30/2025,10/16/2024,10/17/2024,"$62,016",REP 27,REP 39,10/14/2024,257,Not Run-Rate,AMER,Filius Flitwick,Best Case
+47,OPP - 47 - Net New,Net New,Stage 2,Core,JAPAN,05/01/2025,03/02/2025,03/02/2025,03/03/2025,"$60,901",REP 5,NOT ASSIGNED,03/03/2025,60,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+48,OPP - 48 - Net New,Net New,Stage 2,Core,JAPAN,5/31/2025,10/03/2024,10/02/2024,10/02/2024,"$60,779",REP 7,REP 7,9/30/2024,241,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+49,OPP - 49 - Upsell,Upsell,Stage 2,Dash,AMER,05/02/2025,01/09/2025,01/09/2025,1/14/2025,"$60,000",REP 4,REP 54,1/13/2025,113,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+50,OPP - 50 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,1/24/2025,1/24/2025,"$60,000",REP 28,REP 28,1/20/2025,157,Not Run-Rate,AMER,Susan Bones,Pipeline
+51,OPP - 51 - Net New,Net New,Stage 2,Dash,AMER,5/30/2025,5/30/2025,2/24/2025,2/24/2025,"$60,000",REP 16,REP 50,2/24/2025,95,Not Run-Rate,AMER,Harry Potter,Pipeline
+52,OPP - 52 - Net New,Net New,Stage 3,Core,AMER,9/30/2025,06/01/2025,1/16/2025,1/16/2025,"$60,000",REP 10,REP 10,1/13/2025,257,Not Run-Rate,AMER,Susan Bones,Pipeline
+53,OPP - 53 - Net New,Net New,Stage 2,Core,EMEA,7/31/2025,11/22/2024,10/18/2024,10/18/2024,"$57,122",REP 9,REP 9,10/14/2024,286,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+54,OPP - 54 - Net New,Net New,Stage 2,Core,JAPAN,9/22/2025,9/22/2025,12/17/2024,12/17/2024,"$56,104",REP 5,REP 5,12/16/2024,279,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+55,OPP - 55 - Net New,Net New,Stage 3,Core,AMER,7/18/2025,7/18/2025,04/11/2025,04/11/2025,"$55,392",REP 29,REP 29,04/07/2025,98,Not Run-Rate,AMER,Susan Bones,Pipeline
+56,OPP - 56 - Net New,Net New,Stage 3,Core,APAC,5/31/2025,5/31/2025,1/28/2025,1/28/2025,"$55,328",REP 30,NOT ASSIGNED,1/27/2025,123,Not Run-Rate,APAC,Severus Snape,Pipeline
+57,OPP - 57 - Net New,Net New,Stage 2,Dash,AMER,9/28/2025,9/28/2025,3/14/2025,3/14/2025,"$54,600",REP 3,REP 3,03/10/2025,198,Not Run-Rate,AMER,Susan Bones,Pipeline
+58,OPP - 58 - Upsell,Upsell,Stage 2,Core,JAPAN,08/01/2025,08/01/2025,3/18/2025,3/18/2025,"$52,597",REP 5,REP 5,3/17/2025,136,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+59,OPP - 59 - Upsell,Upsell,Stage 5,Core,AMER,06/08/2025,06/08/2025,03/11/2025,03/11/2025,"$52,431",REP 3,REP 3,03/10/2025,89,Not Run-Rate,AMER,Susan Bones,Commit
+60,OPP - 60 - Net New,Net New,Stage 2,Core,EMEA,5/28/2025,3/20/2025,1/23/2025,1/23/2025,"$51,697",REP 31,REP 31,1/20/2025,125,Not Run-Rate,EMEA,Terry Boot,Pipeline
+61,OPP - 61 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,04/01/2025,8/14/2024,8/14/2024,"$51,480",REP 8,REP 8,08/12/2024,320,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+62,OPP - 62 - Renewal,Renewal,Stage 2,Core,AMER,07/01/2025,07/01/2025,08/04/2024,9/30/2024,"$49,536",REP 20,REP 20,9/30/2024,331,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+63,OPP - 63 - Renewal,Renewal,Stage 5,Dash,AMER,6/30/2025,6/30/2025,10/20/2022,02/12/2025,"$48,450",REP 8,REP 8,02/10/2025,984,Not Run-Rate,AMER,Filius Flitwick,Commit
+64,OPP - 64 - Renewal,Renewal,Stage 2,Core,AMER,5/30/2025,2/20/2026,2/19/2025,2/19/2025,"$48,187",REP 3,REP 3,2/17/2025,100,Not Run-Rate,AMER,Susan Bones,Pipeline
+65,OPP - 65 - Net New,Net New,Stage 2,Core,AMER,9/30/2025,9/30/2025,04/02/2025,04/02/2025,"$48,000",REP 32,REP 32,3/31/2025,181,Not Run-Rate,AMER,Hermione Granger,Pipeline
+66,OPP - 66 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,6/30/2025,01/10/2025,01/10/2025,"$48,000",REP 6,REP 6,01/06/2025,171,Not Run-Rate,AMER,Cho Chang,Pipeline
+67,OPP - 67 - Upsell,Upsell,Stage 4,Dash,AMER,6/30/2025,3/31/2025,01/10/2025,01/10/2025,"$48,000",REP 27,REP 50,01/06/2025,171,Not Run-Rate,AMER,Harry Potter,Best Case
+68,OPP - 68 - Upsell,Upsell,Stage 2,Core,JAPAN,9/26/2025,8/30/2022,8/29/2022,10/10/2023,"$47,864",REP 11,REP 11,10/09/2023,1124,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+69,OPP - 69 - Renewal,Renewal,Stage 5,Core,AMER,5/21/2025,5/21/2025,05/07/2024,2/19/2025,"$46,514",REP 33,REP 33,2/17/2025,379,Not Run-Rate,AMER,Susan Bones,Best Case
+70,OPP - 70 - Net New,Net New,Stage 5,Core,EMEA,6/30/2025,12/31/2024,10/30/2024,10/30/2024,"$45,953",REP 9,REP 9,10/28/2024,243,Not Run-Rate,EMEA,Amelia Bones,Commit
+71,OPP - 71 - Net New,Net New,Stage 3,Core,EMEA,7/31/2025,01/01/2025,10/25/2024,10/25/2024,"$45,611",REP 9,REP 9,10/21/2024,279,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+72,OPP - 72 - Renewal,Renewal,Stage 4,Core,AMER,5/28/2025,5/28/2025,5/24/2024,3/19/2025,"$44,880",REP 29,REP 29,3/17/2025,369,Not Run-Rate,AMER,Susan Bones,Best Case
+73,OPP - 73 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,2/21/2025,03/04/2025,"$44,800",REP 15,REP 15,03/03/2025,129,Not Run-Rate,AMER,Hermione Granger,Pipeline
+74,OPP - 74 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,6/30/2025,04/09/2025,04/09/2025,"$43,930",REP 3,REP 3,04/07/2025,82,Not Run-Rate,AMER,Susan Bones,Pipeline
+75,OPP - 75 - Renewal,Renewal,Stage 2,Core,AMER,9/29/2025,9/29/2025,8/20/2024,9/30/2024,"$43,776",REP 8,REP 8,9/30/2024,405,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+76,OPP - 76 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,4/30/2025,2/19/2025,2/19/2025,"$43,584",REP 10,REP 10,2/17/2025,131,Not Run-Rate,AMER,Susan Bones,Pipeline
+77,OPP - 77 - Net New,Net New,Stage 2,Core,APAC,4/15/2025,12/15/2024,10/14/2024,10/14/2024,"$42,667",REP 23,REP 23,10/14/2024,183,Not Run-Rate,APAC,Severus Snape,Pipeline
+78,OPP - 78 - Net New,Net New,Stage 2,Sign,AMER,6/23/2025,6/23/2025,8/20/2024,8/20/2024,"$42,240",REP 34,REP 34,8/19/2024,307,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+79,OPP - 79 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,2/18/2025,2/18/2025,"$42,240",REP 35,REP 35,2/17/2025,132,Not Run-Rate,AMER,Hermione Granger,Pipeline
+80,OPP - 80 - Net New,Net New,Stage 2,Core,EMEA,7/31/2025,12/27/2024,07/09/2024,07/09/2024,"$42,103",REP 9,REP 9,07/08/2024,387,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+81,OPP - 81 - Net New,Net New,Stage 2,Dash,AMER,6/20/2025,6/20/2025,3/13/2025,3/13/2025,"$42,000",REP 36,REP 36,03/10/2025,99,Not Run-Rate,AMER,Harry Potter,Pipeline
+82,OPP - 82 - Net New,Net New,Stage 2,Dash,APAC,5/23/2025,5/30/2025,2/28/2025,2/28/2025,"$41,176",REP 4,NOT ASSIGNED,2/24/2025,84,Not Run-Rate,DASH,Remus Lupin,Pipeline
+83,OPP - 83 - Net New,Net New,Stage 4,Core,AMER,6/20/2025,02/10/2025,7/30/2024,7/30/2024,"$39,897",REP 15,REP 15,7/29/2024,325,Not Run-Rate,AMER,Hermione Granger,Best Case
+84,OPP - 84 - Renewal,Renewal,Stage 2,Core,AMER,07/11/2025,07/11/2025,6/26/2024,6/27/2024,"$39,863",REP 37,REP 37,6/24/2024,380,Not Run-Rate,AMER,Susan Bones,Pipeline
+85,OPP - 85 - Net New,Net New,Stage 2,Sign,AMER,9/13/2025,9/13/2025,03/05/2025,03/05/2025,"$39,672",REP 36,REP 36,03/03/2025,192,Not Run-Rate,AMER,Harry Potter,Pipeline
+86,OPP - 86 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,3/31/2025,12/17/2024,12/17/2024,"$39,600",REP 35,REP 35,12/16/2024,134,Not Run-Rate,AMER,Hermione Granger,Pipeline
+87,OPP - 87 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,3/31/2025,02/11/2025,02/11/2025,"$39,600",REP 35,REP 35,02/10/2025,78,Not Run-Rate,AMER,Hermione Granger,Pipeline
+88,OPP - 88 - Net New,Net New,Stage 5,Core,AMER,4/14/2025,4/14/2025,10/14/2024,10/16/2024,"$39,600",REP 32,REP 32,10/14/2024,182,Not Run-Rate,AMER,Hermione Granger,Commit
+89,OPP - 89 - Net New,Net New,Stage 4,Sign,AMER,04/01/2025,12/31/2024,7/16/2024,7/16/2024,"$38,503",REP 38,REP 38,7/15/2024,259,Not Run-Rate,AMER,Rubeus Hagrid,Best Case
+90,OPP - 90 - Net New,Net New,Stage 2,Core,JAPAN,6/30/2025,1/18/2024,1/17/2024,1/17/2024,"$37,987",REP 7,REP 7,1/15/2024,530,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+91,OPP - 91 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,04/11/2025,04/11/2025,"$37,500",REP 35,REP 35,04/07/2025,80,Not Run-Rate,AMER,Hermione Granger,Pipeline
+92,OPP - 92 - Net New,Net New,Stage 2,Core,JAPAN,9/22/2025,9/22/2025,09/03/2024,09/03/2024,"$37,403",REP 5,REP 5,09/02/2024,384,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+93,OPP - 93 - Renewal,Renewal,Stage 6,Sign,AMER,4/15/2025,04/08/2025,5/15/2024,04/03/2025,"$37,277",REP 1,REP 1,3/31/2025,335,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+94,OPP - 94 - Renewal,Renewal,Stage 2,Core,EMEA,5/28/2025,07/09/2025,07/01/2024,7/30/2024,"$36,807",REP 31,REP 31,7/29/2024,331,Not Run-Rate,EMEA,Terry Boot,Pipeline
+95,OPP - 95 - Upsell,Upsell,Stage 5,Core,JAPAN,5/21/2025,5/21/2025,2/22/2025,2/22/2025,"$36,557",REP 18,REP 18,2/21/2025,88,Not Run-Rate,JAPAN,Colin Creevey,Commit
+96,OPP - 96 - Net New,Net New,Stage 2,Core,AMER,7/31/2025,8/31/2024,02/02/2024,02/02/2024,"$36,000",REP 10,REP 10,1/29/2024,545,Not Run-Rate,AMER,Susan Bones,Pipeline
+97,OPP - 97 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,3/29/2025,04/01/2025,"$34,500",REP 14,REP 14,3/31/2025,93,Not Run-Rate,AMER,Hermione Granger,Pipeline
+98,OPP - 98 - Renewal,Renewal,Stage 3,Core,EMEA,9/18/2025,9/18/2025,9/18/2023,9/18/2023,"$34,464",REP 24,REP 24,9/18/2023,731,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+99,OPP - 99 - Renewal,Renewal,Stage 3,Core,AMER,6/17/2025,6/17/2025,06/05/2024,3/14/2025,"$34,005",REP 10,REP 37,03/10/2025,377,Not Run-Rate,AMER,Susan Bones,Pipeline
+100,OPP - 100 - Renewal,Renewal,Stage 2,Core,AMER,08/04/2025,12/30/2024,7/22/2022,11/02/2023,"$33,762",REP 19,REP 19,10/30/2023,1109,Not Run-Rate,AMER,Susan Bones,Pipeline
+101,OPP - 101 - Net New,Net New,Stage 5,Core,AMER,6/30/2025,6/22/2025,12/16/2024,12/16/2024,"$30,888",REP 33,REP 33,12/16/2024,196,Not Run-Rate,AMER,Susan Bones,Best Case
+102,OPP - 102 - Upsell,Upsell,Stage 3,Dash,AMER,5/30/2025,5/30/2025,01/10/2025,01/10/2025,"$30,504",REP 16,REP 42,01/06/2025,140,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+103,OPP - 103 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,3/31/2025,2/21/2025,2/21/2025,"$30,240",REP 15,NOT ASSIGNED,2/17/2025,129,Not Run-Rate,AMER,Hermione Granger,Pipeline
+104,OPP - 104 - Net New,Net New,Stage 2,Core,AMER,8/29/2025,01/01/2025,05/10/2024,5/13/2024,"$30,000",REP 39,REP 39,5/13/2024,476,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+105,OPP - 105 - Net New,Net New,Stage 2,Dash,AMER,5/23/2025,3/28/2025,2/26/2025,2/26/2025,"$30,000",REP 16,REP 16,2/24/2025,86,Not Run-Rate,DASH,Remus Lupin,Pipeline
+106,OPP - 106 - Upsell,Upsell,Stage 3,Dash,AMER,5/30/2025,05/05/2025,01/09/2025,1/14/2025,"$30,000",REP 4,REP 48,1/13/2025,141,Not Run-Rate,AMER,Harry Potter,Best Case
+107,OPP - 107 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,2/28/2025,1/13/2025,1/13/2025,"$30,000",REP 15,REP 15,1/13/2025,137,Not Run-Rate,AMER,Hermione Granger,Best Case
+108,OPP - 108 - Net New,Net New,Stage 3,Core,AMER,7/31/2025,6/30/2025,2/28/2025,2/28/2025,"$30,000",REP 40,REP 40,2/24/2025,153,Not Run-Rate,AMER,Harry Potter,Pipeline
+109,OPP - 109 - Renewal,Renewal,Stage 2,Sign,AMER,5/15/2025,5/15/2025,5/15/2024,3/18/2025,"$29,990",REP 41,REP 34,3/17/2025,365,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+110,OPP - 110 - Net New,Net New,Stage 2,Dash,APAC,4/25/2025,4/25/2025,2/27/2025,2/27/2025,"$29,412",REP 16,NOT ASSIGNED,2/24/2025,57,Not Run-Rate,DASH,Remus Lupin,Pipeline
+111,OPP - 111 - Net New,Net New,Stage 2,Dash,AMER,5/28/2025,03/10/2025,2/27/2025,04/09/2025,"$28,320",REP 4,REP 81,04/07/2025,90,Not Run-Rate,DASH,Remus Lupin,Pipeline
+112,OPP - 112 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,9/19/2024,08/01/2024,08/01/2024,"$27,930",REP 8,REP 8,7/29/2024,333,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+113,OPP - 113 - Net New,Net New,Stage 3,Sign,EMEA,7/16/2025,10/14/2024,09/03/2024,09/03/2024,"$27,788",REP 24,REP 24,09/02/2024,316,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+114,OPP - 114 - Renewal,Renewal,Stage 5,Core,AMER,4/18/2025,4/18/2025,10/18/2024,03/11/2025,"$27,720",REP 42,REP 42,03/10/2025,182,Not Run-Rate,AMER,Filius Flitwick,Commit
+115,OPP - 115 - Net New,Net New,Stage 2,Sign,AMER,7/31/2025,06/01/2025,08/02/2024,08/02/2024,"$27,600",REP 40,REP 40,7/29/2024,363,Not Run-Rate,AMER,Harry Potter,Pipeline
+116,OPP - 116 - Upsell,Upsell,Stage 3,Dash,EMEA,4/30/2025,3/14/2025,01/09/2025,1/15/2025,"$27,450",REP 13,REP 45,1/13/2025,111,Not Run-Rate,EMEA,Terry Boot,Pipeline
+117,OPP - 117 - Renewal,Renewal,Stage 2,Core,AMER,08/10/2025,06/10/2025,09/02/2022,12/12/2024,"$27,438",REP 33,REP 19,12/09/2024,1073,Not Run-Rate,AMER,Susan Bones,Pipeline
+118,OPP - 118 - Upsell,Upsell,Stage 2,Core,JAPAN,5/24/2025,12/24/2024,5/26/2024,5/26/2024,"$27,170",REP 5,REP 5,5/24/2024,363,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+119,OPP - 119 - Net New,Net New,Stage 4,Core,JAPAN,06/01/2025,06/01/2025,5/21/2024,5/21/2024,"$27,117",REP 5,REP 11,5/20/2024,376,Not Run-Rate,JAPAN,Colin Creevey,Best Case
+120,OPP - 120 - Net New,Net New,Stage 4,Core,AMER,4/30/2025,05/09/2025,2/26/2025,2/26/2025,"$26,512",REP 15,REP 15,2/24/2025,63,Not Run-Rate,AMER,Hermione Granger,Best Case
+121,OPP - 121 - Net New,Net New,Stage 2,Core,JAPAN,06/10/2025,5/13/2024,05/12/2024,05/12/2024,"$26,500",REP 7,REP 7,05/10/2024,394,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+122,OPP - 122 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,3/13/2025,3/13/2025,"$26,460",REP 33,REP 33,03/10/2025,109,Not Run-Rate,AMER,Susan Bones,Best Case
+123,OPP - 123 - Renewal,Renewal,Stage 2,Core,AMER,6/27/2025,6/27/2025,9/29/2023,04/09/2025,"$25,636",REP 43,REP 43,04/07/2025,637,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+124,OPP - 124 - Renewal,Renewal,Stage 6,Sign,AMER,7/22/2025,3/26/2025,7/22/2024,08/12/2024,"$25,384",REP 34,REP 34,08/12/2024,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+125,OPP - 125 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,09/01/2025,5/16/2024,5/16/2024,"$25,325",REP 5,REP 5,5/13/2024,473,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+126,OPP - 126 - Net New,Net New,Stage 3,Dash,AMER,8/29/2025,3/28/2025,03/04/2025,03/04/2025,"$25,200",REP 16,NOT ASSIGNED,03/03/2025,178,Not Run-Rate,DASH,Remus Lupin,Pipeline
+127,OPP - 127 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,12/31/2025,02/03/2025,2/13/2025,"$25,039",REP 15,REP 15,02/10/2025,147,Not Run-Rate,AMER,Hermione Granger,Pipeline
+128,OPP - 128 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,05/01/2025,9/25/2024,9/25/2024,"$24,838",REP 7,REP 7,9/23/2024,341,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+129,OPP - 129 - Renewal,Renewal,Stage 3,Core,AMER,6/28/2025,6/28/2025,06/07/2024,2/18/2025,"$24,401",REP 10,REP 10,2/17/2025,386,Not Run-Rate,AMER,Susan Bones,Pipeline
+130,OPP - 130 - Net New,Net New,Stage 2,Core,AMER,9/30/2025,1/31/2025,12/04/2024,12/04/2024,"$24,000",REP 32,NOT ASSIGNED,12/02/2024,300,Not Run-Rate,AMER,Hermione Granger,Pipeline
+131,OPP - 131 - Net New,Net New,Stage 2,Core,AMER,5/30/2025,05/01/2025,04/08/2025,04/08/2025,"$24,000",REP 15,REP 15,04/07/2025,52,Not Run-Rate,AMER,Hermione Granger,Pipeline
+132,OPP - 132 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,07/10/2024,07/11/2024,"$24,000",REP 22,REP 22,07/08/2024,355,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+133,OPP - 133 - Upsell,Upsell,Stage 2,Dash,JAPAN,6/30/2025,6/30/2025,04/06/2025,04/06/2025,"$23,663",REP 5,REP 5,04/04/2025,85,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+134,OPP - 134 - Renewal,Renewal,Stage 4,Core,AMER,6/23/2025,6/23/2025,09/10/2024,7/20/2023,"$23,100",REP 3,REP 19,7/17/2023,286,Not Run-Rate,AMER,Susan Bones,Best Case
+135,OPP - 135 - Net New,Net New,Stage 2,Sign,AMER,8/29/2025,08/01/2025,08/08/2024,08/08/2024,"$22,865",REP 44,REP 44,08/05/2024,386,Not Run-Rate,AMER,Cho Chang,Pipeline
+136,OPP - 136 - Renewal,Renewal,Stage 3,Core,EMEA,5/26/2025,5/26/2025,5/27/2024,11/13/2024,"$22,647",REP 45,REP 45,11/11/2024,364,Not Run-Rate,EMEA,Terry Boot,Pipeline
+137,OPP - 137 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,4/18/2025,02/12/2025,02/12/2025,"$22,620",REP 3,REP 19,02/10/2025,138,Not Run-Rate,AMER,Susan Bones,Pipeline
+138,OPP - 138 - Renewal,Renewal,Stage 4,Core,JAPAN,5/24/2025,5/24/2025,5/23/2024,1/20/2025,"$22,618",REP 5,REP 5,1/20/2025,366,Not Run-Rate,JAPAN,Colin Creevey,Best Case
+139,OPP - 139 - Upsell,Upsell,Stage 3,Core,AMER,6/28/2025,07/01/2025,10/17/2024,10/17/2024,"$22,513",REP 8,REP 8,10/14/2024,254,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+140,OPP - 140 - Net New,Net New,Stage 2,Core,EMEA,6/30/2025,01/06/2025,09/05/2024,09/05/2024,"$22,455",REP 9,REP 9,09/02/2024,298,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+141,OPP - 141 - Net New,Net New,Stage 2,Core,EMEA,05/02/2025,05/02/2025,3/27/2025,3/27/2025,"$22,001",REP 46,REP 46,3/24/2025,36,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+142,OPP - 142 - Upsell,Upsell,Stage 2,Core,AMER,6/30/2025,6/30/2025,12/20/2024,12/20/2024,"$21,601",REP 25,REP 25,12/16/2024,192,Not Run-Rate,AMER,Harry Potter,Pipeline
+143,OPP - 143 - Net New,Net New,Stage 2,Sign,AMER,07/01/2025,6/30/2025,3/18/2025,3/18/2025,"$21,600",REP 47,REP 47,3/17/2025,105,Not Run-Rate,AMER,Cho Chang,Pipeline
+144,OPP - 144 - Net New,Net New,Stage 2,Dash,EMEA,6/20/2025,6/20/2025,04/07/2025,04/07/2025,"$21,587",REP 24,REP 24,04/07/2025,74,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+145,OPP - 145 - Net New,Net New,Stage 2,Dash,EMEA,6/20/2025,6/20/2025,04/07/2025,04/07/2025,"$21,587",REP 24,REP 24,04/07/2025,74,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+146,OPP - 146 - Upsell,Upsell,Stage 5,Core,APAC,4/14/2025,4/14/2025,2/21/2025,2/21/2025,"$21,565",REP 30,REP 30,2/17/2025,52,Not Run-Rate,APAC,Severus Snape,Commit
+147,OPP - 147 - Net New,Net New,Stage 2,Dash,AMER,4/25/2025,04/11/2025,1/15/2025,04/08/2025,"$21,240",REP 4,REP 15,04/07/2025,100,Not Run-Rate,AMER,Hermione Granger,Pipeline
+148,OPP - 148 - Net New,Net New,Stage 2,Dash,AMER,5/30/2025,3/28/2025,2/25/2025,2/26/2025,"$21,240",REP 4,NOT ASSIGNED,2/24/2025,94,Not Run-Rate,DASH,Remus Lupin,Pipeline
+149,OPP - 149 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,3/17/2025,3/17/2025,"$21,000",REP 20,REP 20,3/17/2025,105,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+150,OPP - 150 - Net New,Net New,Stage 3,Dash,AMER,6/30/2025,6/30/2025,9/17/2024,9/17/2024,"$21,000",REP 16,REP 36,9/16/2024,286,Not Run-Rate,AMER,Harry Potter,Pipeline
+151,OPP - 151 - Net New,Net New,Stage 3,Dash,AMER,5/30/2025,3/28/2025,1/15/2025,1/15/2025,"$21,000",REP 4,NOT ASSIGNED,1/13/2025,135,Not Run-Rate,DASH,Remus Lupin,Pipeline
+152,OPP - 152 - Net New,Net New,Stage 3,Dash,AMER,6/20/2025,6/20/2025,04/06/2025,04/06/2025,"$21,000",REP 16,REP 43,04/04/2025,75,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+153,OPP - 153 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$20,800",REP 14,REP 14,3/31/2025,90,Not Run-Rate,AMER,Hermione Granger,Pipeline
+154,OPP - 154 - Net New,Net New,Stage 2,Dash,APAC,4/25/2025,4/25/2025,2/24/2025,2/24/2025,"$20,588",REP 16,REP 23,2/24/2025,60,Not Run-Rate,APAC,Severus Snape,Pipeline
+155,OPP - 155 - Net New,Net New,Stage 2,Dash,APAC,4/25/2025,4/25/2025,2/28/2025,2/28/2025,"$20,588",REP 4,REP 82,2/24/2025,56,Not Run-Rate,APAC,Severus Snape,Pipeline
+156,OPP - 156 - Net New,Net New,Stage 2,Dash,EMEA,9/30/2025,3/31/2025,2/27/2025,2/27/2025,"$20,104",REP 13,NOT ASSIGNED,2/24/2025,215,Not Run-Rate,DASH,Remus Lupin,Pipeline
+157,OPP - 157 - Renewal,Renewal,Stage 2,Core,AMER,6/21/2025,6/21/2025,6/21/2022,1/29/2024,"$20,012",REP 40,REP 48,1/29/2024,1096,Not Run-Rate,AMER,Harry Potter,Pipeline
+158,OPP - 158 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,3/21/2025,3/21/2025,"$19,800",REP 35,REP 35,3/17/2025,101,Not Run-Rate,AMER,Hermione Granger,Pipeline
+159,OPP - 159 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,4/30/2025,3/27/2025,3/27/2025,"$19,800",REP 35,REP 35,3/24/2025,64,Not Run-Rate,AMER,Hermione Granger,Pipeline
+160,OPP - 160 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,2/25/2025,2/25/2025,"$19,584",REP 22,REP 22,2/24/2025,125,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+161,OPP - 161 - Upsell,Upsell,Stage 3,Core,AMER,6/30/2025,02/11/2025,02/11/2025,02/11/2025,"$19,500",REP 28,REP 28,02/10/2025,139,Not Run-Rate,AMER,Susan Bones,Pipeline
+162,OPP - 162 - Upsell,Upsell,Stage 4,Dash,AMER,5/29/2025,3/31/2025,01/10/2025,01/10/2025,"$19,301",REP 27,REP 22,01/06/2025,139,Not Run-Rate,AMER,Filius Flitwick,Best Case
+163,OPP - 163 - Net New,Net New,Stage 2,Send,AMER,5/14/2025,09/04/2024,02/01/2024,02/01/2024,"$19,200",REP 48,REP 48,1/29/2024,468,Not Run-Rate,AMER,Harry Potter,Pipeline
+164,OPP - 164 - Net New,Net New,Stage 3,Sign,AMER,7/31/2025,02/05/2024,02/05/2024,02/05/2024,"$19,200",REP 10,REP 10,02/05/2024,542,Not Run-Rate,AMER,Susan Bones,Pipeline
+165,OPP - 165 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,1/15/2025,7/24/2024,7/24/2024,"$19,080",REP 1,REP 1,7/22/2024,280,Not Run-Rate,AMER,Rubeus Hagrid,Best Case
+166,OPP - 166 - Net New,Net New,Stage 3,Dash,EMEA,4/30/2025,4/30/2025,10/15/2024,10/16/2024,"$18,948",REP 13,REP 17,10/14/2024,197,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+167,OPP - 167 - Net New,Net New,Stage 4,Core,AMER,7/31/2025,2/24/2025,12/02/2024,12/02/2024,"$18,720",REP 14,REP 14,12/02/2024,241,Not Run-Rate,AMER,Hermione Granger,Best Case
+168,OPP - 168 - Net New,Net New,Stage 3,Core,EMEA,6/30/2025,5/16/2025,1/30/2025,1/30/2025,"$18,496",REP 49,REP 49,1/27/2025,151,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+169,OPP - 169 - Upsell,Upsell,Stage 2,Core,AMER,6/28/2025,6/17/2025,10/21/2024,10/24/2024,"$18,346",REP 36,REP 36,10/21/2024,250,Not Run-Rate,AMER,Harry Potter,Pipeline
+170,OPP - 170 - Renewal,Renewal,Stage 5,Core,AMER,6/30/2025,6/30/2025,9/28/2022,11/02/2023,"$18,150",REP 8,REP 8,10/30/2023,1006,Not Run-Rate,AMER,Filius Flitwick,Commit
+171,OPP - 171 - Net New,Net New,Stage 2,Dash,APAC,6/20/2025,6/20/2025,2/28/2025,2/28/2025,"$18,060",REP 16,NOT ASSIGNED,2/24/2025,112,Not Run-Rate,DASH,Remus Lupin,Pipeline
+172,OPP - 172 - Renewal,Renewal,Stage 2,Core,AMER,7/19/2025,7/19/2025,7/14/2022,11/02/2023,"$18,058",REP 19,REP 19,10/30/2023,1101,Not Run-Rate,AMER,Susan Bones,Pipeline
+173,OPP - 173 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,07/01/2025,3/21/2025,3/21/2025,"$18,000",REP 50,REP 50,3/17/2025,101,Not Run-Rate,AMER,Harry Potter,Best Case
+174,OPP - 174 - Net New,Net New,Stage 2,Dash,EMEA,6/20/2025,6/20/2025,04/08/2025,04/08/2025,"$17,989",REP 24,REP 24,04/07/2025,73,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+175,OPP - 175 - Net New,Net New,Stage 4,Core,AMER,6/30/2025,6/30/2025,2/19/2025,03/12/2025,"$17,888",REP 14,REP 14,03/10/2025,131,Not Run-Rate,AMER,Hermione Granger,Best Case
+176,OPP - 176 - Upsell,Upsell,Stage 2,Dash,EMEA,5/16/2025,5/16/2025,01/09/2025,1/15/2025,"$17,876",REP 13,REP 17,1/13/2025,127,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+177,OPP - 177 - Net New,Net New,Stage 2,Dash,AMER,05/09/2025,05/09/2025,3/25/2025,04/10/2025,"$17,700",REP 4,NOT ASSIGNED,04/07/2025,45,Not Run-Rate,DASH,Remus Lupin,Pipeline
+178,OPP - 178 - Net New,Net New,Stage 2,Dash,AMER,5/19/2025,5/19/2025,04/04/2025,04/09/2025,"$17,700",REP 4,NOT ASSIGNED,04/07/2025,45,Not Run-Rate,DASH,Remus Lupin,Pipeline
+179,OPP - 179 - Upsell,Upsell,Stage 2,Dash,EMEA,5/30/2025,4/30/2025,01/09/2025,04/02/2025,"$17,637",REP 13,REP 24,3/31/2025,141,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+180,OPP - 180 - Net New,Net New,Stage 2,Core,JAPAN,6/23/2025,6/23/2025,11/14/2024,11/14/2024,"$17,626",REP 5,REP 5,11/11/2024,221,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+181,OPP - 181 - Renewal,Renewal,Stage 2,Core,EMEA,9/30/2025,9/30/2025,9/29/2023,10/22/2024,"$17,620",REP 46,REP 46,10/21/2024,732,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+182,OPP - 182 - Renewal,Renewal,Stage 2,Dash,EMEA,06/01/2025,06/01/2025,6/13/2024,3/13/2025,"$17,607",REP 51,REP 51,03/10/2025,353,Not Run-Rate,EMEA,Cho Chang,Pipeline
+183,OPP - 183 - Upsell,Upsell,Stage 5,Core,AMER,6/22/2025,6/22/2025,3/24/2025,3/24/2025,"$17,477",REP 33,REP 33,3/24/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+184,OPP - 184 - Net New,Net New,Stage 3,Sign,AMER,07/01/2025,6/30/2025,3/17/2025,3/17/2025,"$17,280",REP 47,REP 47,3/17/2025,106,Not Run-Rate,AMER,Cho Chang,Pipeline
+185,OPP - 185 - Net New,Net New,Stage 5,Sign,AMER,4/30/2025,1/15/2025,09/10/2024,09/10/2024,"$17,279",REP 1,REP 1,09/09/2024,232,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+186,OPP - 186 - Renewal,Renewal,Stage 3,Sign,AMER,6/26/2025,6/26/2025,5/21/2024,3/18/2025,"$17,255",REP 52,REP 52,3/17/2025,401,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+187,OPP - 187 - Renewal,Renewal,Stage 2,Core,EMEA,06/09/2025,06/09/2025,6/17/2024,04/04/2025,"$17,238",REP 17,REP 17,3/31/2025,357,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+188,OPP - 188 - Renewal,Renewal,Stage 2,Send,AMER,09/01/2025,09/01/2025,09/06/2023,09/07/2023,"$17,155",REP 44,REP 44,09/04/2023,726,Not Run-Rate,AMER,Cho Chang,Pipeline
+189,OPP - 189 - Renewal,Renewal,Stage 3,Core,AMER,9/27/2025,06/05/2025,06/05/2024,06/05/2024,"$17,010",REP 53,REP 53,06/03/2024,479,Not Run-Rate,AMER,Cho Chang,Pipeline
+190,OPP - 190 - Net New,Net New,Stage 2,Core,AMER,6/20/2025,6/20/2025,2/18/2025,2/18/2025,"$16,909",REP 43,REP 43,2/17/2025,122,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+191,OPP - 191 - Upsell,Upsell,Stage 2,Core,AMER,7/31/2025,9/30/2024,08/07/2024,08/07/2024,"$16,800",REP 10,REP 10,08/05/2024,358,Not Run-Rate,AMER,Susan Bones,Pipeline
+192,OPP - 192 - Upsell,Upsell,Stage 3,Dash,AMER,4/25/2025,04/07/2025,01/10/2025,01/10/2025,"$16,800",REP 16,REP 12,01/06/2025,105,Not Run-Rate,AMER,Harry Potter,Pipeline
+193,OPP - 193 - Net New,Net New,Stage 3,Dash,AMER,5/30/2025,5/30/2025,1/15/2025,1/15/2025,"$16,800",REP 16,REP 16,1/13/2025,135,Not Run-Rate,DASH,Remus Lupin,Pipeline
+194,OPP - 194 - Net New,Net New,Stage 2,Core,EMEA,7/31/2025,7/31/2025,02/04/2025,02/04/2025,"$16,594",REP 17,REP 17,02/03/2025,177,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+195,OPP - 195 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,6/30/2025,04/09/2025,04/09/2025,"$16,535",REP 51,REP 51,04/07/2025,82,Not Run-Rate,EMEA,Cho Chang,Pipeline
+196,OPP - 196 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,2/27/2025,1/28/2025,1/28/2025,"$16,500",REP 2,REP 2,1/27/2025,153,Not Run-Rate,AMER,Hermione Granger,Pipeline
+197,OPP - 197 - Net New,Net New,Stage 3,Send,AMER,7/31/2025,7/31/2025,02/10/2025,02/10/2025,"$16,200",REP 10,REP 10,02/10/2025,171,Not Run-Rate,AMER,Susan Bones,Pipeline
+198,OPP - 198 - Renewal,Renewal,Stage 5,Core,AMER,6/19/2025,6/19/2025,6/19/2024,03/10/2025,"$16,200",REP 33,REP 33,03/10/2025,365,Not Run-Rate,AMER,Susan Bones,Commit
+199,OPP - 199 - Renewal,Renewal,Stage 5,Core,AMER,7/16/2025,7/16/2025,7/22/2024,1/29/2025,"$16,177",REP 33,REP 33,1/27/2025,359,Not Run-Rate,AMER,Susan Bones,Commit
+200,OPP - 200 - Renewal,Renewal,Stage 5,Core,AMER,5/23/2025,5/23/2025,4/26/2024,3/25/2025,"$16,170",REP 54,REP 54,3/24/2025,392,Not Run-Rate,AMER,Filius Flitwick,Best Case
+201,OPP - 201 - Net New,Net New,Stage 2,Sign,EMEA,5/30/2025,04/01/2025,10/16/2024,10/17/2024,"$16,007",REP 26,REP 26,10/14/2024,226,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+202,OPP - 202 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,07/01/2025,03/06/2025,03/06/2025,"$15,840",REP 2,REP 2,03/03/2025,116,Not Run-Rate,AMER,Hermione Granger,Pipeline
+203,OPP - 203 - Net New,Net New,Stage 2,Core,AMER,5/23/2025,5/23/2025,04/10/2025,04/10/2025,"$15,840",REP 55,REP 55,04/07/2025,43,Not Run-Rate,AMER,Cho Chang,Pipeline
+204,OPP - 204 - Net New,Net New,Stage 2,Core,AMER,4/30/2025,4/14/2025,3/17/2025,3/17/2025,"$15,750",REP 15,REP 15,3/17/2025,44,Not Run-Rate,AMER,Hermione Granger,Pipeline
+205,OPP - 205 - Renewal,Renewal,Stage 3,Core,AMER,5/19/2025,5/19/2025,5/20/2024,1/22/2025,"$15,732",REP 56,REP 56,1/20/2025,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+206,OPP - 206 - Upsell,Upsell,Stage 6,Sign,AMER,04/03/2025,04/03/2025,04/05/2025,04/05/2025,"$15,684",REP 52,REP 52,04/04/2025,-2,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+207,OPP - 207 - Net New,Net New,Stage 4,Sign,AMER,6/30/2025,05/01/2025,03/11/2025,3/13/2025,"$15,678",REP 32,REP 32,03/10/2025,111,Not Run-Rate,AMER,Hermione Granger,Best Case
+208,OPP - 208 - Renewal,Renewal,Stage 2,Dash,EMEA,05/09/2025,05/09/2025,5/14/2024,1/16/2025,"$15,600",REP 51,REP 51,1/13/2025,360,Not Run-Rate,EMEA,Cho Chang,Pipeline
+209,OPP - 209 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$15,598",REP 57,REP 57,3/31/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+210,OPP - 210 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,09/01/2025,1/16/2025,1/16/2025,"$15,584",REP 7,REP 7,1/13/2025,228,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+211,OPP - 211 - Upsell,Upsell,Stage 3,Dash,EMEA,4/30/2025,4/30/2025,01/09/2025,1/15/2025,"$15,540",REP 13,NOT ASSIGNED,1/13/2025,111,Not Run-Rate,DASH,Remus Lupin,Pipeline
+212,OPP - 212 - Net New,Net New,Stage 6,Core,AMER,4/15/2025,3/17/2025,1/23/2025,1/23/2025,"$15,435",REP 29,REP 37,1/20/2025,82,Not Run-Rate,AMER,Susan Bones,Commit
+213,OPP - 213 - Net New,Net New,Stage 2,Sign,APAC,5/30/2025,12/15/2024,9/15/2024,10/07/2024,"$15,422",REP 23,REP 23,10/07/2024,257,Not Run-Rate,APAC,Severus Snape,Pipeline
+214,OPP - 214 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,3/30/2025,11/08/2024,11/08/2024,"$15,360",REP 22,REP 22,11/04/2024,234,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+215,OPP - 215 - Renewal,Renewal,Stage 2,Dash,EMEA,6/21/2025,6/21/2025,6/21/2024,09/02/2024,"$15,310",REP 51,REP 51,09/02/2024,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+216,OPP - 216 - Net New,Net New,Stage 2,Core,JAPAN,9/25/2025,07/01/2024,5/14/2023,5/14/2023,"$15,195",REP 11,REP 11,05/12/2023,865,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+217,OPP - 217 - Net New,Net New,Stage 2,Core,JAPAN,07/01/2025,07/01/2025,1/22/2025,1/22/2025,"$15,195",REP 7,REP 7,1/20/2025,160,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+218,OPP - 218 - Renewal,Renewal,Stage 4,Core,AMER,05/08/2025,05/08/2025,05/08/2024,04/03/2025,"$15,075",REP 25,REP 48,3/31/2025,365,Not Run-Rate,AMER,Harry Potter,Best Case
+219,OPP - 219 - Net New,Net New,Stage 2,Core,AMER,7/31/2025,04/01/2025,2/26/2025,2/26/2025,"$15,000",REP 32,REP 32,2/24/2025,155,Not Run-Rate,AMER,Hermione Granger,Pipeline
+220,OPP - 220 - Net New,Net New,Stage 3,Dash,AMER,7/31/2025,3/28/2025,1/14/2025,1/16/2025,"$15,000",REP 21,REP 48,1/13/2025,198,Not Run-Rate,AMER,Harry Potter,Pipeline
+221,OPP - 221 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,3/24/2025,2/27/2025,2/27/2025,"$15,000",REP 28,REP 28,2/24/2025,123,Not Run-Rate,AMER,Susan Bones,Pipeline
+222,OPP - 222 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,5/30/2025,3/13/2025,3/13/2025,"$15,000",REP 35,REP 35,03/10/2025,78,Not Run-Rate,AMER,Hermione Granger,Pipeline
+223,OPP - 223 - Net New,Net New,Stage 2,Dash,AMER,07/01/2025,05/01/2025,3/20/2025,3/20/2025,"$14,868",REP 58,REP 58,3/17/2025,103,Not Run-Rate,AMER,Harry Potter,Pipeline
+224,OPP - 224 - Net New,Net New,Stage 3,Dash,AMER,06/01/2025,06/02/2025,04/04/2025,04/04/2025,"$14,868",REP 58,REP 58,3/31/2025,58,Not Run-Rate,AMER,Harry Potter,Pipeline
+225,OPP - 225 - Net New,Net New,Stage 3,Sign,AMER,7/31/2025,08/01/2025,01/10/2025,01/10/2025,"$14,818",REP 6,REP 6,01/06/2025,202,Not Run-Rate,AMER,Cho Chang,Pipeline
+226,OPP - 226 - Net New,Net New,Stage 2,Sign,AMER,5/30/2025,4/14/2025,3/14/2025,3/14/2025,"$14,784",REP 50,REP 48,03/10/2025,77,Not Run-Rate,AMER,Harry Potter,Best Case
+227,OPP - 227 - Upsell,Upsell,Stage 2,Core,JAPAN,6/30/2025,6/28/2025,7/31/2023,7/31/2023,"$14,587",REP 5,REP 5,7/31/2023,700,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+228,OPP - 228 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,4/30/2025,04/03/2025,04/03/2025,"$14,520",REP 2,REP 2,3/31/2025,88,Not Run-Rate,AMER,Hermione Granger,Pipeline
+229,OPP - 229 - Upsell,Upsell,Stage 2,Core,AMER,7/31/2025,9/30/2024,10/17/2024,10/17/2024,"$14,400",REP 10,REP 10,10/14/2024,287,Not Run-Rate,AMER,Susan Bones,Omitted
+230,OPP - 230 - Net New,Net New,Stage 2,Core,AMER,6/20/2025,02/03/2025,12/11/2024,12/11/2024,"$14,400",REP 42,REP 42,12/09/2024,191,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+231,OPP - 231 - Upsell,Upsell,Stage 4,Dash,APAC,6/13/2025,6/13/2025,2/13/2025,2/13/2025,"$14,400",REP 16,REP 23,02/10/2025,120,Not Run-Rate,APAC,Severus Snape,Best Case
+232,OPP - 232 - Renewal,Renewal,Stage 2,Core,AMER,6/20/2025,6/20/2025,08/05/2024,3/19/2025,"$14,280",REP 43,REP 43,3/17/2025,319,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+233,OPP - 233 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,3/24/2025,12/18/2024,12/18/2024,"$14,160",REP 41,REP 41,12/16/2024,194,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+234,OPP - 234 - Net New,Net New,Stage 2,Dash,AMER,6/13/2025,3/13/2025,03/06/2025,04/10/2025,"$14,160",REP 4,REP 81,04/07/2025,99,Not Run-Rate,DASH,Remus Lupin,Pipeline
+235,OPP - 235 - Net New,Net New,Stage 2,Dash,AMER,05/12/2025,05/12/2025,3/31/2025,04/03/2025,"$14,160",REP 27,REP 83,3/31/2025,42,Not Run-Rate,DASH,Remus Lupin,Pipeline
+236,OPP - 236 - Net New,Net New,Stage 2,Core,EMEA,07/01/2025,10/31/2024,5/30/2024,5/30/2024,"$14,034",REP 9,REP 9,5/27/2024,397,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+237,OPP - 237 - Net New,Net New,Stage 3,Core,EMEA,9/30/2025,1/31/2025,10/18/2024,10/18/2024,"$14,034",REP 9,REP 9,10/14/2024,347,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+238,OPP - 238 - Renewal,Renewal,Stage 2,Core,AMER,08/01/2025,08/01/2025,08/01/2024,8/20/2024,"$14,004",REP 36,REP 36,8/19/2024,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+239,OPP - 239 - Renewal,Renewal,Stage 2,Core,AMER,8/15/2025,8/15/2025,07/06/2022,11/02/2023,"$13,838",REP 50,REP 50,10/30/2023,1136,Not Run-Rate,AMER,Harry Potter,Pipeline
+240,OPP - 240 - Net New,Net New,Stage 2,Send,JAPAN,5/29/2025,06/02/2025,03/11/2025,03/11/2025,"$13,777",REP 11,REP 11,03/10/2025,79,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+241,OPP - 241 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,4/30/2025,3/27/2025,3/27/2025,"$13,642",REP 35,REP 35,3/24/2025,34,Not Run-Rate,AMER,Hermione Granger,Pipeline
+242,OPP - 242 - Renewal,Renewal,Stage 2,Core,AMER,6/27/2025,6/27/2025,6/28/2024,3/19/2025,"$13,608",REP 42,REP 42,3/17/2025,364,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+243,OPP - 243 - Renewal,Renewal,Stage 5,Core,AMER,05/09/2025,05/09/2025,05/10/2024,5/17/2024,"$13,608",REP 12,REP 12,5/13/2024,364,Not Run-Rate,AMER,Harry Potter,Commit
+244,OPP - 244 - Renewal,Renewal,Stage 2,Sign,AMER,8/29/2025,03/03/2024,2/13/2024,2/14/2024,"$13,500",REP 41,REP 41,02/12/2024,563,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+245,OPP - 245 - Renewal,Renewal,Stage 2,Core,AMER,08/06/2025,08/06/2025,08/05/2024,08/05/2024,"$13,363",REP 59,REP 59,08/05/2024,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+246,OPP - 246 - Net New,Net New,Stage 2,Sign,AMER,8/29/2025,8/29/2025,07/01/2024,07/01/2024,"$13,200",REP 53,REP 53,07/01/2024,424,Not Run-Rate,AMER,Cho Chang,Pipeline
+247,OPP - 247 - Net New,Net New,Stage 2,Sign,AMER,4/30/2025,6/25/2025,11/25/2024,12/09/2024,"$13,200",REP 2,REP 2,12/09/2024,156,Not Run-Rate,AMER,Hermione Granger,Pipeline
+248,OPP - 248 - Net New,Net New,Stage 2,Sign,JAPAN,4/28/2025,4/28/2025,12/09/2024,12/09/2024,"$13,200",REP 5,REP 5,12/09/2024,140,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+249,OPP - 249 - Net New,Net New,Stage 2,Sign,AMER,5/30/2025,06/01/2025,04/03/2025,04/03/2025,"$13,200",REP 2,REP 2,3/31/2025,57,Not Run-Rate,AMER,Hermione Granger,Pipeline
+250,OPP - 250 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,4/14/2025,04/08/2025,04/08/2025,"$12,981",REP 15,REP 15,04/07/2025,22,Not Run-Rate,AMER,Hermione Granger,Commit
+251,OPP - 251 - Net New,Net New,Stage 2,Send,AMER,04/01/2025,04/01/2025,2/13/2024,2/13/2024,"$12,960",REP 39,REP 39,02/12/2024,413,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+252,OPP - 252 - Renewal,Renewal,Stage 2,Sign,AMER,6/26/2025,6/26/2025,5/28/2024,04/03/2025,"$12,685",REP 1,REP 1,3/31/2025,394,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+253,OPP - 253 - Renewal,Renewal,Stage 5,Core,JAPAN,06/01/2025,06/01/2025,06/05/2024,2/21/2025,"$12,623",REP 18,REP 18,2/17/2025,361,Not Run-Rate,JAPAN,Colin Creevey,Commit
+254,OPP - 254 - Renewal,Renewal,Stage 2,Core,AMER,07/01/2025,07/01/2025,6/21/2022,09/05/2023,"$12,600",REP 36,REP 36,09/04/2023,1106,Not Run-Rate,AMER,Harry Potter,Pipeline
+255,OPP - 255 - Upsell,Upsell,Stage 3,Dash,AMER,5/30/2025,3/21/2025,10/24/2024,10/24/2024,"$12,600",REP 16,REP 36,10/21/2024,218,Not Run-Rate,AMER,Harry Potter,Pipeline
+256,OPP - 256 - Net New,Net New,Stage 3,Dash,AMER,5/23/2025,5/23/2025,02/06/2025,02/06/2025,"$12,600",REP 16,REP 3,02/03/2025,106,Not Run-Rate,AMER,Susan Bones,Pipeline
+257,OPP - 257 - Upsell,Upsell,Stage 3,Dash,AMER,5/30/2025,3/28/2025,1/22/2025,1/22/2025,"$12,501",REP 21,REP 50,1/20/2025,128,Not Run-Rate,AMER,Harry Potter,Pipeline
+258,OPP - 258 - Net New,Net New,Stage 5,Core,AMER,5/23/2025,05/01/2025,1/29/2024,02/01/2024,"$12,480",REP 15,REP 15,1/29/2024,480,Not Run-Rate,AMER,Hermione Granger,Commit
+259,OPP - 259 - Upsell,Upsell,Stage 5,Core,AMER,07/04/2025,07/04/2025,04/05/2025,04/05/2025,"$12,462",REP 50,REP 50,04/04/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+260,OPP - 260 - Renewal,Renewal,Stage 2,Core,AMER,8/31/2025,8/31/2025,08/02/2024,08/02/2024,"$12,442",REP 58,REP 58,7/29/2024,394,Not Run-Rate,AMER,Harry Potter,Pipeline
+261,OPP - 261 - Net New,Net New,Stage 4,Dash,AMER,07/01/2025,05/01/2025,3/20/2025,3/20/2025,"$12,390",REP 58,REP 58,3/17/2025,103,Not Run-Rate,AMER,Harry Potter,Best Case
+262,OPP - 262 - Renewal,Renewal,Stage 5,Core,AMER,6/17/2025,6/17/2025,6/18/2024,03/10/2025,"$12,285",REP 33,REP 33,03/10/2025,364,Not Run-Rate,AMER,Susan Bones,Commit
+263,OPP - 263 - Renewal,Renewal,Stage 3,Core,AMER,6/20/2025,6/20/2025,12/28/2022,11/02/2023,"$12,275",REP 43,REP 43,10/30/2023,905,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+264,OPP - 264 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,03/01/2025,2/13/2024,2/15/2024,"$12,197",REP 34,REP 34,02/12/2024,503,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+265,OPP - 265 - Renewal,Renewal,Stage 6,Core,EMEA,6/27/2025,4/30/2025,11/17/2023,02/02/2024,"$12,177",REP 49,REP 49,1/29/2024,588,Not Run-Rate,EMEA,Ron Weasley,Commit
+266,OPP - 266 - Net New,Net New,Stage 2,Core,JAPAN,9/22/2025,9/22/2025,10/27/2024,10/27/2024,"$12,156",REP 5,REP 5,10/25/2024,330,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+267,OPP - 267 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,03/01/2025,01/07/2025,1/14/2025,"$12,075",REP 32,REP 32,1/13/2025,143,Not Run-Rate,AMER,Hermione Granger,Pipeline
+268,OPP - 268 - Net New,Net New,Stage 2,Dash,EMEA,6/24/2025,3/31/2025,2/24/2025,2/24/2025,"$12,063",REP 31,REP 31,2/24/2025,120,Not Run-Rate,EMEA,Terry Boot,Pipeline
+269,OPP - 269 - Net New,Net New,Stage 2,Dash,EMEA,6/25/2025,6/27/2025,3/20/2025,3/20/2025,"$12,063",REP 31,REP 31,3/17/2025,97,Not Run-Rate,EMEA,Terry Boot,Pipeline
+270,OPP - 270 - Upsell,Upsell,Stage 3,Core,EMEA,6/18/2025,1/23/2025,1/23/2025,1/23/2025,"$12,057",REP 17,REP 17,1/20/2025,146,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+271,OPP - 271 - Net New,Net New,Stage 2,Dash,AMER,5/30/2025,5/30/2025,3/28/2025,3/28/2025,"$12,000",REP 21,NOT ASSIGNED,3/24/2025,63,Not Run-Rate,DASH,Remus Lupin,Pipeline
+272,OPP - 272 - Net New,Net New,Stage 3,Dash,AMER,6/30/2025,06/01/2025,04/11/2025,04/11/2025,"$12,000",REP 53,REP 53,04/07/2025,80,Not Run-Rate,AMER,Cho Chang,Pipeline
+273,OPP - 273 - Upsell,Upsell,Stage 5,Core,APAC,4/16/2025,4/16/2025,1/16/2025,1/16/2025,"$11,956",REP 23,REP 23,1/13/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+274,OPP - 274 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,3/24/2025,2/25/2025,2/25/2025,"$11,760",REP 28,REP 28,2/24/2025,125,Not Run-Rate,AMER,Susan Bones,Pipeline
+275,OPP - 275 - Net New,Net New,Stage 2,Core,JAPAN,04/01/2025,4/28/2021,4/28/2021,4/28/2021,"$11,688",REP 60,REP 11,4/26/2021,1434,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+276,OPP - 276 - Net New,Net New,Stage 2,Sign,AMER,6/13/2025,1/18/2025,12/15/2024,12/18/2024,"$11,550",REP 2,NOT ASSIGNED,12/16/2024,180,Not Run-Rate,AMER,Hermione Granger,Pipeline
+277,OPP - 277 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,4/16/2025,3/17/2025,3/17/2025,"$11,550",REP 2,REP 2,3/17/2025,105,Not Run-Rate,AMER,Hermione Granger,Pipeline
+278,OPP - 278 - Net New,Net New,Stage 2,Send,AMER,07/01/2025,04/05/2025,9/18/2024,9/18/2024,"$11,520",REP 47,REP 47,9/16/2024,286,Not Run-Rate,AMER,Cho Chang,Pipeline
+279,OPP - 279 - Renewal,Renewal,Stage 2,Core,AMER,05/08/2025,05/08/2025,05/08/2024,3/27/2025,"$11,501",REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+280,OPP - 280 - Renewal,Renewal,Stage 5,Core,EMEA,07/04/2025,07/04/2025,11/16/2023,04/05/2025,"$11,405",REP 26,REP 26,04/04/2025,596,Not Run-Rate,EMEA,Ron Weasley,Commit
+281,OPP - 281 - Renewal,Renewal,Stage 2,Core,AMER,9/25/2025,9/25/2025,9/25/2024,9/25/2024,"$11,088",REP 6,REP 6,9/23/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+282,OPP - 282 - Net New,Net New,Stage 4,Core,EMEA,5/15/2025,2/28/2025,09/06/2024,09/06/2024,"$10,885",REP 24,REP 24,09/02/2024,251,Not Run-Rate,EMEA,Amelia Bones,Best Case
+283,OPP - 283 - Upsell,Upsell,Stage 2,Core,AMER,04/04/2025,02/11/2025,02/11/2025,02/11/2025,"$10,852",REP 43,REP 43,02/10/2025,52,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+284,OPP - 284 - Renewal,Renewal,Stage 3,Core,AMER,05/01/2025,5/30/2025,3/26/2024,3/19/2025,"$10,826",REP 58,REP 58,3/17/2025,401,Not Run-Rate,AMER,Harry Potter,Pipeline
+285,OPP - 285 - Net New,Net New,Stage 3,Send,AMER,6/30/2025,6/30/2025,2/25/2025,2/25/2025,"$10,800",REP 33,REP 33,2/24/2025,125,Not Run-Rate,AMER,Susan Bones,Best Case
+286,OPP - 286 - Renewal,Renewal,Stage 5,Core,AMER,06/09/2025,06/09/2025,5/23/2024,5/24/2024,"$10,754",REP 40,REP 40,5/20/2024,382,Not Run-Rate,AMER,Harry Potter,Commit
+287,OPP - 287 - Net New,Net New,Stage 6,Sign,APAC,4/30/2025,3/31/2025,2/24/2025,2/24/2025,"$10,676",REP 23,REP 23,2/24/2025,65,Not Run-Rate,APAC,Severus Snape,Commit
+288,OPP - 288 - Net New,Net New,Stage 2,Dash,AMER,5/30/2025,05/05/2025,3/19/2025,04/10/2025,"$10,620",REP 4,NOT ASSIGNED,04/07/2025,72,Not Run-Rate,DASH,Remus Lupin,Pipeline
+289,OPP - 289 - Renewal,Renewal,Stage 2,Core,AMER,06/05/2025,06/05/2025,2/14/2022,04/03/2025,"$10,560",REP 22,REP 39,3/31/2025,1207,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+290,OPP - 290 - Net New,Net New,Stage 3,Core,AMER,7/31/2025,02/03/2025,04/04/2024,04/05/2024,"$10,530",REP 14,REP 14,04/01/2024,483,Not Run-Rate,AMER,Hermione Granger,Pipeline
+291,OPP - 291 - Upsell,Upsell,Stage 2,Core,AMER,08/08/2025,08/08/2024,08/08/2024,08/08/2024,"$10,522",REP 36,REP 48,08/05/2024,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+292,OPP - 292 - Renewal,Renewal,Stage 2,Core,EMEA,07/01/2025,07/01/2025,6/20/2024,6/20/2024,"$10,520",REP 46,REP 46,6/17/2024,376,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+293,OPP - 293 - Net New,Net New,Stage 2,Dash,AMER,06/04/2025,06/04/2025,3/13/2025,3/13/2025,"$10,500",REP 36,REP 36,03/10/2025,83,Not Run-Rate,AMER,Harry Potter,Pipeline
+294,OPP - 294 - Net New,Net New,Stage 2,Dash,AMER,5/16/2025,05/06/2025,3/17/2025,3/17/2025,"$10,500",REP 41,REP 41,3/17/2025,60,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+295,OPP - 295 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,5/23/2025,3/24/2025,3/24/2025,"$10,500",REP 54,REP 54,3/24/2025,98,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+296,OPP - 296 - Net New,Net New,Stage 3,Dash,AMER,6/13/2025,6/13/2025,3/20/2025,3/20/2025,"$10,500",REP 16,REP 81,3/17/2025,85,Not Run-Rate,DASH,Remus Lupin,Pipeline
+297,OPP - 297 - Net New,Net New,Stage 4,Dash,AMER,6/27/2025,3/21/2025,3/20/2025,3/20/2025,"$10,500",REP 42,REP 42,3/17/2025,99,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+298,OPP - 298 - Renewal,Renewal,Stage 3,Core,EMEA,4/16/2025,4/16/2025,5/31/2024,3/27/2025,"$10,467",REP 46,REP 46,3/24/2025,320,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+299,OPP - 299 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,3/27/2025,3/28/2025,"$10,350",REP 14,REP 14,3/24/2025,95,Not Run-Rate,AMER,Hermione Granger,Pipeline
+300,OPP - 300 - Net New,Net New,Stage 4,Dash,AMER,6/20/2025,04/07/2025,2/14/2025,2/20/2025,"$10,332",REP 21,REP 81,2/17/2025,126,Not Run-Rate,DASH,Remus Lupin,Best Case
+301,OPP - 301 - Renewal,Renewal,Stage 5,Sign,AMER,6/22/2025,6/22/2025,6/25/2024,9/27/2024,"$10,201",REP 33,REP 33,9/23/2024,362,Not Run-Rate,AMER,Susan Bones,Commit
+302,OPP - 302 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,6/30/2025,12/13/2023,01/04/2024,"$10,164",REP 25,REP 25,01/01/2024,565,Not Run-Rate,AMER,Harry Potter,Pipeline
+303,OPP - 303 - Net New,Net New,Stage 3,Sign,EMEA,5/30/2025,3/14/2025,2/27/2025,2/27/2025,"$10,105",REP 9,REP 9,2/24/2025,92,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+304,OPP - 304 - Upsell,Upsell,Stage 5,Core,AMER,05/09/2025,05/09/2025,02/08/2025,02/08/2025,"$10,005",REP 59,REP 59,02/07/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+305,OPP - 305 - Renewal,Renewal,Stage 4,Sign,AMER,6/30/2025,2/24/2025,2/19/2025,2/19/2025,"$10,001",REP 14,REP 14,2/17/2025,131,Not Run-Rate,AMER,Hermione Granger,Best Case
+306,OPP - 306 - Upsell,Upsell,Stage 2,Dash,AMER,6/30/2025,01/09/2025,01/09/2025,1/14/2025,"$10,001",REP 4,REP 25,1/13/2025,172,Not Run-Rate,AMER,Harry Potter,Pipeline
+307,OPP - 307 - Renewal,Renewal,Stage 2,Core,AMER,7/21/2025,7/21/2025,7/22/2024,11/19/2024,"$9,941",REP 57,REP 57,11/18/2024,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+308,OPP - 308 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,06/01/2025,12/27/2024,12/27/2024,"$9,900",REP 2,REP 2,12/23/2024,185,Not Run-Rate,AMER,Hermione Granger,Pipeline
+309,OPP - 309 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,07/01/2025,04/10/2025,04/10/2025,"$9,900",REP 2,NOT ASSIGNED,04/07/2025,81,Not Run-Rate,AMER,Hermione Granger,Pipeline
+310,OPP - 310 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,02/01/2025,12/05/2024,12/05/2024,"$9,900",REP 2,REP 2,12/02/2024,207,Not Run-Rate,AMER,Hermione Granger,Pipeline
+311,OPP - 311 - Net New,Net New,Stage 3,Sign,AMER,5/31/2025,06/01/2025,04/03/2025,04/03/2025,"$9,900",REP 2,REP 2,3/31/2025,58,Not Run-Rate,AMER,Hermione Granger,Pipeline
+312,OPP - 312 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,3/31/2025,2/23/2025,2/24/2025,"$9,900",REP 14,REP 14,2/24/2025,66,Not Run-Rate,AMER,Hermione Granger,Commit
+313,OPP - 313 - Net New,Net New,Stage 4,Dash,APAC,4/28/2025,4/28/2025,3/13/2025,04/03/2025,"$9,882",REP 27,NOT ASSIGNED,3/31/2025,46,Not Run-Rate,DASH,Remus Lupin,Best Case
+314,OPP - 314 - Net New,Net New,Stage 2,Core,AMER,7/31/2025,7/31/2025,04/10/2025,04/10/2025,"$9,792",REP 32,REP 32,04/07/2025,112,Not Run-Rate,AMER,Hermione Granger,Pipeline
+315,OPP - 315 - Upsell,Upsell,Stage 4,Core,AMER,5/31/2025,5/26/2025,3/13/2025,3/13/2025,"$9,641",REP 10,REP 10,03/10/2025,79,Not Run-Rate,AMER,Susan Bones,Pipeline
+316,OPP - 316 - Upsell,Upsell,Stage 4,Core,AMER,9/30/2025,08/10/2025,12/03/2024,12/03/2024,"$9,639",REP 43,REP 43,12/02/2024,301,Not Run-Rate,AMER,Filius Flitwick,Best Case
+317,OPP - 317 - Net New,Net New,Stage 2,Sign,AMER,7/31/2025,04/02/2024,04/02/2024,07/10/2024,"$9,600",REP 10,REP 10,07/08/2024,485,Not Run-Rate,AMER,Susan Bones,Pipeline
+318,OPP - 318 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,11/01/2024,10/17/2024,10/17/2024,"$9,600",REP 34,REP 34,10/14/2024,256,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+319,OPP - 319 - Net New,Net New,Stage 2,Sign,AMER,7/31/2025,4/30/2025,02/07/2025,02/07/2025,"$9,600",REP 32,REP 32,02/03/2025,174,Not Run-Rate,AMER,Hermione Granger,Pipeline
+320,OPP - 320 - Net New,Net New,Stage 2,Sign,AMER,07/01/2025,6/30/2025,3/17/2025,3/17/2025,"$9,600",REP 47,REP 47,3/17/2025,106,Not Run-Rate,AMER,Cho Chang,Pipeline
+321,OPP - 321 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,07/01/2025,3/20/2025,3/20/2025,"$9,600",REP 50,REP 50,3/17/2025,102,Not Run-Rate,AMER,Harry Potter,Best Case
+322,OPP - 322 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,6/30/2025,3/27/2025,3/27/2025,"$9,600",REP 46,REP 46,3/24/2025,95,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+323,OPP - 323 - Renewal,Renewal,Stage 3,Core,EMEA,5/16/2025,05/09/2025,05/10/2024,2/25/2025,"$9,581",REP 45,REP 45,2/24/2025,371,Not Run-Rate,EMEA,Terry Boot,Pipeline
+324,OPP - 324 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,01/01/2025,11/12/2024,11/13/2024,"$9,504",REP 2,NOT ASSIGNED,11/11/2024,230,Not Run-Rate,AMER,Hermione Granger,Pipeline
+325,OPP - 325 - Net New,Net New,Stage 2,Sign,AMER,5/30/2025,3/26/2025,12/12/2024,12/12/2024,"$9,504",REP 50,REP 48,12/09/2024,169,Not Run-Rate,AMER,Harry Potter,Pipeline
+326,OPP - 326 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,04/01/2025,02/07/2025,02/07/2025,"$9,504",REP 2,REP 2,02/03/2025,143,Not Run-Rate,AMER,Hermione Granger,Pipeline
+327,OPP - 327 - Net New,Net New,Stage 2,Sign,AMER,6/27/2025,6/27/2025,3/20/2025,3/20/2025,"$9,504",REP 42,REP 42,3/17/2025,99,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+328,OPP - 328 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,07/01/2025,04/08/2025,04/08/2025,"$9,504",REP 2,NOT ASSIGNED,04/07/2025,83,Not Run-Rate,AMER,Hermione Granger,Pipeline
+329,OPP - 329 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,04/01/2025,12/10/2024,12/10/2024,"$9,504",REP 2,REP 2,12/09/2024,202,Not Run-Rate,AMER,Hermione Granger,Pipeline
+330,OPP - 330 - Net New,Net New,Stage 3,Sign,AMER,5/31/2025,05/10/2025,04/10/2025,04/10/2025,"$9,504",REP 2,REP 2,04/07/2025,51,Not Run-Rate,AMER,Hermione Granger,Pipeline
+331,OPP - 331 - Net New,Net New,Stage 4,Sign,AMER,4/20/2025,6/30/2025,8/23/2024,01/09/2025,"$9,504",REP 47,REP 47,01/06/2025,240,Not Run-Rate,AMER,Cho Chang,Best Case
+332,OPP - 332 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,5/30/2025,2/28/2025,2/28/2025,"$9,450",REP 32,REP 32,2/24/2025,91,Not Run-Rate,AMER,Hermione Granger,Pipeline
+333,OPP - 333 - Renewal,Renewal,Stage 5,Core,JAPAN,4/28/2025,4/28/2025,4/25/2024,12/11/2024,"$9,370",REP 18,REP 18,12/09/2024,368,Not Run-Rate,JAPAN,Colin Creevey,Commit
+334,OPP - 334 - Net New,Net New,Stage 3,Core,AMER,07/01/2025,12/16/2024,10/16/2024,10/16/2024,"$9,360",REP 6,REP 6,10/14/2024,258,Not Run-Rate,AMER,Cho Chang,Pipeline
+335,OPP - 335 - Upsell,Upsell,Stage 5,Core,AMER,4/30/2025,4/30/2025,02/07/2025,02/07/2025,"$9,280",REP 22,REP 22,02/03/2025,82,Not Run-Rate,AMER,Filius Flitwick,Commit
+336,OPP - 336 - Net New,Net New,Stage 2,Sign,AMER,7/18/2025,08/01/2025,1/31/2025,1/31/2025,"$9,266",REP 36,REP 36,1/27/2025,168,Not Run-Rate,AMER,Harry Potter,Pipeline
+337,OPP - 337 - Renewal,Renewal,Stage 5,Core,AMER,09/01/2025,4/30/2025,09/01/2024,11/14/2024,"$9,216",REP 54,REP 54,11/11/2024,365,Not Run-Rate,AMER,Filius Flitwick,Commit
+338,OPP - 338 - Renewal,Renewal,Stage 2,Dash,EMEA,08/01/2025,08/01/2025,6/27/2024,11/08/2024,"$9,186",REP 24,REP 24,11/04/2024,400,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+339,OPP - 339 - Net New,Net New,Stage 2,Send,JAPAN,9/30/2025,6/30/2025,1/21/2025,1/21/2025,"$9,184",REP 18,REP 18,1/20/2025,252,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+340,OPP - 340 - Net New,Net New,Stage 3,Core,EMEA,6/25/2025,10/31/2024,07/11/2024,07/11/2024,"$9,122",REP 17,REP 17,07/08/2024,349,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+341,OPP - 341 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,3/31/2025,1/22/2025,02/06/2025,"$9,060",REP 15,REP 15,02/03/2025,128,Not Run-Rate,AMER,Hermione Granger,Best Case
+342,OPP - 342 - Net New,Net New,Stage 2,Core,AMER,5/30/2025,5/30/2025,3/19/2024,3/19/2024,"$9,000",REP 44,REP 44,3/18/2024,437,Not Run-Rate,AMER,Cho Chang,Pipeline
+343,OPP - 343 - Net New,Net New,Stage 3,Dash,AMER,6/13/2025,04/11/2025,1/22/2025,1/22/2025,"$9,000",REP 21,REP 19,1/20/2025,142,Not Run-Rate,AMER,Susan Bones,Pipeline
+344,OPP - 344 - Renewal,Renewal,Stage 5,Sign,AMER,5/19/2025,5/19/2025,06/11/2024,2/21/2025,"$8,986",REP 8,REP 8,2/17/2025,342,Not Run-Rate,AMER,Filius Flitwick,Commit
+345,OPP - 345 - Upsell,Upsell,Stage 5,Core,AMER,05/01/2025,05/01/2025,1/31/2025,1/31/2025,"$8,925",REP 37,REP 37,1/27/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+346,OPP - 346 - Renewal,Renewal,Stage 5,Core,AMER,4/25/2025,4/25/2025,3/25/2025,3/31/2025,"$8,880",REP 33,REP 33,3/31/2025,31,Not Run-Rate,AMER,Susan Bones,Commit
+347,OPP - 347 - Net New,Net New,Stage 2,Dash,APAC,4/30/2025,3/31/2025,11/14/2024,11/14/2024,"$8,824",REP 23,REP 23,11/11/2024,167,Not Run-Rate,APAC,Severus Snape,Pipeline
+348,OPP - 348 - Net New,Net New,Stage 2,Core,JAPAN,6/30/2025,6/30/2025,09/02/2024,09/02/2024,"$8,766",REP 5,REP 5,09/02/2024,301,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+349,OPP - 349 - Renewal,Renewal,Stage 5,Core,AMER,07/01/2025,07/01/2025,08/03/2022,11/02/2023,"$8,760",REP 8,REP 8,10/30/2023,1063,Not Run-Rate,AMER,Filius Flitwick,Commit
+350,OPP - 350 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,04/01/2025,3/27/2025,3/27/2025,"$8,736",REP 8,REP 8,3/24/2025,95,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+351,OPP - 351 - Upsell,Upsell,Stage 5,Core,AMER,4/26/2025,4/26/2025,1/26/2025,1/26/2025,"$8,700",REP 62,REP 62,1/24/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+352,OPP - 352 - Renewal,Renewal,Stage 2,Core,AMER,6/20/2025,01/03/2026,01/03/2025,2/26/2025,"$8,686",REP 43,REP 43,2/24/2025,168,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+353,OPP - 353 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,3/31/2025,1/24/2025,1/24/2025,"$8,640",REP 22,REP 22,1/20/2025,157,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+354,OPP - 354 - Net New,Net New,Stage 2,Core,AMER,4/30/2025,4/30/2025,04/08/2025,04/08/2025,"$8,640",REP 32,REP 32,04/07/2025,22,Not Run-Rate,AMER,Hermione Granger,Pipeline
+355,OPP - 355 - Upsell,Upsell,Stage 2,Dash,EMEA,6/30/2025,12/03/2024,12/03/2024,12/03/2024,"$8,616",REP 31,REP 31,12/02/2024,209,Not Run-Rate,EMEA,Terry Boot,Pipeline
+356,OPP - 356 - Upsell,Upsell,Stage 2,Dash,EMEA,6/30/2025,12/20/2024,12/20/2024,12/20/2024,"$8,616",REP 31,REP 31,12/16/2024,192,Not Run-Rate,EMEA,Terry Boot,Pipeline
+357,OPP - 357 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,3/31/2025,10/23/2024,12/19/2024,"$8,616",REP 13,REP 17,12/16/2024,250,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+358,OPP - 358 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,07/01/2025,11/19/2024,11/19/2024,"$8,616",REP 31,REP 31,11/18/2024,223,Not Run-Rate,EMEA,Terry Boot,Pipeline
+359,OPP - 359 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,1/30/2025,11/19/2024,11/19/2024,"$8,616",REP 31,REP 31,11/18/2024,223,Not Run-Rate,EMEA,Terry Boot,Pipeline
+360,OPP - 360 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,07/01/2025,2/24/2025,2/24/2025,"$8,616",REP 31,REP 31,2/24/2025,126,Not Run-Rate,EMEA,Terry Boot,Pipeline
+361,OPP - 361 - Net New,Net New,Stage 2,Dash,EMEA,6/25/2025,6/26/2025,04/02/2025,04/02/2025,"$8,616",REP 31,REP 31,3/31/2025,84,Not Run-Rate,EMEA,Terry Boot,Pipeline
+362,OPP - 362 - Renewal,Renewal,Stage 5,Core,AMER,04/12/2025,04/12/2025,04/12/2024,1/16/2025,"$8,586",REP 54,REP 54,1/13/2025,365,Not Run-Rate,AMER,Filius Flitwick,Commit
+363,OPP - 363 - Net New,Net New,Stage 2,Dash,EMEA,5/31/2025,3/31/2025,2/27/2025,2/27/2025,"$8,574",REP 13,REP 46,2/24/2025,93,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+364,OPP - 364 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,3/31/2025,2/27/2025,2/27/2025,"$8,574",REP 13,REP 46,2/24/2025,123,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+365,OPP - 365 - Net New,Net New,Stage 2,Dash,EMEA,5/29/2025,3/31/2025,2/27/2025,2/27/2025,"$8,574",REP 13,REP 46,2/24/2025,91,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+366,OPP - 366 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,03/01/2025,1/27/2025,1/27/2025,"$8,554",REP 35,REP 35,1/27/2025,154,Not Run-Rate,AMER,Hermione Granger,Pipeline
+367,OPP - 367 - Net New,Net New,Stage 2,Dash,AMER,7/18/2025,7/18/2025,3/14/2025,3/14/2025,"$8,496",REP 3,REP 3,03/10/2025,126,Not Run-Rate,AMER,Susan Bones,Pipeline
+368,OPP - 368 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,3/31/2025,2/20/2025,2/20/2025,"$8,446",REP 35,REP 35,2/17/2025,99,Not Run-Rate,AMER,Hermione Granger,Pipeline
+369,OPP - 369 - Net New,Net New,Stage 5,Sign,AMER,4/18/2025,4/18/2025,04/03/2025,04/03/2025,"$8,415",REP 2,REP 2,3/31/2025,15,Not Run-Rate,AMER,Hermione Granger,Commit
+370,OPP - 370 - Net New,Net New,Stage 2,Core,AMER,6/27/2025,03/03/2025,8/16/2024,8/16/2024,"$8,400",REP 39,REP 39,08/12/2024,315,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+371,OPP - 371 - Net New,Net New,Stage 2,Dash,AMER,5/16/2025,4/21/2025,03/07/2025,04/08/2025,"$8,400",REP 21,NOT ASSIGNED,04/07/2025,70,Not Run-Rate,DASH,Remus Lupin,Pipeline
+372,OPP - 372 - Net New,Net New,Stage 2,Dash,AMER,4/17/2025,5/16/2025,3/21/2025,3/21/2025,"$8,400",REP 20,REP 39,3/17/2025,27,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+373,OPP - 373 - Renewal,Renewal,Stage 2,Core,AMER,5/15/2025,5/15/2025,5/15/2024,3/27/2025,"$8,400",REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+374,OPP - 374 - Upsell,Upsell,Stage 3,Dash,AMER,6/27/2025,4/25/2025,1/15/2025,1/15/2025,"$8,400",REP 16,NOT ASSIGNED,1/13/2025,163,Not Run-Rate,DASH,Remus Lupin,Pipeline
+375,OPP - 375 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,10/07/2024,09/11/2024,09/11/2024,"$8,400",REP 8,REP 8,09/09/2024,292,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+376,OPP - 376 - Net New,Net New,Stage 3,Dash,AMER,9/30/2025,5/31/2025,1/30/2025,1/30/2025,"$8,400",REP 10,REP 10,1/27/2025,243,Not Run-Rate,AMER,Susan Bones,Pipeline
+377,OPP - 377 - Net New,Net New,Stage 3,Dash,AMER,6/30/2025,04/04/2025,2/18/2025,03/04/2025,"$8,400",REP 63,REP 63,03/03/2025,132,Not Run-Rate,DASH,Remus Lupin,Pipeline
+378,OPP - 378 - Renewal,Renewal,Stage 2,Core,AMER,09/07/2025,09/07/2025,09/07/2022,09/07/2022,"$8,375",REP 58,REP 58,09/05/2022,1096,Not Run-Rate,AMER,Harry Potter,Pipeline
+379,OPP - 379 - Renewal,Renewal,Stage 2,Core,AMER,6/20/2025,6/20/2025,12/16/2024,3/19/2025,"$8,304",REP 43,REP 43,3/17/2025,186,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+380,OPP - 380 - Renewal,Renewal,Stage 3,Core,AMER,4/30/2025,04/09/2025,9/18/2024,9/19/2024,"$8,270",REP 36,REP 36,9/16/2024,224,Not Run-Rate,AMER,Harry Potter,Best Case
+381,OPP - 381 - Renewal,Renewal,Stage 5,Core,AMER,4/28/2025,4/28/2025,4/29/2024,04/08/2025,"$8,262",REP 55,REP 55,04/07/2025,364,Not Run-Rate,AMER,Cho Chang,Commit
+382,OPP - 382 - Renewal,Renewal,Stage 2,Core,EMEA,08/04/2025,08/04/2025,7/29/2024,7/29/2024,"$8,208",REP 51,REP 51,7/29/2024,371,Not Run-Rate,EMEA,Cho Chang,Pipeline
+383,OPP - 383 - Upsell,Upsell,Stage 2,Core,AMER,7/31/2025,12/30/2024,10/16/2024,10/16/2024,"$8,160",REP 10,REP 10,10/14/2024,288,Not Run-Rate,AMER,Susan Bones,Omitted
+384,OPP - 384 - Renewal,Renewal,Stage 2,Core,AMER,06/03/2025,06/03/2025,06/02/2024,3/19/2025,"$8,064",REP 43,REP 43,3/17/2025,366,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+385,OPP - 385 - Net New,Net New,Stage 2,Dash,EMEA,4/30/2025,3/31/2025,2/26/2025,2/26/2025,"$8,042",REP 13,REP 68,2/24/2025,63,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+386,OPP - 386 - Net New,Net New,Stage 2,Dash,EMEA,4/30/2025,3/31/2025,2/26/2025,2/26/2025,"$8,042",REP 13,REP 26,2/24/2025,63,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+387,OPP - 387 - Net New,Net New,Stage 2,Dash,EMEA,7/31/2025,7/31/2025,3/20/2025,3/20/2025,"$8,042",REP 49,REP 49,3/17/2025,133,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+388,OPP - 388 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,6/30/2025,3/21/2025,3/21/2025,"$8,042",REP 13,NOT ASSIGNED,3/17/2025,101,Not Run-Rate,DASH,Remus Lupin,Pipeline
+389,OPP - 389 - Net New,Net New,Stage 6,Core,AMER,4/17/2025,04/10/2025,04/02/2025,04/02/2025,"$8,008",REP 14,REP 14,3/31/2025,15,Not Run-Rate,AMER,Hermione Granger,Commit
+390,OPP - 390 - Net New,Net New,Stage 5,Sign,EMEA,6/30/2025,01/06/2025,07/11/2024,07/11/2024,"$8,003",REP 9,REP 9,07/08/2024,354,Not Run-Rate,EMEA,Amelia Bones,Commit
+391,OPP - 391 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,3/21/2025,3/24/2025,"$8,000",REP 14,REP 14,3/24/2025,101,Not Run-Rate,AMER,Hermione Granger,Pipeline
+392,OPP - 392 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,03/10/2025,03/11/2025,"$8,000",REP 14,REP 14,03/10/2025,112,Not Run-Rate,AMER,Hermione Granger,Pipeline
+393,OPP - 393 - Renewal,Renewal,Stage 4,Core,AMER,6/29/2025,6/29/2025,6/18/2024,1/22/2025,"$7,805",REP 10,REP 10,1/20/2025,376,Not Run-Rate,AMER,Susan Bones,Best Case
+394,OPP - 394 - Renewal,Renewal,Stage 2,Core,AMER,5/13/2025,5/13/2025,5/13/2024,3/27/2025,"$7,788",REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+395,OPP - 395 - Renewal,Renewal,Stage 2,Core,AMER,4/23/2025,4/23/2025,4/23/2024,04/10/2025,"$7,740",REP 35,REP 35,04/07/2025,365,Not Run-Rate,AMER,Hermione Granger,Pipeline
+396,OPP - 396 - Renewal,Renewal,Stage 6,Sign,AMER,6/28/2025,6/28/2025,6/28/2024,8/16/2024,"$7,688",REP 1,REP 1,08/12/2024,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+397,OPP - 397 - Upsell,Upsell,Stage 5,Core,AMER,05/06/2025,05/06/2025,02/07/2025,02/07/2025,"$7,682",REP 41,REP 41,02/03/2025,88,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+398,OPP - 398 - Upsell,Upsell,Stage 2,Core,EMEA,06/06/2025,06/06/2025,3/20/2025,3/20/2025,"$7,680",REP 17,REP 17,3/17/2025,78,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+399,OPP - 399 - Upsell,Upsell,Stage 6,Sign,AMER,04/09/2025,04/09/2025,04/11/2025,04/11/2025,"$7,603",REP 1,REP 1,04/07/2025,-2,Run-Rate,AMER,Rubeus Hagrid,Commit
+400,OPP - 400 - Renewal,Renewal,Stage 2,Core,AMER,06/10/2025,06/10/2025,6/24/2024,12/12/2024,"$7,595",REP 59,REP 59,12/09/2024,351,Not Run-Rate,AMER,Cho Chang,Pipeline
+401,OPP - 401 - Net New,Net New,Stage 2,Core,AMER,4/14/2025,3/31/2025,2/26/2025,2/26/2025,"$7,500",REP 20,REP 20,2/24/2025,47,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+402,OPP - 402 - Renewal,Renewal,Stage 2,Core,EMEA,5/14/2025,5/14/2025,5/14/2024,1/16/2025,"$7,488",REP 51,REP 51,1/13/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+403,OPP - 403 - Upsell,Upsell,Stage 5,Core,AMER,06/08/2025,06/08/2025,03/12/2025,03/12/2025,"$7,395",REP 10,REP 10,03/10/2025,88,Not Run-Rate,AMER,Susan Bones,Commit
+404,OPP - 404 - Renewal,Renewal,Stage 2,Core,AMER,5/31/2025,5/31/2025,5/31/2024,2/20/2025,"$7,392",REP 22,REP 22,2/17/2025,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+405,OPP - 405 - Upsell,Upsell,Stage 3,Core,AMER,5/30/2025,02/03/2025,11/26/2024,11/26/2024,"$7,373",REP 50,REP 50,11/25/2024,185,Not Run-Rate,AMER,Harry Potter,Omitted
+406,OPP - 406 - Net New,Net New,Stage 2,Dash,EMEA,5/30/2025,5/30/2025,03/07/2025,03/07/2025,"$7,349",REP 13,REP 46,03/03/2025,84,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+407,OPP - 407 - Upsell,Upsell,Stage 5,Core,AMER,04/11/2025,3/17/2025,12/28/2024,12/28/2024,"$7,245",REP 10,REP 37,12/27/2024,104,Not Run-Rate,AMER,Susan Bones,Best Case
+408,OPP - 408 - Net New,Net New,Stage 2,Send,AMER,5/30/2025,5/30/2025,3/22/2024,3/22/2024,"$7,200",REP 44,REP 44,3/18/2024,434,Not Run-Rate,AMER,Cho Chang,Pipeline
+409,OPP - 409 - Net New,Net New,Stage 2,Core,AMER,9/30/2025,12/18/2024,10/25/2024,10/25/2024,"$7,200",REP 40,REP 40,10/21/2024,340,Not Run-Rate,AMER,Harry Potter,Pipeline
+410,OPP - 410 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,4/19/2025,1/28/2025,1/28/2025,"$7,200",REP 2,REP 2,1/27/2025,153,Not Run-Rate,AMER,Hermione Granger,Pipeline
+411,OPP - 411 - Net New,Net New,Stage 5,Dash,AMER,6/30/2025,4/21/2025,01/10/2025,3/26/2025,"$7,200",REP 50,REP 50,3/24/2025,171,Not Run-Rate,AMER,Harry Potter,Best Case
+412,OPP - 412 - Renewal,Renewal,Stage 3,Core,AMER,5/26/2025,5/26/2025,5/26/2024,03/04/2025,"$7,164",REP 64,REP 64,03/03/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+413,OPP - 413 - Renewal,Renewal,Stage 2,Core,AMER,6/15/2025,6/15/2025,06/11/2024,11/18/2024,"$7,152",REP 59,REP 59,11/18/2024,369,Not Run-Rate,AMER,Cho Chang,Pipeline
+414,OPP - 414 - Renewal,Renewal,Stage 2,Core,AMER,5/15/2025,5/15/2025,5/15/2024,1/27/2025,"$7,134",REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+415,OPP - 415 - Renewal,Renewal,Stage 6,Core,AMER,4/18/2025,4/18/2025,4/18/2024,12/19/2024,"$7,128",REP 64,REP 64,12/16/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+416,OPP - 416 - Net New,Net New,Stage 3,Sign,AMER,4/30/2025,4/30/2025,3/25/2025,3/25/2025,"$7,128",REP 36,REP 36,3/24/2025,36,Not Run-Rate,AMER,Harry Potter,Pipeline
+417,OPP - 417 - Net New,Net New,Stage 2,Send,EMEA,5/29/2025,12/05/2024,11/18/2024,11/18/2024,"$7,021",REP 31,REP 31,11/18/2024,192,Not Run-Rate,EMEA,Terry Boot,Pipeline
+418,OPP - 418 - Renewal,Renewal,Stage 2,Core,EMEA,4/20/2025,4/20/2025,4/20/2024,12/23/2024,"$7,020",REP 51,REP 51,12/23/2024,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+419,OPP - 419 - Renewal,Renewal,Stage 3,Core,AMER,6/20/2025,6/20/2025,6/20/2024,2/25/2025,"$7,008",REP 56,REP 56,2/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+420,OPP - 420 - Renewal,Renewal,Stage 4,Core,AMER,6/30/2025,6/30/2025,5/29/2024,5/30/2024,"$7,008",REP 53,REP 53,5/27/2024,397,Not Run-Rate,AMER,Cho Chang,Best Case
+421,OPP - 421 - Net New,Net New,Stage 5,Core,EMEA,5/15/2025,03/03/2025,2/24/2025,2/24/2025,"$6,985",REP 26,REP 26,2/24/2025,80,Not Run-Rate,EMEA,Ron Weasley,Commit
+422,OPP - 422 - Net New,Net New,Stage 3,Core,AMER,6/13/2025,6/13/2025,4/25/2024,4/25/2024,"$6,975",REP 44,REP 44,4/22/2024,414,Not Run-Rate,AMER,Cho Chang,Pipeline
+423,OPP - 423 - Net New,Net New,Stage 3,Send,AMER,9/30/2025,9/30/2025,2/23/2023,2/23/2023,"$6,912",REP 25,REP 25,2/20/2023,950,Not Run-Rate,AMER,Harry Potter,Pipeline
+424,OPP - 424 - Renewal,Renewal,Stage 5,Core,AMER,06/01/2025,06/01/2025,6/20/2024,3/20/2025,"$6,912",REP 33,REP 19,3/17/2025,346,Not Run-Rate,AMER,Susan Bones,Commit
+425,OPP - 425 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,6/30/2025,3/20/2025,3/21/2025,"$6,900",REP 14,REP 14,3/17/2025,102,Not Run-Rate,AMER,Hermione Granger,Pipeline
+426,OPP - 426 - Net New,Net New,Stage 3,Core,EMEA,5/20/2025,12/05/2023,09/11/2023,09/11/2023,"$6,893",REP 31,REP 31,09/11/2023,617,Not Run-Rate,EMEA,Terry Boot,Pipeline
+427,OPP - 427 - Renewal,Renewal,Stage 2,Core,EMEA,6/16/2025,6/16/2025,6/18/2024,8/27/2024,"$6,890",REP 17,REP 17,8/26/2024,363,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+428,OPP - 428 - Upsell,Upsell,Stage 5,Core,EMEA,5/31/2025,5/31/2025,03/02/2025,03/02/2025,"$6,860",REP 46,REP 46,2/28/2025,90,Not Run-Rate,EMEA,Ron Weasley,Commit
+429,OPP - 429 - Upsell,Upsell,Stage 2,Core,AMER,6/30/2025,2/26/2025,2/26/2025,2/26/2025,"$6,854",REP 40,REP 40,2/24/2025,124,Not Run-Rate,AMER,Harry Potter,Pipeline
+430,OPP - 430 - Renewal,Renewal,Stage 2,Core,JAPAN,7/29/2025,7/29/2025,9/22/2022,11/02/2023,"$6,796",REP 11,REP 11,10/30/2023,1041,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+431,OPP - 431 - Upsell,Upsell,Stage 3,Core,AMER,4/30/2025,05/01/2025,2/21/2025,2/21/2025,"$6,768",REP 50,REP 47,2/17/2025,68,Not Run-Rate,AMER,Harry Potter,Best Case
+432,OPP - 432 - Net New,Net New,Stage 5,Core,EMEA,6/30/2025,2/28/2025,1/24/2025,1/24/2025,"$6,767",REP 9,REP 9,1/20/2025,157,Not Run-Rate,EMEA,Amelia Bones,Commit
+433,OPP - 433 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$6,688",REP 19,REP 19,3/31/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+434,OPP - 434 - Renewal,Renewal,Stage 4,Core,AMER,6/30/2025,6/30/2025,1/13/2025,2/13/2025,"$6,651",REP 25,REP 25,02/10/2025,168,Not Run-Rate,AMER,Harry Potter,Best Case
+435,OPP - 435 - Renewal,Renewal,Stage 5,Core,AMER,4/18/2025,4/18/2025,4/25/2024,3/26/2025,"$6,615",REP 43,REP 43,3/24/2025,358,Not Run-Rate,AMER,Filius Flitwick,Commit
+436,OPP - 436 - Upsell,Upsell,Stage 2,Core,EMEA,5/30/2025,6/24/2024,3/27/2024,3/27/2024,"$6,614",REP 51,REP 51,3/25/2024,429,Not Run-Rate,EMEA,Cho Chang,Pipeline
+437,OPP - 437 - Renewal,Renewal,Stage 3,Core,AMER,4/29/2025,4/29/2025,4/29/2024,4/29/2024,"$6,554",REP 50,REP 50,4/29/2024,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+438,OPP - 438 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,6/30/2025,04/10/2025,04/10/2025,"$6,552",REP 14,REP 14,04/07/2025,81,Not Run-Rate,AMER,Hermione Granger,Pipeline
+439,OPP - 439 - Renewal,Renewal,Stage 2,Core,EMEA,6/14/2025,6/14/2025,5/14/2024,2/17/2025,"$6,519",REP 51,REP 51,2/17/2025,396,Not Run-Rate,EMEA,Cho Chang,Pipeline
+440,OPP - 440 - Renewal,Renewal,Stage 2,Core,AMER,5/16/2025,5/16/2025,5/16/2024,7/19/2024,"$6,480",REP 65,REP 65,7/15/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+441,OPP - 441 - Renewal,Renewal,Stage 3,Core,AMER,4/29/2025,4/29/2025,4/29/2024,12/30/2024,"$6,480",REP 64,REP 64,12/30/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+442,OPP - 442 - Renewal,Renewal,Stage 3,Core,AMER,5/23/2025,5/23/2025,5/23/2024,2/19/2025,"$6,480",REP 64,REP 64,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+443,OPP - 443 - Renewal,Renewal,Stage 4,Core,AMER,6/30/2025,6/30/2025,07/08/2024,07/08/2024,"$6,476",REP 47,REP 47,07/08/2024,357,Not Run-Rate,AMER,Cho Chang,Best Case
+444,OPP - 444 - Net New,Net New,Stage 2,Dash,APAC,5/30/2025,5/30/2025,04/06/2025,04/06/2025,"$6,471",REP 23,REP 23,04/04/2025,54,Not Run-Rate,APAC,Severus Snape,Pipeline
+445,OPP - 445 - Renewal,Renewal,Stage 4,Core,AMER,4/30/2025,4/30/2025,4/30/2024,12/31/2024,"$6,444",REP 64,REP 64,12/30/2024,365,Not Run-Rate,AMER,Cho Chang,Best Case
+446,OPP - 446 - Renewal,Renewal,Stage 2,Core,AMER,05/08/2025,05/08/2025,05/08/2024,02/06/2025,"$6,432",REP 64,REP 64,02/03/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+447,OPP - 447 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,4/14/2025,3/27/2025,3/27/2025,"$6,420",REP 35,REP 35,3/24/2025,34,Not Run-Rate,AMER,Hermione Granger,Pipeline
+448,OPP - 448 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,03/04/2025,03/05/2025,"$6,400",REP 14,REP 14,03/03/2025,118,Not Run-Rate,AMER,Hermione Granger,Pipeline
+449,OPP - 449 - Renewal,Renewal,Stage 3,Core,AMER,5/19/2025,5/19/2025,5/19/2024,1/22/2025,"$6,384",REP 56,REP 56,1/20/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+450,OPP - 450 - Renewal,Renewal,Stage 4,Core,AMER,05/07/2025,05/07/2025,05/07/2024,6/14/2024,"$6,322",REP 65,REP 65,06/10/2024,365,Not Run-Rate,AMER,Cho Chang,Best Case
+451,OPP - 451 - Net New,Net New,Stage 2,Dash,AMER,6/20/2025,6/20/2025,04/01/2025,04/01/2025,"$6,300",REP 42,REP 42,3/31/2025,80,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+452,OPP - 452 - Upsell,Upsell,Stage 5,Core,APAC,5/29/2025,5/29/2025,2/28/2025,2/28/2025,"$6,248",REP 23,REP 23,2/24/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+453,OPP - 453 - Net New,Net New,Stage 2,Sign,AMER,5/14/2025,2/21/2025,1/13/2025,04/10/2025,"$6,240",REP 65,REP 65,04/07/2025,121,Not Run-Rate,AMER,Cho Chang,Pipeline
+454,OPP - 454 - Net New,Net New,Stage 3,Dash,AMER,6/30/2025,6/30/2025,3/17/2025,3/17/2025,"$6,200",REP 25,REP 25,3/17/2025,105,Not Run-Rate,AMER,Harry Potter,Pipeline
+455,OPP - 455 - Net New,Net New,Stage 2,Sign,JAPAN,9/22/2025,9/22/2025,11/28/2024,11/29/2024,"$6,129",REP 5,REP 5,11/25/2024,298,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+456,OPP - 456 - Net New,Net New,Stage 2,Sign,JAPAN,07/07/2025,07/07/2025,3/18/2025,3/18/2025,"$6,129",REP 5,REP 5,3/17/2025,111,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+457,OPP - 457 - Net New,Net New,Stage 2,Dash,EMEA,9/30/2025,9/30/2025,11/27/2024,11/27/2024,"$6,124",REP 13,REP 17,11/25/2024,307,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+458,OPP - 458 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,12/20/2024,12/12/2024,12/12/2024,"$6,124",REP 13,REP 17,12/09/2024,200,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+459,OPP - 459 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,3/30/2025,2/26/2025,2/26/2025,"$6,124",REP 13,REP 24,2/24/2025,124,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+460,OPP - 460 - Net New,Net New,Stage 3,Sign,EMEA,5/30/2025,11/19/2024,5/21/2024,5/21/2024,"$6,124",REP 51,REP 51,5/20/2024,374,Not Run-Rate,EMEA,Cho Chang,Pipeline
+461,OPP - 461 - Net New,Net New,Stage 3,Core,JAPAN,6/28/2025,6/28/2025,11/06/2023,11/06/2023,"$6,078",REP 7,REP 7,11/06/2023,600,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+462,OPP - 462 - Net New,Net New,Stage 2,Dash,EMEA,9/30/2025,9/30/2025,1/28/2025,1/28/2025,"$6,063",REP 13,REP 24,1/27/2025,245,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+463,OPP - 463 - Renewal,Renewal,Stage 2,Core,EMEA,05/08/2025,05/08/2025,05/08/2024,11/20/2024,"$6,002",REP 51,REP 51,11/18/2024,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+464,OPP - 464 - Net New,Net New,Stage 2,Core,AMER,7/31/2025,04/01/2025,2/25/2025,04/02/2025,"$6,000",REP 32,REP 32,3/31/2025,156,Not Run-Rate,AMER,Hermione Granger,Pipeline
+465,OPP - 465 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,3/28/2025,2/27/2025,2/27/2025,"$6,000",REP 27,REP 40,2/24/2025,123,Not Run-Rate,AMER,Harry Potter,Pipeline
+466,OPP - 466 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,6/30/2025,3/14/2025,3/14/2025,"$6,000",REP 40,NOT ASSIGNED,03/10/2025,108,Not Run-Rate,AMER,Harry Potter,Pipeline
+467,OPP - 467 - Net New,Net New,Stage 2,Dash,AMER,9/30/2025,9/30/2025,3/14/2025,3/14/2025,"$6,000",REP 40,REP 40,03/10/2025,200,Not Run-Rate,AMER,Harry Potter,Pipeline
+468,OPP - 468 - Net New,Net New,Stage 2,Dash,AMER,8/29/2025,8/22/2025,04/08/2025,04/08/2025,"$6,000",REP 21,NOT ASSIGNED,04/07/2025,143,Not Run-Rate,DASH,Remus Lupin,Pipeline
+469,OPP - 469 - Net New,Net New,Stage 2,Dash,AMER,05/11/2025,05/11/2025,04/09/2025,04/09/2025,"$6,000",REP 47,REP 47,04/07/2025,32,Not Run-Rate,AMER,Cho Chang,Pipeline
+470,OPP - 470 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,6/30/2025,04/09/2025,04/09/2025,"$6,000",REP 52,REP 52,04/07/2025,82,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+471,OPP - 471 - Net New,Net New,Stage 2,Dash,AMER,9/30/2025,9/30/2025,04/09/2025,04/09/2025,"$6,000",REP 52,REP 52,04/07/2025,174,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+472,OPP - 472 - Upsell,Upsell,Stage 3,Core,AMER,04/01/2025,10/16/2024,10/16/2024,10/16/2024,"$6,000",REP 19,REP 19,10/14/2024,167,Not Run-Rate,AMER,Susan Bones,Pipeline
+473,OPP - 473 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,2/28/2025,1/16/2025,1/16/2025,"$6,000",REP 1,REP 1,1/13/2025,104,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+474,OPP - 474 - Net New,Net New,Stage 4,Sign,AMER,07/01/2025,4/16/2025,2/26/2025,2/26/2025,"$6,000",REP 47,REP 47,2/24/2025,125,Not Run-Rate,AMER,Cho Chang,Best Case
+475,OPP - 475 - Renewal,Renewal,Stage 5,Core,AMER,05/01/2025,05/01/2025,05/01/2024,1/31/2025,"$6,000",REP 57,REP 57,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+476,OPP - 476 - Renewal,Renewal,Stage 2,Core,AMER,8/22/2025,10/15/2024,8/22/2024,10/08/2024,"$5,976",REP 15,NOT ASSIGNED,10/07/2024,365,Not Run-Rate,AMER,Hermione Granger,Pipeline
+477,OPP - 477 - Renewal,Renewal,Stage 2,Core,AMER,5/31/2025,5/31/2025,4/17/2024,4/17/2024,"$5,962",REP 36,REP 36,4/15/2024,409,Not Run-Rate,AMER,Harry Potter,Pipeline
+478,OPP - 478 - Renewal,Renewal,Stage 6,Core,AMER,6/23/2025,6/23/2025,6/25/2024,2/24/2025,"$5,952",REP 53,REP 53,2/24/2025,363,Not Run-Rate,AMER,Cho Chang,Commit
+479,OPP - 479 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,3/31/2025,2/27/2025,2/27/2025,"$5,940",REP 40,REP 40,2/24/2025,123,Not Run-Rate,AMER,Harry Potter,Pipeline
+480,OPP - 480 - Renewal,Renewal,Stage 4,Core,AMER,6/24/2025,6/24/2025,6/25/2024,3/29/2025,"$5,940",REP 29,REP 19,3/28/2025,364,Not Run-Rate,AMER,Susan Bones,Best Case
+481,OPP - 481 - Net New,Net New,Stage 5,Sign,AMER,05/01/2025,04/01/2025,3/24/2025,3/24/2025,"$5,940",REP 2,REP 84,3/24/2025,38,Not Run-Rate,AMER,Hermione Granger,Commit
+482,OPP - 482 - Net New,Net New,Stage 5,Sign,AMER,05/01/2025,04/01/2025,04/10/2025,04/10/2025,"$5,940",REP 2,REP 84,04/07/2025,21,Not Run-Rate,AMER,Hermione Granger,Commit
+483,OPP - 483 - Net New,Net New,Stage 5,Sign,AMER,05/01/2025,04/01/2025,04/10/2025,04/10/2025,"$5,940",REP 2,REP 84,04/07/2025,21,Not Run-Rate,AMER,Hermione Granger,Commit
+484,OPP - 484 - Upsell,Upsell,Stage 5,Core,AMER,6/21/2025,6/21/2025,3/23/2025,3/23/2025,"$5,913",REP 53,REP 53,3/21/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+485,OPP - 485 - Net New,Net New,Stage 3,Core,JAPAN,6/30/2025,01/01/2025,07/09/2024,07/09/2024,"$5,891",REP 18,REP 18,07/08/2024,356,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+486,OPP - 486 - Upsell,Upsell,Stage 5,Core,AMER,07/02/2025,07/02/2025,04/03/2025,04/03/2025,"$5,796",REP 39,REP 39,3/31/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+487,OPP - 487 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,2/27/2025,2/27/2025,"$5,760",REP 25,REP 25,2/24/2025,123,Not Run-Rate,AMER,Harry Potter,Pipeline
+488,OPP - 488 - Net New,Net New,Stage 3,Dash,EMEA,6/30/2025,3/31/2025,2/26/2025,2/26/2025,"$5,744",REP 31,REP 31,2/24/2025,124,Not Run-Rate,EMEA,Terry Boot,Pipeline
+489,OPP - 489 - Renewal,Renewal,Stage 5,Core,AMER,5/16/2025,4/18/2025,11/30/2022,08/08/2023,"$5,655",REP 3,REP 3,08/07/2023,898,Not Run-Rate,AMER,Susan Bones,Commit
+490,OPP - 490 - Net New,Net New,Stage 3,Core,EMEA,5/31/2025,8/31/2024,6/18/2024,6/18/2024,"$5,616",REP 66,NOT ASSIGNED,6/17/2024,347,Not Run-Rate,EMEA,Terry Boot,Pipeline
+491,OPP - 491 - Renewal,Renewal,Stage 2,Core,AMER,6/27/2025,6/27/2025,02/07/2025,3/20/2025,"$5,580",REP 43,REP 43,3/17/2025,140,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+492,OPP - 492 - Upsell,Upsell,Stage 2,Dash,EMEA,9/30/2025,3/14/2025,1/15/2025,1/15/2025,"$5,512",REP 13,REP 24,1/13/2025,258,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+493,OPP - 493 - Renewal,Renewal,Stage 2,Core,EMEA,6/14/2025,6/14/2025,06/06/2024,2/17/2025,"$5,512",REP 51,REP 51,2/17/2025,373,Not Run-Rate,EMEA,Cho Chang,Pipeline
+494,OPP - 494 - Net New,Net New,Stage 3,Dash,EMEA,4/30/2025,3/31/2025,12/17/2024,12/17/2024,"$5,512",REP 13,REP 51,12/16/2024,134,Not Run-Rate,EMEA,Cho Chang,Pipeline
+495,OPP - 495 - Net New,Net New,Stage 2,Dash,AMER,6/16/2025,6/16/2025,04/08/2025,04/08/2025,"$5,448",REP 3,REP 19,04/07/2025,69,Not Run-Rate,AMER,Susan Bones,Pipeline
+496,OPP - 496 - Net New,Net New,Stage 6,Core,AMER,04/11/2025,04/10/2025,03/05/2025,03/06/2025,"$5,440",REP 14,REP 14,03/03/2025,37,Not Run-Rate,AMER,Hermione Granger,Commit
+497,OPP - 497 - Net New,Net New,Stage 2,Send,AMER,6/30/2025,05/01/2025,04/08/2025,04/08/2025,"$5,400",REP 53,REP 53,04/07/2025,83,Not Run-Rate,AMER,Cho Chang,Pipeline
+498,OPP - 498 - Net New,Net New,Stage 3,Send,AMER,7/31/2025,3/31/2025,1/23/2025,1/29/2025,"$5,400",REP 32,REP 32,1/27/2025,189,Not Run-Rate,AMER,Hermione Granger,Pipeline
+499,OPP - 499 - Upsell,Upsell,Stage 5,Core,AMER,4/25/2025,4/25/2025,1/25/2025,1/25/2025,"$5,400",REP 33,REP 33,1/24/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+500,OPP - 500 - Upsell,Upsell,Stage 5,Core,AMER,07/01/2025,05/01/2025,02/02/2025,02/02/2025,"$5,400",REP 47,REP 47,1/31/2025,149,Not Run-Rate,AMER,Cho Chang,Commit
+501,OPP - 501 - Net New,Net New,Stage 2,Sign,AMER,4/30/2025,4/30/2025,10/16/2024,10/16/2024,"$5,280",REP 50,REP 50,10/14/2024,196,Not Run-Rate,AMER,Harry Potter,Pipeline
+502,OPP - 502 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,06/01/2025,3/27/2025,3/27/2025,"$5,280",REP 2,REP 2,3/24/2025,95,Not Run-Rate,AMER,Hermione Granger,Pipeline
+503,OPP - 503 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,05/11/2025,04/11/2025,04/11/2025,"$5,280",REP 2,REP 2,04/07/2025,80,Not Run-Rate,AMER,Hermione Granger,Pipeline
+504,OPP - 504 - Net New,Net New,Stage 3,Sign,AMER,4/30/2025,3/31/2025,08/09/2024,08/09/2024,"$5,280",REP 2,REP 84,08/05/2024,264,Not Run-Rate,AMER,Hermione Granger,Pipeline
+505,OPP - 505 - Upsell,Upsell,Stage 5,Core,AMER,4/15/2025,4/15/2025,1/16/2025,1/16/2025,"$5,280",REP 28,REP 28,1/13/2025,89,Not Run-Rate,AMER,Susan Bones,Commit
+506,OPP - 506 - Renewal,Renewal,Stage 2,Core,EMEA,6/19/2025,6/19/2025,05/06/2024,11/21/2024,"$5,251",REP 51,REP 51,11/18/2024,409,Not Run-Rate,EMEA,Cho Chang,Pipeline
+507,OPP - 507 - Renewal,Renewal,Stage 5,Core,AMER,6/17/2025,6/17/2025,7/15/2022,9/17/2024,"$5,232",REP 8,REP 8,9/16/2024,1068,Not Run-Rate,AMER,Filius Flitwick,Commit
+508,OPP - 508 - Renewal,Renewal,Stage 2,Core,AMER,8/24/2025,8/24/2025,8/24/2022,9/15/2022,"$5,148",REP 43,REP 43,09/12/2022,1096,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+509,OPP - 509 - Renewal,Renewal,Stage 5,Core,EMEA,4/29/2025,4/29/2025,4/30/2024,12/30/2024,"$5,136",REP 51,REP 51,12/30/2024,364,Not Run-Rate,EMEA,Cho Chang,Commit
+510,OPP - 510 - Upsell,Upsell,Stage 5,Core,AMER,4/15/2025,4/15/2025,1/16/2025,1/16/2025,"$5,099",REP 25,REP 25,1/13/2025,89,Not Run-Rate,AMER,Harry Potter,Commit
+511,OPP - 511 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,02/10/2025,1/23/2025,1/23/2025,"$5,069",REP 35,REP 35,1/20/2025,97,Not Run-Rate,AMER,Hermione Granger,Pipeline
+512,OPP - 512 - Renewal,Renewal,Stage 5,Core,EMEA,6/30/2025,04/06/2026,12/02/2024,3/21/2025,"$5,055",REP 49,REP 49,3/17/2025,210,Not Run-Rate,EMEA,Ron Weasley,Commit
+513,OPP - 513 - Renewal,Renewal,Stage 3,Core,AMER,5/15/2025,5/15/2025,5/13/2024,3/17/2025,"$5,040",REP 42,REP 42,3/17/2025,367,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+514,OPP - 514 - Renewal,Renewal,Stage 5,Core,AMER,06/03/2025,06/03/2025,06/07/2024,9/30/2024,"$5,040",REP 8,REP 8,9/30/2024,361,Not Run-Rate,AMER,Filius Flitwick,Commit
+515,OPP - 515 - Renewal,Renewal,Stage 2,Core,EMEA,5/28/2025,5/28/2025,5/28/2024,2/26/2025,"$5,037",REP 51,REP 51,2/24/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+516,OPP - 516 - Net New,Net New,Stage 2,Dash,AMER,4/23/2025,4/23/2025,3/18/2025,3/18/2025,"$5,000",REP 25,REP 62,3/17/2025,36,Not Run-Rate,AMER,Harry Potter,Pipeline
+517,OPP - 517 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,6/30/2025,3/21/2025,3/21/2025,"$5,000",REP 25,REP 25,3/17/2025,101,Not Run-Rate,AMER,Harry Potter,Pipeline
+518,OPP - 518 - Renewal,Renewal,Stage 2,Dash,AMER,8/17/2025,8/17/2025,08/12/2024,04/08/2025,"$5,000",REP 25,REP 25,04/07/2025,370,Not Run-Rate,AMER,Harry Potter,Pipeline
+519,OPP - 519 - Net New,Net New,Stage 4,Dash,AMER,4/30/2025,4/30/2025,12/05/2024,12/11/2024,"$5,000",REP 27,REP 25,12/09/2024,146,Not Run-Rate,AMER,Harry Potter,Best Case
+520,OPP - 520 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,03/11/2025,11/20/2024,11/26/2024,"$5,000",REP 27,REP 36,11/25/2024,222,Not Run-Rate,AMER,Harry Potter,Pipeline
+521,OPP - 521 - Renewal,Renewal,Stage 5,Core,EMEA,6/19/2025,6/19/2025,7/29/2024,9/29/2023,"$4,946",REP 31,REP 31,9/25/2023,325,Not Run-Rate,EMEA,Terry Boot,Commit
+522,OPP - 522 - Upsell,Upsell,Stage 5,Sign,AMER,6/30/2025,2/22/2025,3/18/2025,3/18/2025,"$4,942",REP 33,REP 33,3/17/2025,104,Not Run-Rate,AMER,Susan Bones,Commit
+523,OPP - 523 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,03/10/2025,2/28/2025,3/31/2025,"$4,932",REP 15,REP 15,3/31/2025,91,Not Run-Rate,AMER,Hermione Granger,Pipeline
+524,OPP - 524 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,3/31/2025,2/24/2025,2/25/2025,"$4,928",REP 14,REP 14,2/24/2025,126,Not Run-Rate,AMER,Hermione Granger,Pipeline
+525,OPP - 525 - Renewal,Renewal,Stage 5,Core,AMER,06/01/2025,06/01/2025,06/01/2024,02/07/2025,"$4,920",REP 56,REP 56,02/03/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+526,OPP - 526 - Net New,Net New,Stage 2,Core,AMER,7/19/2025,7/19/2025,10/17/2024,02/11/2025,"$4,896",REP 59,REP 59,02/10/2025,275,Not Run-Rate,AMER,Cho Chang,Pipeline
+527,OPP - 527 - Net New,Net New,Stage 2,Sign,EMEA,5/29/2025,06/01/2025,04/09/2025,04/09/2025,"$4,851",REP 31,REP 31,04/07/2025,50,Not Run-Rate,EMEA,Terry Boot,Pipeline
+528,OPP - 528 - Renewal,Renewal,Stage 6,Core,EMEA,07/10/2025,07/10/2025,07/10/2024,2/18/2025,"$4,841",REP 9,REP 9,2/17/2025,365,Not Run-Rate,EMEA,Amelia Bones,Commit
+529,OPP - 529 - Upsell,Upsell,Stage 5,Core,AMER,6/22/2025,6/22/2025,3/24/2025,3/24/2025,"$4,838",REP 6,REP 6,3/24/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+530,OPP - 530 - Upsell,Upsell,Stage 5,Core,AMER,6/15/2025,6/15/2025,3/20/2025,3/20/2025,"$4,830",REP 33,REP 33,3/17/2025,87,Not Run-Rate,AMER,Susan Bones,Commit
+531,OPP - 531 - Renewal,Renewal,Stage 2,Core,EMEA,7/19/2025,7/19/2025,6/20/2024,3/21/2025,"$4,823",REP 51,REP 51,3/17/2025,394,Not Run-Rate,EMEA,Cho Chang,Pipeline
+532,OPP - 532 - Net New,Net New,Stage 2,Sign,AMER,06/07/2025,6/27/2024,3/21/2024,3/21/2024,"$4,800",REP 64,REP 64,3/18/2024,443,Not Run-Rate,AMER,Cho Chang,Pipeline
+533,OPP - 533 - Net New,Net New,Stage 2,Core,AMER,07/01/2025,09/09/2024,7/29/2024,7/29/2024,"$4,800",REP 47,REP 47,7/29/2024,337,Not Run-Rate,AMER,Cho Chang,Pipeline
+534,OPP - 534 - Net New,Net New,Stage 2,Sign,AMER,07/08/2025,12/23/2024,10/17/2024,10/17/2024,"$4,800",REP 64,REP 64,10/14/2024,264,Not Run-Rate,AMER,Cho Chang,Pipeline
+535,OPP - 535 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,05/01/2025,3/17/2025,3/17/2025,"$4,800",REP 50,REP 50,3/17/2025,105,Not Run-Rate,AMER,Harry Potter,Pipeline
+536,OPP - 536 - Net New,Net New,Stage 2,Dash,AMER,05/12/2025,05/12/2025,3/31/2025,04/08/2025,"$4,800",REP 21,NOT ASSIGNED,04/07/2025,42,Not Run-Rate,DASH,Remus Lupin,Pipeline
+537,OPP - 537 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,07/01/2025,04/08/2025,04/08/2025,"$4,800",REP 2,NOT ASSIGNED,04/07/2025,83,Not Run-Rate,AMER,Hermione Granger,Pipeline
+538,OPP - 538 - Net New,Net New,Stage 2,Dash,AMER,7/25/2025,7/31/2025,04/08/2025,04/08/2025,"$4,800",REP 21,REP 57,04/07/2025,108,Not Run-Rate,AMER,Cho Chang,Pipeline
+539,OPP - 539 - Renewal,Renewal,Stage 5,Core,AMER,4/30/2025,4/30/2025,4/29/2024,03/06/2025,"$4,800",REP 8,REP 8,03/03/2025,366,Not Run-Rate,AMER,Filius Flitwick,Commit
+540,OPP - 540 - Renewal,Renewal,Stage 5,Core,AMER,6/20/2025,6/20/2025,6/20/2024,3/17/2025,"$4,800",REP 8,REP 8,3/17/2025,365,Not Run-Rate,AMER,Filius Flitwick,Commit
+541,OPP - 541 - Upsell,Upsell,Stage 6,Sign,AMER,04/10/2025,04/10/2025,3/31/2025,3/31/2025,"$4,794",REP 2,REP 2,3/31/2025,10,Not Run-Rate,AMER,Hermione Granger,Commit
+542,OPP - 542 - Net New,Net New,Stage 4,Core,AMER,4/30/2025,4/30/2025,1/15/2025,1/28/2025,"$4,743",REP 15,REP 15,1/27/2025,105,Not Run-Rate,AMER,Hermione Granger,Best Case
+543,OPP - 543 - Renewal,Renewal,Stage 2,Core,JAPAN,7/19/2025,7/19/2025,7/14/2022,3/27/2023,"$4,731",REP 5,REP 5,3/27/2023,1101,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+544,OPP - 544 - Renewal,Renewal,Stage 5,Dash,AMER,06/01/2025,06/01/2025,06/10/2024,2/27/2025,"$4,710",REP 8,REP 8,2/24/2025,356,Not Run-Rate,AMER,Filius Flitwick,Commit
+545,OPP - 545 - Renewal,Renewal,Stage 2,Core,AMER,5/18/2025,5/18/2025,5/24/2024,5/24/2024,"$4,709",REP 50,REP 50,5/20/2024,359,Not Run-Rate,AMER,Harry Potter,Pipeline
+546,OPP - 546 - Renewal,Renewal,Stage 5,Core,AMER,07/10/2025,07/10/2025,6/30/2022,04/10/2025,"$4,699",REP 12,REP 12,04/07/2025,1106,Not Run-Rate,AMER,Harry Potter,Commit
+547,OPP - 547 - Upsell,Upsell,Stage 5,Core,JAPAN,07/01/2025,07/01/2025,01/05/2025,01/06/2025,"$4,675",REP 18,REP 18,01/06/2025,177,Not Run-Rate,JAPAN,Colin Creevey,Commit
+548,OPP - 548 - Renewal,Renewal,Stage 3,Core,EMEA,5/21/2025,10/01/2026,10/01/2023,01/09/2024,"$4,670",REP 31,REP 31,01/08/2024,598,Not Run-Rate,EMEA,Terry Boot,Pipeline
+549,OPP - 549 - Renewal,Renewal,Stage 5,Core,APAC,05/01/2025,05/01/2025,04/04/2024,02/02/2025,"$4,667",REP 30,REP 30,1/31/2025,392,Not Run-Rate,APAC,Severus Snape,Commit
+550,OPP - 550 - Renewal,Renewal,Stage 3,Core,AMER,5/31/2025,5/31/2025,5/23/2024,1/31/2025,"$4,650",REP 6,REP 6,1/27/2025,373,Not Run-Rate,AMER,Cho Chang,Pipeline
+551,OPP - 551 - Renewal,Renewal,Stage 4,Core,AMER,06/10/2025,06/10/2025,6/19/2024,03/12/2025,"$4,648",REP 44,REP 44,03/10/2025,356,Not Run-Rate,AMER,Cho Chang,Best Case
+552,OPP - 552 - Upsell,Upsell,Stage 5,Core,AMER,4/14/2025,4/14/2025,1/15/2025,1/15/2025,"$4,619",REP 62,REP 62,1/13/2025,89,Not Run-Rate,AMER,Harry Potter,Commit
+553,OPP - 553 - Renewal,Renewal,Stage 3,Core,EMEA,6/29/2025,6/29/2025,6/29/2024,1/21/2025,"$4,616",REP 9,REP 9,1/20/2025,365,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+554,OPP - 554 - Renewal,Renewal,Stage 5,Core,AMER,6/20/2025,6/20/2025,6/20/2024,2/25/2025,"$4,608",REP 56,REP 56,2/24/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+555,OPP - 555 - Renewal,Renewal,Stage 6,Core,EMEA,06/06/2025,06/06/2025,06/06/2022,11/02/2023,"$4,595",REP 49,REP 49,10/30/2023,1096,Not Run-Rate,EMEA,Ron Weasley,Commit
+556,OPP - 556 - Net New,Net New,Stage 2,Dash,EMEA,6/30/2025,6/30/2025,04/07/2025,04/07/2025,"$4,595",REP 66,REP 66,04/07/2025,84,Not Run-Rate,EMEA,Terry Boot,Pipeline
+557,OPP - 557 - Upsell,Upsell,Stage 5,Core,APAC,06/12/2025,06/12/2025,3/14/2025,3/14/2025,"$4,507",REP 30,REP 30,03/10/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+558,OPP - 558 - Renewal,Renewal,Stage 2,Core,EMEA,6/13/2025,6/13/2025,06/10/2024,06/10/2024,"$4,501",REP 51,REP 51,06/10/2024,368,Not Run-Rate,EMEA,Cho Chang,Pipeline
+559,OPP - 559 - Net New,Net New,Stage 2,Core,AMER,9/30/2025,9/30/2025,10/15/2024,10/15/2024,"$4,500",REP 25,REP 25,10/14/2024,350,Not Run-Rate,AMER,Harry Potter,Pipeline
+560,OPP - 560 - Net New,Net New,Stage 2,Sign,AMER,5/30/2025,5/30/2025,10/15/2024,10/15/2024,"$4,500",REP 44,REP 44,10/14/2024,227,Not Run-Rate,AMER,Cho Chang,Pipeline
+561,OPP - 561 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,3/31/2025,2/26/2025,2/26/2025,"$4,500",REP 53,REP 53,2/24/2025,124,Not Run-Rate,AMER,Cho Chang,Pipeline
+562,OPP - 562 - Net New,Net New,Stage 4,Sign,AMER,5/30/2025,12/30/2024,12/02/2024,12/02/2024,"$4,488",REP 50,REP 50,12/02/2024,179,Not Run-Rate,AMER,Harry Potter,Best Case
+563,OPP - 563 - Renewal,Renewal,Stage 5,Core,EMEA,08/10/2025,08/10/2025,10/12/2023,10/13/2023,"$4,460",REP 24,REP 24,10/09/2023,668,Not Run-Rate,EMEA,Amelia Bones,Commit
+564,OPP - 564 - Net New,Net New,Stage 3,Sign,EMEA,4/17/2025,12/16/2024,10/14/2024,10/14/2024,"$4,446",REP 46,REP 46,10/14/2024,185,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+565,OPP - 565 - Upsell,Upsell,Stage 2,Core,APAC,5/31/2025,3/31/2025,2/26/2025,2/26/2025,"$4,384",REP 23,REP 23,2/24/2025,94,Not Run-Rate,APAC,Severus Snape,Pipeline
+566,OPP - 566 - Net New,Net New,Stage 2,Sign,EMEA,5/31/2025,07/01/2024,05/07/2024,05/07/2024,"$4,365",REP 66,REP 66,05/06/2024,389,Not Run-Rate,EMEA,Terry Boot,Pipeline
+567,OPP - 567 - Renewal,Renewal,Stage 2,Core,AMER,08/11/2025,08/11/2025,08/07/2024,08/07/2024,"$4,320",REP 53,REP 53,08/05/2024,369,Not Run-Rate,AMER,Cho Chang,Pipeline
+568,OPP - 568 - Renewal,Renewal,Stage 5,Core,AMER,4/25/2025,4/25/2025,4/25/2023,1/26/2025,"$4,320",REP 36,REP 36,1/24/2025,731,Not Run-Rate,AMER,Harry Potter,Commit
+569,OPP - 569 - Upsell,Upsell,Stage 5,Core,AMER,05/01/2025,05/01/2025,02/02/2025,02/02/2025,"$4,313",REP 29,REP 29,1/31/2025,88,Not Run-Rate,AMER,Susan Bones,Commit
+570,OPP - 570 - Renewal,Renewal,Stage 5,Core,EMEA,06/10/2025,06/10/2025,05/09/2024,03/11/2025,"$4,294",REP 24,REP 24,03/10/2025,397,Not Run-Rate,EMEA,Amelia Bones,Commit
+571,OPP - 571 - Renewal,Renewal,Stage 5,Core,APAC,5/31/2025,5/31/2025,7/23/2022,03/04/2025,"$4,244",REP 30,REP 30,03/03/2025,1043,Not Run-Rate,APAC,Severus Snape,Commit
+572,OPP - 572 - Upsell,Upsell,Stage 5,Core,EMEA,5/17/2025,5/17/2025,2/17/2025,2/17/2025,"$4,224",REP 24,REP 24,2/17/2025,89,Not Run-Rate,EMEA,Amelia Bones,Commit
+573,OPP - 573 - Renewal,Renewal,Stage 5,Sign,AMER,4/30/2025,4/18/2025,9/17/2024,03/10/2025,"$4,224",REP 44,REP 44,03/10/2025,225,Not Run-Rate,AMER,Cho Chang,Commit
+574,OPP - 574 - Upsell,Upsell,Stage 5,Core,EMEA,5/31/2025,5/31/2025,03/10/2025,03/10/2025,"$4,210",REP 24,REP 24,03/10/2025,82,Not Run-Rate,EMEA,Amelia Bones,Commit
+575,OPP - 575 - Upsell,Upsell,Stage 2,Dash,AMER,6/20/2025,6/20/2025,03/06/2025,03/06/2025,"$4,200",REP 3,REP 3,03/03/2025,106,Not Run-Rate,AMER,Susan Bones,Pipeline
+576,OPP - 576 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,6/30/2025,04/04/2025,04/08/2025,"$4,200",REP 14,REP 81,04/07/2025,87,Not Run-Rate,DASH,Remus Lupin,Pipeline
+577,OPP - 577 - Net New,Net New,Stage 3,Dash,AMER,5/30/2025,4/30/2025,3/19/2025,3/20/2025,"$4,200",REP 54,REP 54,3/17/2025,72,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+578,OPP - 578 - Net New,Net New,Stage 5,Dash,AMER,4/14/2025,4/14/2025,03/10/2025,03/11/2025,"$4,200",REP 16,NOT ASSIGNED,03/10/2025,35,Not Run-Rate,DASH,Remus Lupin,Commit
+579,OPP - 579 - Renewal,Renewal,Stage 5,Core,AMER,4/27/2025,4/27/2025,4/27/2024,2/15/2025,"$4,200",REP 40,REP 40,2/14/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+580,OPP - 580 - Upsell,Upsell,Stage 5,Core,AMER,6/18/2025,6/18/2025,3/20/2025,3/20/2025,"$4,155",REP 3,REP 3,3/17/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+581,OPP - 581 - Net New,Net New,Stage 2,Core,EMEA,4/30/2025,1/31/2025,12/19/2024,12/19/2024,"$4,134",REP 9,REP 9,12/16/2024,132,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+582,OPP - 582 - Renewal,Renewal,Stage 2,Core,AMER,6/28/2025,6/28/2025,6/27/2024,10/02/2024,"$4,128",REP 59,REP 59,9/30/2024,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+583,OPP - 583 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$4,118",REP 36,REP 36,3/31/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+584,OPP - 584 - Upsell,Upsell,Stage 5,Core,AMER,05/06/2025,05/06/2025,02/05/2025,02/05/2025,"$4,080",REP 39,REP 39,02/03/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+585,OPP - 585 - Upsell,Upsell,Stage 5,Core,EMEA,06/08/2025,06/08/2025,03/10/2025,03/10/2025,"$4,070",REP 24,REP 24,03/10/2025,90,Not Run-Rate,EMEA,Amelia Bones,Commit
+586,OPP - 586 - Renewal,Renewal,Stage 5,Core,AMER,5/23/2025,5/23/2025,06/04/2024,2/19/2025,"$4,065",REP 22,REP 22,2/17/2025,353,Not Run-Rate,AMER,Filius Flitwick,Commit
+587,OPP - 587 - Renewal,Renewal,Stage 5,Core,AMER,05/01/2025,05/01/2025,04/02/2024,3/28/2025,"$4,050",REP 22,REP 22,3/24/2025,394,Not Run-Rate,AMER,Filius Flitwick,Commit
+588,OPP - 588 - Renewal,Renewal,Stage 2,Core,EMEA,05/08/2025,05/08/2025,05/09/2024,1/16/2025,"$4,042",REP 51,REP 51,1/13/2025,364,Not Run-Rate,EMEA,Cho Chang,Pipeline
+589,OPP - 589 - Upsell,Upsell,Stage 2,Dash,AMER,6/30/2025,3/31/2025,01/10/2025,1/16/2025,"$4,000",REP 27,REP 42,1/13/2025,171,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+590,OPP - 590 - Net New,Net New,Stage 2,Core,AMER,9/30/2025,2/24/2025,02/11/2025,02/11/2025,"$3,994",REP 19,REP 19,02/10/2025,231,Not Run-Rate,AMER,Susan Bones,Pipeline
+591,OPP - 591 - Upsell,Upsell,Stage 5,Core,AMER,06/09/2025,06/09/2025,03/12/2025,03/12/2025,"$3,990",REP 50,REP 50,03/10/2025,89,Not Run-Rate,AMER,Harry Potter,Commit
+592,OPP - 592 - Upsell,Upsell,Stage 3,Core,AMER,6/30/2025,04/01/2025,1/31/2025,02/12/2025,"$3,984",REP 40,REP 40,02/10/2025,150,Not Run-Rate,AMER,Harry Potter,Pipeline
+593,OPP - 593 - Renewal,Renewal,Stage 2,Core,AMER,8/15/2025,8/15/2025,8/13/2024,9/19/2024,"$3,946",REP 12,REP 12,9/16/2024,367,Not Run-Rate,AMER,Harry Potter,Pipeline
+594,OPP - 594 - Renewal,Renewal,Stage 5,Core,AMER,5/31/2025,5/31/2025,5/31/2024,03/02/2025,"$3,900",REP 58,REP 58,2/28/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+595,OPP - 595 - Renewal,Renewal,Stage 5,Core,AMER,06/05/2025,06/05/2025,06/05/2024,3/17/2025,"$3,900",REP 67,REP 67,3/17/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+596,OPP - 596 - Renewal,Renewal,Stage 3,Core,EMEA,7/29/2025,7/29/2025,08/04/2022,04/01/2025,"$3,860",REP 45,REP 45,3/31/2025,1090,Not Run-Rate,EMEA,Terry Boot,Pipeline
+597,OPP - 597 - Upsell,Upsell,Stage 5,Core,EMEA,4/19/2025,4/19/2025,1/20/2025,1/20/2025,"$3,858",REP 46,REP 46,1/20/2025,89,Not Run-Rate,EMEA,Amelia Bones,Commit
+598,OPP - 598 - Upsell,Upsell,Stage 5,Core,EMEA,05/02/2025,05/02/2025,02/03/2025,02/03/2025,"$3,858",REP 51,REP 51,02/03/2025,88,Not Run-Rate,EMEA,Cho Chang,Commit
+599,OPP - 599 - Renewal,Renewal,Stage 5,Core,AMER,4/28/2025,4/28/2025,04/11/2024,12/11/2024,"$3,858",REP 42,REP 42,12/09/2024,382,Not Run-Rate,AMER,Filius Flitwick,Commit
+600,OPP - 600 - Renewal,Renewal,Stage 2,Core,AMER,6/26/2025,6/26/2025,6/26/2024,2/26/2025,"$3,840",REP 59,REP 59,2/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+601,OPP - 601 - Renewal,Renewal,Stage 5,Core,AMER,4/16/2025,4/16/2025,4/16/2024,12/19/2024,"$3,838",REP 56,REP 56,12/16/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+602,OPP - 602 - Renewal,Renewal,Stage 5,Core,AMER,5/31/2025,5/31/2025,5/31/2023,03/07/2025,"$3,795",REP 22,REP 22,03/03/2025,731,Not Run-Rate,AMER,Filius Flitwick,Commit
+603,OPP - 603 - Upsell,Upsell,Stage 5,Core,EMEA,5/19/2025,5/19/2025,2/20/2025,2/20/2025,"$3,782",REP 17,REP 17,2/17/2025,88,Not Run-Rate,EMEA,Amelia Bones,Commit
+604,OPP - 604 - Upsell,Upsell,Stage 4,Core,AMER,05/03/2025,05/03/2025,12/04/2024,12/04/2024,"$3,770",REP 25,REP 25,12/02/2024,150,Not Run-Rate,AMER,Harry Potter,Best Case
+605,OPP - 605 - Net New,Net New,Stage 2,Core,AMER,4/30/2025,4/30/2025,3/24/2025,3/25/2025,"$3,744",REP 32,REP 32,3/24/2025,37,Not Run-Rate,AMER,Hermione Granger,Pipeline
+606,OPP - 606 - Renewal,Renewal,Stage 2,Core,AMER,06/06/2025,06/06/2025,06/06/2024,2/20/2025,"$3,744",REP 64,REP 64,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+607,OPP - 607 - Renewal,Renewal,Stage 2,Core,AMER,7/16/2025,7/16/2025,07/08/2024,07/08/2024,"$3,744",REP 8,REP 8,07/08/2024,373,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+608,OPP - 608 - Net New,Net New,Stage 2,Dash,EMEA,4/30/2025,3/31/2025,2/24/2025,2/24/2025,"$3,734",REP 13,NOT ASSIGNED,2/24/2025,65,Not Run-Rate,DASH,Remus Lupin,Pipeline
+609,OPP - 609 - Renewal,Renewal,Stage 4,Core,AMER,7/27/2025,7/27/2025,7/29/2024,04/01/2025,"$3,726",REP 47,REP 47,3/31/2025,363,Not Run-Rate,AMER,Cho Chang,Best Case
+610,OPP - 610 - Upsell,Upsell,Stage 5,Core,AMER,6/17/2025,6/17/2025,3/19/2025,3/19/2025,"$3,708",REP 20,REP 20,3/17/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+611,OPP - 611 - Renewal,Renewal,Stage 2,Core,AMER,05/06/2025,05/06/2025,05/06/2024,3/28/2025,"$3,698",REP 22,REP 22,3/24/2025,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+612,OPP - 612 - Renewal,Renewal,Stage 4,Sign,AMER,5/14/2025,5/14/2025,5/17/2022,04/03/2025,"$3,696",REP 1,REP 1,3/31/2025,1093,Not Run-Rate,AMER,Rubeus Hagrid,Best Case
+613,OPP - 613 - Renewal,Renewal,Stage 2,Core,EMEA,04/12/2025,04/12/2025,04/12/2024,1/16/2025,"$3,690",REP 51,REP 51,1/13/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+614,OPP - 614 - Upsell,Upsell,Stage 5,Core,AMER,6/16/2025,6/16/2025,3/18/2025,3/18/2025,"$3,620",REP 6,REP 6,3/17/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+615,OPP - 615 - Net New,Net New,Stage 2,Send,AMER,4/30/2025,3/31/2025,10/01/2024,10/01/2024,"$3,600",REP 65,REP 65,9/30/2024,211,Not Run-Rate,AMER,Cho Chang,Pipeline
+616,OPP - 616 - Net New,Net New,Stage 2,Send,AMER,6/30/2025,3/31/2025,10/21/2024,10/21/2024,"$3,600",REP 6,REP 6,10/21/2024,252,Not Run-Rate,AMER,Cho Chang,Pipeline
+617,OPP - 617 - Upsell,Upsell,Stage 5,Core,AMER,05/12/2025,05/12/2025,02/11/2025,02/11/2025,"$3,600",REP 50,REP 50,02/10/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+618,OPP - 618 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,6/28/2024,03/03/2025,"$3,564",REP 59,REP 59,03/03/2025,367,Not Run-Rate,AMER,Cho Chang,Pipeline
+619,OPP - 619 - Renewal,Renewal,Stage 4,Sign,AMER,06/05/2025,06/05/2025,6/14/2024,03/12/2025,"$3,564",REP 44,REP 44,03/10/2025,356,Not Run-Rate,AMER,Cho Chang,Best Case
+620,OPP - 620 - Upsell,Upsell,Stage 2,Core,AMER,4/30/2025,1/31/2025,10/09/2024,10/09/2024,"$3,552",REP 65,REP 65,10/07/2024,203,Not Run-Rate,AMER,Cho Chang,Pipeline
+621,OPP - 621 - Upsell,Upsell,Stage 5,Core,AMER,05/10/2025,05/10/2025,02/11/2025,02/11/2025,"$3,549",REP 22,REP 22,02/10/2025,88,Not Run-Rate,AMER,Filius Flitwick,Commit
+622,OPP - 622 - Net New,Net New,Stage 2,Core,JAPAN,9/25/2025,6/30/2023,03/02/2023,03/02/2023,"$3,532",REP 11,REP 11,2/27/2023,938,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+623,OPP - 623 - Renewal,Renewal,Stage 5,Core,AMER,4/24/2025,4/24/2025,4/26/2024,1/27/2025,"$3,528",REP 59,REP 59,1/27/2025,363,Not Run-Rate,AMER,Cho Chang,Commit
+624,OPP - 624 - Upsell,Upsell,Stage 5,Core,EMEA,05/12/2025,05/12/2025,02/11/2025,02/11/2025,"$3,523",REP 51,REP 51,02/10/2025,90,Not Run-Rate,EMEA,Cho Chang,Commit
+625,OPP - 625 - Renewal,Renewal,Stage 5,Core,EMEA,5/19/2025,5/19/2025,5/21/2024,03/06/2025,"$3,515",REP 66,REP 66,03/03/2025,363,Not Run-Rate,EMEA,Terry Boot,Commit
+626,OPP - 626 - Renewal,Renewal,Stage 3,Core,AMER,6/13/2025,6/13/2025,6/13/2024,2/21/2025,"$3,499",REP 64,REP 64,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+627,OPP - 627 - Renewal,Renewal,Stage 2,Core,AMER,05/12/2025,05/12/2025,4/22/2024,4/22/2024,"$3,456",REP 6,REP 6,4/22/2024,385,Not Run-Rate,AMER,Cho Chang,Pipeline
+628,OPP - 628 - Upsell,Upsell,Stage 3,Core,EMEA,5/28/2025,8/15/2024,07/03/2024,07/03/2024,"$3,446",REP 31,REP 31,07/01/2024,329,Not Run-Rate,EMEA,Terry Boot,Pipeline
+629,OPP - 629 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,6/24/2024,3/27/2025,"$3,392",REP 36,REP 36,3/24/2025,371,Not Run-Rate,AMER,Harry Potter,Pipeline
+630,OPP - 630 - Upsell,Upsell,Stage 6,Core,AMER,4/16/2025,04/11/2025,04/11/2025,04/11/2025,"$3,384",REP 58,REP 58,04/07/2025,5,Run-Rate,AMER,Harry Potter,Commit
+631,OPP - 631 - Upsell,Upsell,Stage 6,Sign,AMER,4/30/2025,1/13/2025,09/12/2024,09/12/2024,"$3,329",REP 44,REP 44,09/09/2024,230,Not Run-Rate,AMER,Cho Chang,Commit
+632,OPP - 632 - Net New,Net New,Stage 2,Sign,AMER,4/30/2025,4/30/2025,02/07/2025,02/07/2025,"$3,300",REP 2,REP 2,02/03/2025,82,Not Run-Rate,AMER,Hermione Granger,Pipeline
+633,OPP - 633 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,05/01/2025,3/24/2025,3/24/2025,"$3,300",REP 2,REP 2,3/24/2025,98,Not Run-Rate,AMER,Hermione Granger,Pipeline
+634,OPP - 634 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,07/01/2025,04/03/2025,04/03/2025,"$3,300",REP 2,REP 2,3/31/2025,88,Not Run-Rate,AMER,Hermione Granger,Pipeline
+635,OPP - 635 - Net New,Net New,Stage 3,Sign,AMER,5/23/2025,2/22/2025,01/08/2025,1/15/2025,"$3,300",REP 2,REP 84,1/13/2025,135,Not Run-Rate,AMER,Hermione Granger,Pipeline
+636,OPP - 636 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,04/03/2025,03/04/2025,03/04/2025,"$3,300",REP 2,REP 2,03/03/2025,118,Not Run-Rate,AMER,Hermione Granger,Pipeline
+637,OPP - 637 - Net New,Net New,Stage 5,Sign,AMER,06/01/2025,05/01/2025,04/07/2025,04/07/2025,"$3,300",REP 2,REP 2,04/07/2025,55,Not Run-Rate,AMER,Hermione Granger,Commit
+638,OPP - 638 - Renewal,Renewal,Stage 2,Core,AMER,4/30/2025,4/30/2025,4/30/2024,05/01/2024,"$3,299",REP 32,REP 32,4/29/2024,365,Not Run-Rate,AMER,Hermione Granger,Pipeline
+639,OPP - 639 - Renewal,Renewal,Stage 6,Core,EMEA,4/25/2025,4/25/2025,04/04/2024,04/04/2024,"$3,217",REP 45,REP 45,04/01/2024,386,Not Run-Rate,EMEA,Terry Boot,Commit
+640,OPP - 640 - Renewal,Renewal,Stage 2,Core,EMEA,7/14/2025,7/14/2025,7/14/2024,3/17/2025,"$3,215",REP 51,REP 51,3/17/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+641,OPP - 641 - Renewal,Renewal,Stage 5,Core,EMEA,5/24/2025,5/24/2025,5/21/2024,2/25/2025,"$3,215",REP 17,REP 17,2/24/2025,368,Not Run-Rate,EMEA,Amelia Bones,Commit
+642,OPP - 642 - Renewal,Renewal,Stage 2,Core,AMER,06/12/2025,06/12/2025,4/29/2024,02/12/2025,"$3,189",REP 12,REP 12,02/10/2025,409,Not Run-Rate,AMER,Harry Potter,Pipeline
+643,OPP - 643 - Upsell,Upsell,Stage 2,Core,APAC,5/29/2025,10/14/2024,10/13/2024,10/13/2024,"$3,184",REP 23,REP 23,10/11/2024,228,Not Run-Rate,APAC,Severus Snape,Pipeline
+644,OPP - 644 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,4/30/2025,2/19/2025,2/19/2025,"$3,168",REP 15,REP 15,2/17/2025,70,Not Run-Rate,AMER,Hermione Granger,Commit
+645,OPP - 645 - Renewal,Renewal,Stage 6,Core,AMER,5/21/2025,5/21/2025,5/28/2024,3/28/2025,"$3,150",REP 58,REP 58,3/24/2025,358,Not Run-Rate,AMER,Harry Potter,Commit
+646,OPP - 646 - Upsell,Upsell,Stage 5,Core,EMEA,5/15/2025,5/15/2025,2/18/2025,2/18/2025,"$3,127",REP 68,REP 68,2/17/2025,86,Not Run-Rate,EMEA,Ron Weasley,Commit
+647,OPP - 647 - Upsell,Upsell,Stage 3,Core,AMER,6/30/2025,6/30/2025,11/04/2024,11/26/2024,"$3,120",REP 25,REP 25,11/25/2024,238,Not Run-Rate,AMER,Harry Potter,Pipeline
+648,OPP - 648 - Renewal,Renewal,Stage 2,Core,AMER,6/22/2025,6/22/2025,6/24/2024,9/30/2024,"$3,110",REP 1,REP 1,9/30/2024,363,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+649,OPP - 649 - Renewal,Renewal,Stage 2,Core,AMER,5/18/2025,5/18/2025,5/19/2022,3/31/2025,"$3,075",REP 54,REP 54,3/31/2025,1095,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+650,OPP - 650 - Net New,Net New,Stage 3,Dash,EMEA,6/30/2025,6/30/2025,12/10/2024,12/10/2024,"$3,062",REP 13,REP 51,12/09/2024,202,Not Run-Rate,EMEA,Cho Chang,Pipeline
+651,OPP - 651 - Renewal,Renewal,Stage 6,Core,AMER,05/10/2025,04/09/2025,05/10/2024,04/09/2025,"$3,048",REP 14,REP 14,04/07/2025,365,Not Run-Rate,AMER,Hermione Granger,Commit
+652,OPP - 652 - Upsell,Upsell,Stage 5,Core,AMER,05/03/2025,05/03/2025,02/04/2025,02/04/2025,"$3,014",REP 42,REP 42,02/03/2025,88,Not Run-Rate,AMER,Filius Flitwick,Commit
+653,OPP - 653 - Upsell,Upsell,Stage 2,Dash,AMER,4/30/2025,12/17/2024,12/17/2024,12/17/2024,"$3,000",REP 62,REP 62,12/16/2024,134,Not Run-Rate,AMER,Harry Potter,Best Case
+654,OPP - 654 - Net New,Net New,Stage 2,Core,AMER,5/30/2025,5/30/2025,2/26/2025,2/26/2025,"$3,000",REP 44,REP 44,2/24/2025,93,Not Run-Rate,AMER,Cho Chang,Pipeline
+655,OPP - 655 - Net New,Net New,Stage 2,Dash,AMER,05/01/2025,05/01/2025,3/17/2025,3/26/2025,"$3,000",REP 21,NOT ASSIGNED,3/24/2025,45,Not Run-Rate,DASH,Remus Lupin,Pipeline
+656,OPP - 656 - Net New,Net New,Stage 2,Dash,AMER,5/19/2025,5/19/2025,04/04/2025,04/11/2025,"$3,000",REP 21,NOT ASSIGNED,04/07/2025,45,Not Run-Rate,DASH,Remus Lupin,Pipeline
+657,OPP - 657 - Net New,Net New,Stage 2,Sign,AMER,6/14/2025,6/14/2025,04/09/2025,04/10/2025,"$3,000",REP 69,REP 69,04/07/2025,66,Not Run-Rate,AMER,Cho Chang,Pipeline
+658,OPP - 658 - Net New,Net New,Stage 2,Dash,AMER,6/30/2025,7/25/2025,04/10/2025,04/11/2025,"$3,000",REP 21,REP 81,04/07/2025,81,Not Run-Rate,DASH,Remus Lupin,Pipeline
+659,OPP - 659 - Net New,Net New,Stage 3,Dash,AMER,7/30/2025,7/30/2025,2/27/2025,2/27/2025,"$3,000",REP 58,REP 58,2/24/2025,153,Not Run-Rate,AMER,Harry Potter,Pipeline
+660,OPP - 660 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,04/11/2025,04/03/2025,04/03/2025,"$3,000",REP 35,REP 35,3/31/2025,88,Not Run-Rate,AMER,Hermione Granger,Pipeline
+661,OPP - 661 - Net New,Net New,Stage 4,Sign,AMER,5/20/2025,5/20/2025,04/11/2025,04/11/2025,"$3,000",REP 69,REP 69,04/07/2025,39,Not Run-Rate,AMER,Cho Chang,Best Case
+662,OPP - 662 - Renewal,Renewal,Stage 3,Sign,AMER,06/12/2025,06/12/2025,08/12/2024,12/09/2024,"$2,904",REP 1,REP 1,12/09/2024,304,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+663,OPP - 663 - Renewal,Renewal,Stage 5,Sign,AMER,05/01/2025,05/01/2025,05/08/2024,3/25/2025,"$2,904",REP 1,REP 1,3/24/2025,358,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+664,OPP - 664 - Upsell,Upsell,Stage 6,Core,AMER,4/25/2025,3/19/2025,3/19/2025,3/19/2025,"$2,890",REP 10,REP 10,3/17/2025,37,Not Run-Rate,AMER,Susan Bones,Best Case
+665,OPP - 665 - Net New,Net New,Stage 2,Core,AMER,5/30/2025,5/30/2025,04/09/2025,04/09/2025,"$2,880",REP 32,REP 32,04/07/2025,51,Not Run-Rate,AMER,Hermione Granger,Pipeline
+666,OPP - 666 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,3/31/2025,2/19/2025,2/20/2025,"$2,880",REP 32,REP 32,2/17/2025,100,Not Run-Rate,AMER,Hermione Granger,Pipeline
+667,OPP - 667 - Upsell,Upsell,Stage 4,Core,AMER,4/30/2025,1/24/2025,1/23/2025,1/23/2025,"$2,880",REP 65,REP 65,1/20/2025,97,Not Run-Rate,AMER,Cho Chang,Best Case
+668,OPP - 668 - Net New,Net New,Stage 4,Core,AMER,4/30/2025,04/11/2025,04/08/2025,04/08/2025,"$2,880",REP 32,REP 32,04/07/2025,22,Not Run-Rate,AMER,Hermione Granger,Best Case
+669,OPP - 669 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,2/28/2025,02/11/2025,02/11/2025,"$2,880",REP 32,REP 32,02/10/2025,78,Not Run-Rate,AMER,Hermione Granger,Commit
+670,OPP - 670 - Net New,Net New,Stage 5,Sign,EMEA,4/30/2025,4/30/2025,2/27/2025,2/27/2025,"$2,829",REP 9,REP 9,2/24/2025,62,Not Run-Rate,EMEA,Amelia Bones,Commit
+671,OPP - 671 - Renewal,Renewal,Stage 5,Sign,AMER,5/23/2025,5/23/2025,5/23/2024,03/11/2025,"$2,825",REP 52,REP 52,03/10/2025,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+672,OPP - 672 - Renewal,Renewal,Stage 5,Core,EMEA,6/30/2025,6/30/2025,6/27/2024,3/17/2025,"$2,821",REP 45,REP 45,3/17/2025,368,Not Run-Rate,EMEA,Terry Boot,Commit
+673,OPP - 673 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,06/06/2025,04/08/2025,04/08/2025,"$2,805",REP 2,REP 2,04/07/2025,83,Not Run-Rate,AMER,Hermione Granger,Pipeline
+674,OPP - 674 - Upsell,Upsell,Stage 5,Core,EMEA,5/31/2025,5/31/2025,03/02/2025,03/02/2025,"$2,803",REP 66,REP 66,2/28/2025,90,Not Run-Rate,EMEA,Terry Boot,Commit
+675,OPP - 675 - Renewal,Renewal,Stage 2,Core,AMER,05/01/2025,05/01/2025,4/24/2024,4/24/2024,"$2,784",REP 59,REP 59,4/22/2024,372,Not Run-Rate,AMER,Cho Chang,Pipeline
+676,OPP - 676 - Net New,Net New,Stage 3,Core,AMER,5/30/2025,5/30/2025,04/01/2025,04/01/2025,"$2,760",REP 35,REP 35,3/31/2025,59,Not Run-Rate,AMER,Hermione Granger,Pipeline
+677,OPP - 677 - Net New,Net New,Stage 3,Core,EMEA,5/30/2025,12/06/2024,11/25/2024,11/25/2024,"$2,756",REP 17,REP 17,11/25/2024,186,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+678,OPP - 678 - Net New,Net New,Stage 5,Core,EMEA,9/30/2025,3/14/2025,2/27/2025,2/27/2025,"$2,756",REP 9,REP 9,2/24/2025,215,Not Run-Rate,EMEA,Amelia Bones,Commit
+679,OPP - 679 - Net New,Net New,Stage 5,Core,EMEA,9/30/2025,3/14/2025,03/06/2025,03/06/2025,"$2,756",REP 9,REP 9,03/03/2025,208,Not Run-Rate,EMEA,Amelia Bones,Commit
+680,OPP - 680 - Renewal,Renewal,Stage 2,Core,AMER,05/02/2025,05/02/2025,4/17/2024,10/21/2024,"$2,733",REP 54,REP 54,10/21/2024,380,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+681,OPP - 681 - Renewal,Renewal,Stage 5,Core,AMER,5/31/2025,5/31/2025,5/30/2024,5/30/2024,"$2,700",REP 33,REP 33,5/27/2024,366,Not Run-Rate,AMER,Susan Bones,Commit
+682,OPP - 682 - Renewal,Renewal,Stage 5,Core,AMER,5/17/2025,5/17/2025,5/17/2024,5/17/2024,"$2,700",REP 57,REP 57,5/13/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+683,OPP - 683 - Net New,Net New,Stage 3,Dash,EMEA,4/30/2025,12/31/2024,12/05/2024,12/05/2024,"$2,700",REP 13,REP 85,12/02/2024,146,Not Run-Rate,EMEA,Terry Boot,Pipeline
+684,OPP - 684 - Renewal,Renewal,Stage 5,Core,AMER,06/05/2025,06/05/2025,5/13/2024,03/07/2025,"$2,699",REP 47,REP 47,03/03/2025,388,Not Run-Rate,AMER,Cho Chang,Commit
+685,OPP - 685 - Renewal,Renewal,Stage 3,Core,AMER,6/30/2025,6/30/2025,8/13/2024,8/28/2024,"$2,677",REP 25,REP 25,8/26/2024,321,Not Run-Rate,AMER,Harry Potter,Pipeline
+686,OPP - 686 - Renewal,Renewal,Stage 3,Core,AMER,06/10/2025,06/10/2025,6/14/2024,6/14/2024,"$2,640",REP 57,REP 57,06/10/2024,361,Not Run-Rate,AMER,Cho Chang,Pipeline
+687,OPP - 687 - Upsell,Upsell,Stage 4,Sign,AMER,05/09/2025,05/10/2025,3/21/2025,3/21/2025,"$2,640",REP 25,REP 25,3/17/2025,49,Not Run-Rate,AMER,Harry Potter,Best Case
+688,OPP - 688 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,5/30/2024,6/25/2024,"$2,624",REP 12,REP 12,6/24/2024,396,Not Run-Rate,AMER,Harry Potter,Pipeline
+689,OPP - 689 - Net New,Net New,Stage 2,Dash,AMER,5/30/2025,3/31/2025,03/04/2025,03/04/2025,"$2,580",REP 21,NOT ASSIGNED,03/03/2025,87,Not Run-Rate,DASH,Remus Lupin,Pipeline
+690,OPP - 690 - Net New,Net New,Stage 2,Sign,EMEA,5/22/2025,4/20/2025,3/21/2025,3/21/2025,"$2,526",REP 46,REP 46,3/17/2025,62,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+691,OPP - 691 - Renewal,Renewal,Stage 5,Core,EMEA,4/23/2025,4/23/2025,4/23/2024,04/08/2025,"$2,458",REP 26,REP 26,04/07/2025,365,Not Run-Rate,EMEA,Ron Weasley,Commit
+692,OPP - 692 - Upsell,Upsell,Stage 6,Sign,AMER,04/07/2025,04/07/2025,04/09/2025,04/09/2025,"$2,455",REP 52,REP 52,04/07/2025,-2,Run-Rate,AMER,Rubeus Hagrid,Commit
+693,OPP - 693 - Renewal,Renewal,Stage 4,Core,AMER,6/18/2025,6/18/2025,6/18/2024,3/27/2025,"$2,434",REP 43,REP 43,3/24/2025,365,Not Run-Rate,AMER,Filius Flitwick,Best Case
+694,OPP - 694 - Net New,Net New,Stage 3,Core,JAPAN,9/25/2025,11/01/2024,09/10/2024,10/02/2024,"$2,431",REP 11,REP 11,9/30/2024,380,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+695,OPP - 695 - Upsell,Upsell,Stage 6,Core,AMER,04/03/2025,04/03/2025,04/02/2025,04/02/2025,"$2,418",REP 57,REP 57,3/31/2025,1,Run-Rate,AMER,Cho Chang,Commit
+696,OPP - 696 - Upsell,Upsell,Stage 6,Core,AMER,05/09/2025,05/09/2025,02/08/2025,02/08/2025,"$2,400",REP 59,REP 59,02/07/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+697,OPP - 697 - Upsell,Upsell,Stage 2,Core,AMER,6/28/2025,10/16/2024,10/16/2024,10/16/2024,"$2,400",REP 8,REP 8,10/14/2024,255,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+698,OPP - 698 - Net New,Net New,Stage 2,Sign,AMER,6/30/2025,6/30/2025,04/02/2025,04/02/2025,"$2,400",REP 2,NOT ASSIGNED,3/31/2025,89,Not Run-Rate,AMER,Hermione Granger,Pipeline
+699,OPP - 699 - Net New,Net New,Stage 2,Sign,AMER,5/31/2025,04/08/2025,04/08/2025,04/08/2025,"$2,400",REP 2,REP 2,04/07/2025,53,Not Run-Rate,AMER,Hermione Granger,Pipeline
+700,OPP - 700 - Net New,Net New,Stage 3,Core,AMER,06/02/2025,06/11/2024,04/11/2024,04/11/2024,"$2,400",REP 59,REP 59,04/08/2024,417,Not Run-Rate,AMER,Cho Chang,Pipeline
+701,OPP - 701 - Net New,Net New,Stage 3,Core,AMER,6/20/2025,07/01/2024,6/26/2024,6/26/2024,"$2,400",REP 39,REP 39,6/24/2024,359,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+702,OPP - 702 - Net New,Net New,Stage 3,Core,AMER,6/30/2025,6/30/2025,3/29/2025,3/31/2025,"$2,400",REP 14,REP 14,3/31/2025,93,Not Run-Rate,AMER,Hermione Granger,Pipeline
+703,OPP - 703 - Net New,Net New,Stage 4,Core,AMER,6/30/2025,6/30/2025,03/10/2025,03/10/2025,"$2,400",REP 14,REP 14,03/10/2025,112,Not Run-Rate,AMER,Hermione Granger,Best Case
+704,OPP - 704 - Upsell,Upsell,Stage 5,Core,AMER,5/23/2025,5/23/2025,2/26/2025,2/26/2025,"$2,400",REP 54,REP 54,2/24/2025,86,Not Run-Rate,AMER,Filius Flitwick,Commit
+705,OPP - 705 - Renewal,Renewal,Stage 3,Core,AMER,6/22/2025,6/22/2025,05/07/2024,2/13/2025,"$2,376",REP 50,REP 50,02/10/2025,411,Not Run-Rate,AMER,Harry Potter,Pipeline
+706,OPP - 706 - Renewal,Renewal,Stage 5,Core,AMER,6/20/2025,6/20/2025,6/25/2024,3/27/2025,"$2,376",REP 39,REP 39,3/24/2025,360,Not Run-Rate,AMER,Filius Flitwick,Commit
+707,OPP - 707 - Renewal,Renewal,Stage 5,Core,AMER,5/13/2025,5/13/2025,5/16/2023,2/14/2024,"$2,375",REP 40,REP 40,02/12/2024,728,Not Run-Rate,AMER,Harry Potter,Commit
+708,OPP - 708 - Upsell,Upsell,Stage 5,Core,AMER,4/17/2025,4/17/2025,1/18/2025,1/18/2025,"$2,340",REP 42,REP 42,1/17/2025,89,Not Run-Rate,AMER,Filius Flitwick,Commit
+709,OPP - 709 - Net New,Net New,Stage 2,Core,AMER,06/01/2025,10/01/2024,07/02/2024,07/02/2024,"$2,304",REP 8,REP 8,07/01/2024,334,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+710,OPP - 710 - Renewal,Renewal,Stage 2,Core,EMEA,05/11/2025,05/11/2025,05/11/2024,1/16/2025,"$2,266",REP 51,REP 51,1/13/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+711,OPP - 711 - Upsell,Upsell,Stage 5,Core,AMER,06/08/2025,06/08/2025,03/10/2024,03/10/2024,"$2,263",REP 38,REP 38,03/08/2024,455,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+712,OPP - 712 - Upsell,Upsell,Stage 5,Core,AMER,5/26/2025,5/26/2025,2/27/2025,2/27/2025,"$2,243",REP 36,REP 36,2/24/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+713,OPP - 713 - Renewal,Renewal,Stage 6,Core,AMER,4/24/2025,4/24/2025,4/24/2024,12/27/2024,"$2,160",REP 67,REP 67,12/23/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+714,OPP - 714 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,4/30/2025,04/11/2025,04/11/2025,"$2,160",REP 32,REP 32,04/07/2025,80,Not Run-Rate,AMER,Hermione Granger,Pipeline
+715,OPP - 715 - Upsell,Upsell,Stage 5,Core,AMER,05/12/2025,05/12/2025,02/11/2025,02/11/2025,"$2,160",REP 58,REP 58,02/10/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+716,OPP - 716 - Renewal,Renewal,Stage 6,Core,AMER,4/22/2025,4/22/2025,4/22/2022,1/20/2025,"$2,117",REP 53,REP 53,1/20/2025,1096,Not Run-Rate,AMER,Cho Chang,Commit
+717,OPP - 717 - Net New,Net New,Stage 2,Core,AMER,6/30/2025,3/26/2025,3/26/2025,3/26/2025,"$2,100",REP 50,REP 50,3/24/2025,96,Not Run-Rate,AMER,Harry Potter,Pipeline
+718,OPP - 718 - Renewal,Renewal,Stage 2,Core,AMER,6/22/2025,6/22/2025,05/10/2024,7/18/2024,"$2,100",REP 62,REP 62,7/15/2024,408,Not Run-Rate,AMER,Harry Potter,Pipeline
+719,OPP - 719 - Upsell,Upsell,Stage 5,Core,AMER,05/10/2025,05/10/2025,02/09/2025,02/09/2025,"$2,100",REP 6,REP 6,02/07/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+720,OPP - 720 - Upsell,Upsell,Stage 5,Core,AMER,5/20/2025,5/20/2025,2/19/2025,2/19/2025,"$2,100",REP 47,REP 47,2/17/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+721,OPP - 721 - Renewal,Renewal,Stage 5,Core,AMER,5/25/2025,5/25/2025,5/16/2024,2/26/2025,"$2,100",REP 48,REP 48,2/24/2025,374,Not Run-Rate,AMER,Harry Potter,Commit
+722,OPP - 722 - Renewal,Renewal,Stage 5,Core,AMER,4/18/2025,4/18/2025,3/21/2024,04/04/2024,"$2,094",REP 40,REP 40,04/01/2024,393,Not Run-Rate,AMER,Harry Potter,Commit
+723,OPP - 723 - Upsell,Upsell,Stage 5,Core,EMEA,05/09/2025,05/09/2025,02/12/2025,02/12/2025,"$2,089",REP 46,REP 46,02/10/2025,86,Not Run-Rate,EMEA,Amelia Bones,Commit
+724,OPP - 724 - Upsell,Upsell,Stage 5,Core,AMER,5/31/2025,5/31/2025,03/02/2025,03/02/2025,"$2,088",REP 12,REP 12,2/28/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+725,OPP - 725 - Renewal,Renewal,Stage 6,Core,AMER,4/15/2025,4/15/2025,3/26/2024,1/16/2025,"$2,079",REP 40,REP 40,1/13/2025,385,Not Run-Rate,AMER,Harry Potter,Commit
+726,OPP - 726 - Renewal,Renewal,Stage 2,Core,AMER,6/28/2025,6/28/2025,6/28/2024,6/28/2024,"$2,079",REP 59,REP 59,6/24/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+727,OPP - 727 - Renewal,Renewal,Stage 2,Core,EMEA,4/25/2025,4/25/2025,3/28/2024,3/28/2024,"$2,067",REP 51,REP 51,3/25/2024,393,Not Run-Rate,EMEA,Cho Chang,Pipeline
+728,OPP - 728 - Upsell,Upsell,Stage 5,Core,AMER,4/24/2025,4/24/2025,1/24/2025,1/24/2025,"$2,066",REP 40,REP 40,1/20/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+729,OPP - 729 - Renewal,Renewal,Stage 5,Sign,AMER,08/02/2025,08/02/2025,8/15/2024,2/24/2025,"$2,063",REP 33,REP 33,2/24/2025,352,Not Run-Rate,AMER,Susan Bones,Commit
+730,OPP - 730 - Renewal,Renewal,Stage 4,Core,AMER,4/30/2025,4/30/2025,4/30/2024,3/27/2025,"$2,052",REP 43,REP 43,3/24/2025,365,Not Run-Rate,AMER,Filius Flitwick,Best Case
+731,OPP - 731 - Renewal,Renewal,Stage 5,Core,AMER,5/17/2025,5/17/2025,06/05/2024,04/07/2025,"$2,047",REP 12,REP 12,04/07/2025,346,Not Run-Rate,AMER,Harry Potter,Commit
+732,OPP - 732 - Renewal,Renewal,Stage 6,Core,AMER,5/16/2025,5/16/2025,5/15/2024,5/15/2024,"$2,016",REP 65,REP 65,5/13/2024,366,Not Run-Rate,AMER,Cho Chang,Commit
+733,OPP - 733 - Net New,Net New,Stage 5,Core,AMER,5/15/2025,6/27/2025,3/24/2025,3/31/2025,"$2,016",REP 32,REP 32,3/31/2025,52,Not Run-Rate,AMER,Hermione Granger,Commit
+734,OPP - 734 - Net New,Net New,Stage 3,Core,AMER,7/30/2025,2/28/2025,02/07/2025,02/10/2025,"$1,989",REP 32,REP 32,02/10/2025,173,Not Run-Rate,AMER,Hermione Granger,Pipeline
+735,OPP - 735 - Renewal,Renewal,Stage 2,Core,AMER,5/30/2025,5/30/2025,5/29/2024,5/29/2024,"$1,985",REP 6,REP 6,5/27/2024,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+736,OPP - 736 - Renewal,Renewal,Stage 2,Core,AMER,5/18/2025,5/18/2025,5/18/2024,12/02/2024,"$1,980",REP 70,NOT ASSIGNED,12/02/2024,365,Not Run-Rate,AMER,Draco Malfoy,Pipeline
+737,OPP - 737 - Renewal,Renewal,Stage 3,Core,AMER,06/06/2025,06/06/2025,06/05/2024,2/27/2025,"$1,973",REP 36,REP 36,2/24/2025,366,Not Run-Rate,AMER,Harry Potter,Pipeline
+738,OPP - 738 - Upsell,Upsell,Stage 2,Core,AMER,6/28/2025,12/31/2024,10/17/2024,10/17/2024,"$1,958",REP 8,REP 8,10/14/2024,254,Not Run-Rate,AMER,Filius Flitwick,Best Case
+739,OPP - 739 - Upsell,Upsell,Stage 5,Core,AMER,4/19/2025,4/19/2025,1/20/2025,1/20/2025,"$1,956",REP 50,REP 50,1/20/2025,89,Not Run-Rate,AMER,Harry Potter,Commit
+740,OPP - 740 - Renewal,Renewal,Stage 4,Core,AMER,6/28/2025,6/28/2025,6/28/2024,3/25/2025,"$1,938",REP 25,REP 25,3/24/2025,365,Not Run-Rate,AMER,Harry Potter,Best Case
+741,OPP - 741 - Renewal,Renewal,Stage 5,Core,AMER,05/01/2025,05/01/2025,05/01/2023,1/22/2025,"$1,929",REP 12,REP 12,1/20/2025,731,Not Run-Rate,AMER,Harry Potter,Commit
+742,OPP - 742 - Upsell,Upsell,Stage 5,Core,AMER,6/21/2025,6/21/2025,3/23/2025,3/23/2025,"$1,926",REP 57,REP 57,3/21/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+743,OPP - 743 - Renewal,Renewal,Stage 2,Core,AMER,05/12/2025,05/12/2025,05/07/2024,3/26/2025,"$1,920",REP 59,REP 59,3/24/2025,370,Not Run-Rate,AMER,Cho Chang,Pipeline
+744,OPP - 744 - Renewal,Renewal,Stage 4,Core,AMER,07/03/2025,07/03/2025,07/03/2024,08/07/2024,"$1,890",REP 54,REP 54,08/05/2024,365,Not Run-Rate,AMER,Filius Flitwick,Best Case
+745,OPP - 745 - Renewal,Renewal,Stage 2,Core,AMER,5/31/2025,5/31/2025,5/31/2024,1/31/2025,"$1,872",REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+746,OPP - 746 - Upsell,Upsell,Stage 5,Core,AMER,6/23/2025,6/23/2025,3/25/2025,3/25/2025,"$1,850",REP 33,REP 33,3/24/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+747,OPP - 747 - Renewal,Renewal,Stage 2,Core,AMER,7/13/2025,7/13/2025,7/13/2024,1/16/2025,"$1,824",REP 36,REP 36,1/13/2025,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+748,OPP - 748 - Net New,Net New,Stage 2,Send,AMER,6/30/2025,3/31/2025,2/13/2025,2/16/2025,"$1,800",REP 14,REP 14,2/14/2025,137,Not Run-Rate,AMER,Hermione Granger,Pipeline
+749,OPP - 749 - Renewal,Renewal,Stage 3,Core,AMER,6/30/2025,6/30/2025,6/14/2022,03/06/2025,"$1,800",REP 50,REP 50,03/03/2025,1112,Not Run-Rate,AMER,Harry Potter,Pipeline
+750,OPP - 750 - Upsell,Upsell,Stage 5,Core,AMER,4/13/2025,4/13/2025,1/13/2025,1/13/2025,"$1,800",REP 12,REP 12,1/13/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+751,OPP - 751 - Upsell,Upsell,Stage 5,Core,AMER,4/24/2025,4/24/2025,1/24/2025,1/24/2025,"$1,800",REP 47,REP 47,1/20/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+752,OPP - 752 - Net New,Net New,Stage 3,Send,AMER,6/13/2025,11/18/2024,8/22/2024,8/22/2024,"$1,800",REP 36,REP 36,8/19/2024,295,Not Run-Rate,AMER,Harry Potter,Pipeline
+753,OPP - 753 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,6/30/2024,3/31/2025,"$1,782",REP 6,REP 6,3/31/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+754,OPP - 754 - Renewal,Renewal,Stage 2,Core,AMER,06/01/2025,06/01/2025,06/01/2024,3/28/2025,"$1,766",REP 22,REP 22,3/24/2025,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+755,OPP - 755 - Upsell,Upsell,Stage 3,Core,AMER,4/25/2025,3/14/2025,2/25/2025,2/25/2025,"$1,755",REP 43,REP 43,2/24/2025,59,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+756,OPP - 756 - Upsell,Upsell,Stage 5,Core,AMER,06/02/2025,06/02/2025,03/04/2025,03/04/2025,"$1,755",REP 58,REP 58,03/03/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+757,OPP - 757 - Upsell,Upsell,Stage 5,Core,AMER,6/20/2025,6/20/2025,3/22/2025,3/22/2025,"$1,738",REP 62,REP 62,3/21/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+758,OPP - 758 - Upsell,Upsell,Stage 5,Core,AMER,05/12/2025,05/12/2025,2/13/2025,2/13/2025,"$1,733",REP 53,REP 53,02/10/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+759,OPP - 759 - Renewal,Renewal,Stage 2,Core,EMEA,08/01/2025,08/01/2025,6/24/2022,11/02/2023,"$1,728",REP 71,NOT ASSIGNED,10/30/2023,1134,Not Run-Rate,EMEA,Colin Creevey,Pipeline
+760,OPP - 760 - Renewal,Renewal,Stage 2,Core,AMER,5/17/2025,5/17/2025,4/26/2024,4/26/2024,"$1,728",REP 59,REP 59,4/22/2024,386,Not Run-Rate,AMER,Cho Chang,Pipeline
+761,OPP - 761 - Renewal,Renewal,Stage 3,Sign,AMER,6/15/2025,6/15/2025,06/03/2022,04/03/2025,"$1,728",REP 44,REP 44,3/31/2025,1108,Not Run-Rate,AMER,Cho Chang,Pipeline
+762,OPP - 762 - Renewal,Renewal,Stage 3,Core,AMER,5/25/2025,5/25/2025,5/26/2024,1/31/2025,"$1,728",REP 56,REP 56,1/27/2025,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+763,OPP - 763 - Renewal,Renewal,Stage 2,Core,AMER,05/12/2025,05/12/2025,05/12/2024,3/27/2025,"$1,704",REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+764,OPP - 764 - Renewal,Renewal,Stage 5,Core,AMER,5/24/2025,5/24/2025,5/25/2024,3/26/2025,"$1,685",REP 67,REP 67,3/24/2025,364,Not Run-Rate,AMER,Cho Chang,Commit
+765,OPP - 765 - Renewal,Renewal,Stage 2,Sign,AMER,5/26/2025,5/26/2025,05/06/2024,03/12/2025,"$1,680",REP 44,REP 44,03/10/2025,385,Not Run-Rate,AMER,Cho Chang,Pipeline
+766,OPP - 766 - Renewal,Renewal,Stage 2,Core,AMER,6/14/2025,6/14/2025,6/14/2024,1/17/2025,"$1,680",REP 50,REP 48,1/13/2025,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+767,OPP - 767 - Renewal,Renewal,Stage 5,Core,AMER,6/24/2025,6/24/2025,05/10/2024,02/07/2025,"$1,664",REP 6,REP 6,02/03/2025,410,Not Run-Rate,AMER,Cho Chang,Commit
+768,OPP - 768 - Upsell,Upsell,Stage 5,Core,AMER,07/01/2025,07/01/2025,01/02/2025,01/02/2025,"$1,650",REP 33,REP 33,12/30/2024,180,Not Run-Rate,AMER,Susan Bones,Commit
+769,OPP - 769 - Upsell,Upsell,Stage 5,Core,APAC,4/19/2025,4/19/2025,1/20/2025,1/20/2025,"$1,643",REP 30,REP 30,1/20/2025,89,Not Run-Rate,APAC,Severus Snape,Commit
+770,OPP - 770 - Renewal,Renewal,Stage 6,Core,AMER,5/13/2025,5/13/2025,5/13/2024,03/06/2025,"$1,584",REP 25,REP 25,03/03/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+771,OPP - 771 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$1,575",REP 59,REP 59,3/31/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+772,OPP - 772 - Upsell,Upsell,Stage 5,Core,AMER,6/22/2025,6/22/2025,3/24/2025,3/24/2025,"$1,568",REP 48,REP 48,3/24/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+773,OPP - 773 - Net New,Net New,Stage 3,Core,AMER,4/30/2025,2/28/2025,12/06/2024,12/06/2024,"$1,540",REP 14,NOT ASSIGNED,12/02/2024,145,Not Run-Rate,AMER,Hermione Granger,Pipeline
+774,OPP - 774 - Renewal,Renewal,Stage 4,Sign,AMER,08/07/2025,08/07/2025,08/07/2024,12/05/2024,"$1,536",REP 64,REP 64,12/02/2024,365,Not Run-Rate,AMER,Cho Chang,Best Case
+775,OPP - 775 - Upsell,Upsell,Stage 5,Core,EMEA,6/30/2025,6/30/2025,04/05/2025,04/05/2025,"$1,532",REP 45,REP 45,04/04/2025,86,Not Run-Rate,EMEA,Terry Boot,Commit
+776,OPP - 776 - Renewal,Renewal,Stage 5,Core,AMER,6/30/2025,6/30/2025,6/28/2024,6/28/2024,"$1,530",REP 59,REP 59,6/24/2024,367,Not Run-Rate,AMER,Cho Chang,Commit
+777,OPP - 777 - Renewal,Renewal,Stage 2,Sign,AMER,6/16/2025,6/16/2025,07/11/2024,3/26/2025,"$1,521",REP 52,REP 52,3/24/2025,340,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+778,OPP - 778 - Renewal,Renewal,Stage 2,Sign,AMER,06/05/2025,06/05/2025,06/05/2024,2/18/2025,"$1,512",REP 59,REP 59,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+779,OPP - 779 - Renewal,Renewal,Stage 2,Core,AMER,7/30/2025,7/30/2025,08/05/2024,10/29/2024,"$1,512",REP 41,REP 41,10/28/2024,359,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+780,OPP - 780 - Net New,Net New,Stage 6,Sign,AMER,04/04/2025,04/01/2025,1/23/2025,1/23/2025,"$1,500",REP 35,REP 35,1/20/2025,71,Not Run-Rate,AMER,Hermione Granger,Commit
+781,OPP - 781 - Net New,Net New,Stage 3,Sign,AMER,6/30/2025,04/01/2025,03/07/2025,03/07/2025,"$1,500",REP 53,REP 53,03/03/2025,115,Not Run-Rate,AMER,Cho Chang,Pipeline
+782,OPP - 782 - Net New,Net New,Stage 3,Sign,AMER,5/15/2025,5/15/2025,3/20/2025,04/10/2025,"$1,500",REP 55,REP 55,04/07/2025,56,Not Run-Rate,AMER,Cho Chang,Pipeline
+783,OPP - 783 - Upsell,Upsell,Stage 5,Core,AMER,6/28/2025,6/28/2025,3/30/2025,3/30/2025,"$1,500",REP 50,REP 50,3/28/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+784,OPP - 784 - Upsell,Upsell,Stage 5,Core,AMER,04/01/2025,10/29/2024,7/31/2024,7/31/2024,"$1,499",REP 54,REP 54,7/29/2024,244,Not Run-Rate,AMER,Filius Flitwick,Commit
+785,OPP - 785 - Renewal,Renewal,Stage 4,Core,AMER,6/28/2025,6/28/2025,6/28/2024,3/27/2025,"$1,483",REP 43,REP 43,3/24/2025,365,Not Run-Rate,AMER,Filius Flitwick,Best Case
+786,OPP - 786 - Net New,Net New,Stage 2,Sign,AMER,5/14/2025,5/14/2025,03/12/2025,03/12/2025,"$1,478",REP 50,REP 50,03/10/2025,63,Not Run-Rate,AMER,Harry Potter,Pipeline
+787,OPP - 787 - Upsell,Upsell,Stage 5,Core,AMER,05/01/2025,05/01/2025,02/02/2025,02/02/2025,"$1,473",REP 41,REP 41,1/31/2025,88,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+788,OPP - 788 - Upsell,Upsell,Stage 5,Core,AMER,6/26/2025,6/26/2025,3/28/2025,3/28/2025,"$1,460",REP 39,REP 39,3/24/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+789,OPP - 789 - Upsell,Upsell,Stage 4,Core,AMER,6/30/2025,6/30/2025,1/30/2025,1/30/2025,"$1,454",REP 25,REP 25,1/27/2025,151,Not Run-Rate,AMER,Harry Potter,Best Case
+790,OPP - 790 - Renewal,Renewal,Stage 5,Core,AMER,4/21/2025,4/21/2025,4/21/2024,12/26/2024,"$1,446",REP 64,REP 64,12/23/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+791,OPP - 791 - Renewal,Renewal,Stage 2,Core,AMER,5/17/2025,5/17/2025,5/17/2024,1/27/2025,"$1,440",REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+792,OPP - 792 - Renewal,Renewal,Stage 4,Core,AMER,4/30/2025,4/30/2025,06/11/2024,1/17/2025,"$1,440",REP 53,REP 53,1/13/2025,323,Not Run-Rate,AMER,Cho Chang,Best Case
+793,OPP - 793 - Upsell,Upsell,Stage 5,Core,AMER,4/15/2025,4/15/2025,1/15/2025,1/15/2025,"$1,440",REP 43,REP 43,1/13/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+794,OPP - 794 - Upsell,Upsell,Stage 5,Core,AMER,6/18/2025,6/18/2025,3/20/2025,3/20/2025,"$1,440",REP 33,REP 33,3/17/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+795,OPP - 795 - Net New,Net New,Stage 5,Core,AMER,4/30/2025,3/31/2025,2/14/2025,2/21/2025,"$1,440",REP 32,REP 32,2/17/2025,75,Not Run-Rate,AMER,Hermione Granger,Commit
+796,OPP - 796 - Renewal,Renewal,Stage 3,Core,AMER,07/06/2025,07/06/2025,07/05/2024,9/18/2024,"$1,404",REP 25,REP 25,9/16/2024,366,Not Run-Rate,AMER,Harry Potter,Pipeline
+797,OPP - 797 - Renewal,Renewal,Stage 5,Core,EMEA,5/24/2025,5/24/2025,5/28/2024,2/25/2025,"$1,392",REP 46,REP 46,2/24/2025,361,Not Run-Rate,EMEA,Amelia Bones,Commit
+798,OPP - 798 - Upsell,Upsell,Stage 5,Core,AMER,06/02/2025,06/02/2025,03/04/2025,03/04/2025,"$1,386",REP 25,REP 25,03/03/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+799,OPP - 799 - Upsell,Upsell,Stage 4,Send,AMER,04/10/2025,04/10/2025,04/10/2025,04/10/2025,"$1,382",REP 38,REP 38,04/07/2025,0,Run-Rate,AMER,Rubeus Hagrid,Best Case
+800,OPP - 800 - Renewal,Renewal,Stage 5,Core,AMER,6/29/2025,6/29/2025,6/14/2022,6/15/2022,"$1,381",REP 39,REP 39,6/13/2022,1111,Not Run-Rate,AMER,Filius Flitwick,Commit
+801,OPP - 801 - Renewal,Renewal,Stage 2,Core,EMEA,7/26/2025,7/26/2025,7/22/2024,9/30/2024,"$1,378",REP 46,REP 46,9/30/2024,369,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+802,OPP - 802 - Upsell,Upsell,Stage 5,Core,AMER,5/20/2025,5/20/2025,2/21/2025,2/21/2025,"$1,350",REP 65,REP 65,2/17/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+803,OPP - 803 - Renewal,Renewal,Stage 5,Core,AMER,4/23/2025,4/23/2025,4/23/2024,1/24/2025,"$1,350",REP 47,REP 47,1/20/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+804,OPP - 804 - Upsell,Upsell,Stage 5,Core,AMER,06/07/2025,06/07/2025,03/09/2025,03/09/2025,"$1,346",REP 58,REP 58,03/07/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+805,OPP - 805 - Renewal,Renewal,Stage 2,Core,AMER,09/10/2025,09/10/2025,8/21/2024,03/10/2025,"$1,344",REP 8,REP 8,03/10/2025,385,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+806,OPP - 806 - Renewal,Renewal,Stage 6,Core,AMER,4/24/2025,4/24/2025,04/11/2024,04/11/2024,"$1,344",REP 65,REP 65,04/08/2024,378,Not Run-Rate,AMER,Cho Chang,Commit
+807,OPP - 807 - Renewal,Renewal,Stage 2,Core,EMEA,6/18/2025,6/18/2025,6/18/2024,6/18/2024,"$1,344",REP 46,REP 46,6/17/2024,365,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+808,OPP - 808 - Upsell,Upsell,Stage 5,Core,AMER,6/23/2025,6/23/2025,3/25/2025,3/25/2025,"$1,344",REP 6,REP 6,3/24/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+809,OPP - 809 - Upsell,Upsell,Stage 5,Core,AMER,05/01/2025,05/01/2025,02/02/2025,02/02/2025,"$1,337",REP 62,REP 62,1/31/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+810,OPP - 810 - Renewal,Renewal,Stage 2,Core,AMER,5/14/2025,5/14/2025,5/14/2024,3/27/2025,"$1,320",REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+811,OPP - 811 - Renewal,Renewal,Stage 4,Sign,AMER,6/30/2025,6/30/2025,06/11/2024,3/19/2025,"$1,320",REP 52,REP 52,3/17/2025,384,Not Run-Rate,AMER,Rubeus Hagrid,Best Case
+812,OPP - 812 - Renewal,Renewal,Stage 2,Core,AMER,5/29/2025,5/29/2025,5/29/2024,2/20/2025,"$1,296",REP 64,REP 64,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+813,OPP - 813 - Renewal,Renewal,Stage 2,Core,AMER,06/09/2025,06/09/2025,5/20/2024,2/18/2025,"$1,296",REP 59,REP 59,2/17/2025,385,Not Run-Rate,AMER,Cho Chang,Pipeline
+814,OPP - 814 - Upsell,Upsell,Stage 5,Core,AMER,6/21/2025,6/21/2025,3/23/2025,3/23/2025,"$1,284",REP 50,REP 50,3/21/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+815,OPP - 815 - Upsell,Upsell,Stage 5,Core,AMER,06/11/2025,06/11/2025,3/13/2025,3/13/2025,"$1,280",REP 22,REP 22,03/10/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+816,OPP - 816 - Net New,Net New,Stage 4,Core,AMER,4/30/2025,3/26/2025,3/25/2025,3/25/2025,"$1,260",REP 65,REP 57,3/24/2025,36,Not Run-Rate,AMER,Cho Chang,Best Case
+817,OPP - 817 - Upsell,Upsell,Stage 5,Core,AMER,6/20/2025,6/20/2025,3/22/2025,3/22/2025,"$1,231",REP 48,REP 48,3/21/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+818,OPP - 818 - Upsell,Upsell,Stage 2,Core,AMER,5/29/2025,09/05/2024,09/05/2024,09/05/2024,"$1,200",REP 36,REP 36,09/02/2024,266,Not Run-Rate,AMER,Harry Potter,Pipeline
+819,OPP - 819 - Upsell,Upsell,Stage 2,Core,AMER,4/30/2025,3/31/2025,10/01/2024,10/01/2024,"$1,200",REP 65,REP 65,9/30/2024,211,Not Run-Rate,AMER,Cho Chang,Pipeline
+820,OPP - 820 - Upsell,Upsell,Stage 3,Core,AMER,6/30/2025,3/31/2025,8/28/2024,8/28/2024,"$1,200",REP 6,REP 6,8/26/2024,306,Not Run-Rate,AMER,Cho Chang,Pipeline
+821,OPP - 821 - Upsell,Upsell,Stage 3,Core,AMER,6/30/2025,11/20/2024,10/22/2024,10/22/2024,"$1,200",REP 6,REP 6,10/21/2024,251,Not Run-Rate,AMER,Cho Chang,Pipeline
+822,OPP - 822 - Renewal,Renewal,Stage 5,Core,AMER,5/16/2025,5/16/2025,5/16/2024,5/16/2024,"$1,200",REP 58,REP 58,5/13/2024,365,Not Run-Rate,AMER,Harry Potter,Commit
+823,OPP - 823 - Renewal,Renewal,Stage 5,Core,AMER,6/30/2025,6/30/2025,06/07/2024,06/08/2024,"$1,188",REP 53,REP 53,06/07/2024,388,Not Run-Rate,AMER,Cho Chang,Commit
+824,OPP - 824 - Renewal,Renewal,Stage 2,Core,AMER,8/15/2025,8/15/2025,8/15/2024,8/16/2024,"$1,152",REP 53,REP 53,08/12/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+825,OPP - 825 - Upsell,Upsell,Stage 5,Core,AMER,06/09/2025,06/09/2025,03/11/2025,03/11/2025,"$1,152",REP 40,REP 40,03/10/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+826,OPP - 826 - Upsell,Upsell,Stage 6,Core,EMEA,6/18/2025,03/04/2025,2/13/2025,2/13/2025,"$1,149",REP 17,REP 17,02/10/2025,125,Not Run-Rate,EMEA,Amelia Bones,Commit
+827,OPP - 827 - Upsell,Upsell,Stage 2,Core,EMEA,5/31/2025,10/10/2024,10/10/2024,10/10/2024,"$1,149",REP 66,REP 66,10/07/2024,233,Not Run-Rate,EMEA,Terry Boot,Pipeline
+828,OPP - 828 - Renewal,Renewal,Stage 2,Core,EMEA,7/26/2025,7/26/2025,7/25/2024,2/27/2025,"$1,149",REP 68,REP 68,2/24/2025,366,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+829,OPP - 829 - Upsell,Upsell,Stage 5,Core,AMER,07/03/2025,07/03/2025,04/04/2025,04/04/2025,"$1,144",REP 3,REP 3,3/31/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+830,OPP - 830 - Renewal,Renewal,Stage 2,Core,AMER,07/01/2025,07/01/2025,07/02/2024,09/11/2024,"$1,140",REP 48,REP 48,09/09/2024,364,Not Run-Rate,AMER,Harry Potter,Pipeline
+831,OPP - 831 - Upsell,Upsell,Stage 2,Core,EMEA,5/31/2025,2/25/2025,2/25/2025,2/25/2025,"$1,140",REP 66,REP 66,2/24/2025,95,Not Run-Rate,EMEA,Terry Boot,Pipeline
+832,OPP - 832 - Renewal,Renewal,Stage 3,Core,AMER,5/28/2025,5/28/2025,5/28/2024,3/19/2025,"$1,140",REP 50,REP 50,3/17/2025,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+833,OPP - 833 - Upsell,Upsell,Stage 5,Core,APAC,4/22/2025,4/22/2025,1/22/2025,1/22/2025,"$1,140",REP 23,REP 23,1/20/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+834,OPP - 834 - Net New,Net New,Stage 2,Core,JAPAN,09/01/2025,04/01/2025,12/25/2024,12/25/2024,"$1,140",REP 7,REP 7,12/23/2024,250,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+835,OPP - 835 - Net New,Net New,Stage 2,Core,JAPAN,6/23/2025,6/23/2025,1/26/2025,1/26/2025,"$1,140",REP 5,REP 5,1/24/2025,148,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+836,OPP - 836 - Renewal,Renewal,Stage 4,Core,AMER,05/09/2025,05/09/2025,4/18/2024,4/18/2024,"$1,138",REP 65,REP 65,4/15/2024,386,Not Run-Rate,AMER,Cho Chang,Best Case
+837,OPP - 837 - Renewal,Renewal,Stage 6,Core,AMER,05/11/2025,05/11/2025,05/10/2024,1/30/2025,"$1,134",REP 53,REP 53,1/27/2025,366,Not Run-Rate,AMER,Cho Chang,Commit
+838,OPP - 838 - Renewal,Renewal,Stage 4,Core,AMER,6/14/2025,6/14/2025,06/11/2024,06/12/2024,"$1,120",REP 50,REP 50,06/10/2024,368,Not Run-Rate,AMER,Harry Potter,Best Case
+839,OPP - 839 - Upsell,Upsell,Stage 5,Core,AMER,05/01/2025,05/01/2025,1/31/2025,1/31/2025,"$1,109",REP 22,REP 22,1/27/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+840,OPP - 840 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,"$1,104",REP 28,REP 28,3/31/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+841,OPP - 841 - Upsell,Upsell,Stage 5,Core,AMER,07/01/2025,9/25/2024,09/06/2024,09/09/2024,"$1,080",REP 47,REP 47,09/09/2024,298,Not Run-Rate,AMER,Cho Chang,Commit
+842,OPP - 842 - Renewal,Renewal,Stage 3,Core,AMER,7/22/2025,7/22/2025,7/22/2024,3/25/2025,"$1,068",REP 53,REP 53,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+843,OPP - 843 - Renewal,Renewal,Stage 5,Core,AMER,6/25/2025,6/25/2025,6/25/2024,3/28/2025,"$1,062",REP 40,REP 40,3/24/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+844,OPP - 844 - Renewal,Renewal,Stage 2,Core,EMEA,7/29/2025,7/29/2025,6/17/2024,3/21/2025,"$1,061",REP 46,REP 46,3/17/2025,407,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+845,OPP - 845 - Renewal,Renewal,Stage 6,Core,AMER,6/29/2025,6/29/2025,5/21/2024,5/21/2024,"$1,050",REP 50,REP 50,5/20/2024,404,Not Run-Rate,AMER,Harry Potter,Commit
+846,OPP - 846 - Renewal,Renewal,Stage 5,Sign,AMER,5/27/2025,5/27/2025,5/17/2024,3/19/2025,"$1,045",REP 8,REP 8,3/17/2025,375,Not Run-Rate,AMER,Filius Flitwick,Commit
+847,OPP - 847 - Renewal,Renewal,Stage 5,Sign,AMER,5/26/2025,5/26/2025,3/20/2025,3/20/2025,"$1,020",REP 33,REP 33,3/17/2025,67,Not Run-Rate,AMER,Susan Bones,Commit
+848,OPP - 848 - Renewal,Renewal,Stage 5,Core,AMER,06/10/2025,06/10/2025,06/10/2024,3/17/2025,"$1,013",REP 67,REP 67,3/17/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+849,OPP - 849 - Renewal,Renewal,Stage 2,Core,AMER,6/16/2025,6/16/2025,06/04/2024,06/04/2024,"$1,000",REP 6,REP 6,06/03/2024,377,Not Run-Rate,AMER,Cho Chang,Pipeline
+850,OPP - 850 - Renewal,Renewal,Stage 2,Core,AMER,5/26/2025,5/26/2025,05/03/2024,08/08/2024,$992,REP 72,NOT ASSIGNED,08/05/2024,388,Not Run-Rate,AMER,Draco Malfoy,Pipeline
+851,OPP - 851 - Renewal,Renewal,Stage 3,Core,AMER,4/28/2025,4/28/2025,4/28/2024,01/02/2025,$960,REP 56,REP 56,12/30/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+852,OPP - 852 - Renewal,Renewal,Stage 2,Core,AMER,06/08/2025,06/08/2025,6/13/2024,6/13/2024,$959,REP 59,REP 59,06/10/2024,360,Not Run-Rate,AMER,Cho Chang,Pipeline
+853,OPP - 853 - Renewal,Renewal,Stage 2,Core,AMER,09/03/2025,09/05/2025,09/03/2024,09/04/2024,$936,REP 36,REP 36,09/02/2024,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+854,OPP - 854 - Upsell,Upsell,Stage 3,Core,JAPAN,6/30/2025,12/19/2024,12/19/2024,12/19/2024,$935,REP 18,REP 18,12/16/2024,193,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+855,OPP - 855 - Renewal,Renewal,Stage 6,Core,AMER,6/24/2025,6/24/2025,5/16/2024,04/07/2025,$900,REP 65,REP 65,04/07/2025,404,Not Run-Rate,AMER,Cho Chang,Commit
+856,OPP - 856 - Net New,Net New,Stage 3,Sign,AMER,4/25/2025,4/25/2025,04/03/2025,04/03/2025,$900,REP 43,REP 43,3/31/2025,22,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+857,OPP - 857 - Upsell,Upsell,Stage 5,Core,AMER,05/02/2025,05/02/2025,02/03/2025,02/03/2025,$900,REP 47,REP 47,02/03/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+858,OPP - 858 - Upsell,Upsell,Stage 5,Core,AMER,5/20/2025,5/20/2025,2/21/2025,2/21/2025,$900,REP 65,REP 65,2/17/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+859,OPP - 859 - Upsell,Upsell,Stage 5,Core,AMER,6/20/2025,6/20/2025,3/24/2025,3/24/2025,$900,REP 20,REP 20,3/24/2025,88,Not Run-Rate,AMER,Filius Flitwick,Commit
+860,OPP - 860 - Renewal,Renewal,Stage 5,Core,AMER,5/18/2025,5/18/2025,5/14/2024,1/20/2025,$900,REP 53,REP 53,1/20/2025,369,Not Run-Rate,AMER,Cho Chang,Commit
+861,OPP - 861 - Upsell,Upsell,Stage 6,Core,AMER,05/01/2025,05/01/2025,08/09/2024,08/09/2024,$893,REP 8,REP 8,08/05/2024,265,Not Run-Rate,AMER,Filius Flitwick,Commit
+862,OPP - 862 - Renewal,Renewal,Stage 5,Core,AMER,5/19/2025,5/19/2025,5/19/2024,2/24/2025,$891,REP 57,REP 57,2/24/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+863,OPP - 863 - Renewal,Renewal,Stage 5,Core,AMER,4/22/2025,4/22/2025,4/22/2024,04/10/2025,$890,REP 50,REP 48,04/07/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+864,OPP - 864 - Renewal,Renewal,Stage 2,Core,AMER,05/11/2025,05/11/2025,05/11/2024,1/28/2025,$888,REP 69,REP 69,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+865,OPP - 865 - Renewal,Renewal,Stage 4,Core,AMER,5/18/2025,5/18/2025,5/18/2024,1/31/2025,$882,REP 53,REP 53,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Best Case
+866,OPP - 866 - Upsell,Upsell,Stage 5,Core,AMER,5/31/2025,5/31/2025,03/04/2025,03/04/2025,$882,REP 40,REP 40,03/03/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+867,OPP - 867 - Renewal,Renewal,Stage 5,Core,AMER,06/09/2025,06/09/2025,06/04/2024,3/22/2025,$882,REP 50,REP 50,3/21/2025,370,Not Run-Rate,AMER,Harry Potter,Commit
+868,OPP - 868 - Renewal,Renewal,Stage 5,Core,EMEA,05/08/2025,05/08/2025,05/08/2024,04/04/2025,$869,REP 73,NOT ASSIGNED,3/31/2025,365,Not Run-Rate,EMEA,Colin Creevey,Commit
+869,OPP - 869 - Renewal,Renewal,Stage 6,Core,AMER,7/31/2025,7/31/2025,7/31/2024,3/28/2025,$864,REP 53,REP 53,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+870,OPP - 870 - Renewal,Renewal,Stage 2,Core,AMER,4/16/2025,4/16/2025,4/16/2022,11/02/2023,$864,REP 57,REP 57,10/30/2023,1096,Not Run-Rate,AMER,Cho Chang,Pipeline
+871,OPP - 871 - Renewal,Renewal,Stage 2,Core,AMER,5/20/2025,5/20/2025,5/16/2024,5/16/2024,$864,REP 6,REP 6,5/13/2024,369,Not Run-Rate,AMER,Cho Chang,Pipeline
+872,OPP - 872 - Upsell,Upsell,Stage 5,Core,AMER,6/14/2025,6/14/2025,3/17/2025,3/17/2025,$864,REP 59,REP 59,3/17/2025,89,Not Run-Rate,AMER,Cho Chang,Commit
+873,OPP - 873 - Renewal,Renewal,Stage 5,Core,APAC,5/17/2025,5/17/2025,5/16/2024,2/18/2025,$864,REP 23,REP 23,2/17/2025,366,Not Run-Rate,APAC,Severus Snape,Commit
+874,OPP - 874 - Renewal,Renewal,Stage 6,Core,AMER,4/29/2025,4/29/2025,05/03/2024,1/24/2025,$852,REP 54,REP 54,1/20/2025,361,Not Run-Rate,AMER,Filius Flitwick,Commit
+875,OPP - 875 - Renewal,Renewal,Stage 6,Core,AMER,6/16/2025,6/16/2025,05/06/2024,04/10/2025,$819,REP 74,NOT ASSIGNED,04/07/2025,406,Not Run-Rate,AMER,Draco Malfoy,Commit
+876,OPP - 876 - Renewal,Renewal,Stage 5,Core,EMEA,9/27/2025,9/27/2025,9/27/2024,3/25/2025,$804,REP 75,NOT ASSIGNED,3/24/2025,365,Not Run-Rate,EMEA,Colin Creevey,Commit
+877,OPP - 877 - Renewal,Renewal,Stage 2,Dash,AMER,07/01/2025,07/01/2025,07/08/2022,5/22/2023,$804,REP 19,REP 19,5/22/2023,1089,Not Run-Rate,AMER,Susan Bones,Pipeline
+878,OPP - 878 - Upsell,Upsell,Stage 5,Core,AMER,4/21/2025,4/21/2025,1/22/2025,1/22/2025,$804,REP 48,REP 48,1/20/2025,89,Not Run-Rate,AMER,Harry Potter,Commit
+879,OPP - 879 - Renewal,Renewal,Stage 2,Core,AMER,06/02/2025,06/02/2025,06/02/2024,2/20/2025,$792,REP 64,REP 64,2/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+880,OPP - 880 - Renewal,Renewal,Stage 5,Sign,AMER,4/19/2025,4/19/2025,4/19/2024,3/25/2025,$792,REP 1,REP 1,3/24/2025,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+881,OPP - 881 - Upsell,Upsell,Stage 5,Core,AMER,05/04/2025,05/04/2025,02/03/2025,02/03/2025,$785,REP 36,REP 36,02/03/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+882,OPP - 882 - Renewal,Renewal,Stage 6,Core,AMER,6/24/2025,6/24/2025,6/24/2024,03/04/2025,$780,REP 64,REP 64,03/03/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+883,OPP - 883 - Renewal,Renewal,Stage 2,Core,AMER,07/01/2025,07/01/2025,6/25/2024,6/25/2024,$769,REP 55,REP 55,6/24/2024,371,Not Run-Rate,AMER,Cho Chang,Pipeline
+884,OPP - 884 - Renewal,Renewal,Stage 2,Core,AMER,4/26/2025,4/26/2025,4/25/2024,12/04/2024,$763,REP 76,REP 76,12/02/2024,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+885,OPP - 885 - Renewal,Renewal,Stage 5,Core,EMEA,4/24/2025,4/24/2025,4/25/2024,3/19/2025,$763,REP 75,NOT ASSIGNED,3/17/2025,364,Not Run-Rate,EMEA,Colin Creevey,Commit
+886,OPP - 886 - Renewal,Renewal,Stage 2,Core,AMER,8/24/2025,8/24/2025,8/21/2024,11/26/2024,$761,REP 50,REP 50,11/25/2024,368,Not Run-Rate,AMER,Harry Potter,Pipeline
+887,OPP - 887 - Renewal,Renewal,Stage 6,Core,AMER,05/11/2025,05/11/2025,05/11/2024,1/31/2025,$748,REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+888,OPP - 888 - Renewal,Renewal,Stage 5,Sign,AMER,4/24/2025,4/24/2025,4/24/2024,2/25/2025,$739,REP 1,REP 1,2/24/2025,365,Not Run-Rate,AMER,Rubeus Hagrid,Commit
+889,OPP - 889 - Renewal,Renewal,Stage 5,Core,AMER,4/30/2025,4/30/2025,4/29/2022,03/02/2023,$738,REP 57,REP 57,2/27/2023,1097,Not Run-Rate,AMER,Cho Chang,Commit
+890,OPP - 890 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,06/07/2024,04/01/2025,$735,REP 54,REP 54,3/31/2025,388,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+891,OPP - 891 - Renewal,Renewal,Stage 2,Core,EMEA,09/01/2025,09/01/2025,09/06/2024,09/06/2024,$735,REP 9,REP 9,09/02/2024,360,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+892,OPP - 892 - Net New,Net New,Stage 2,Core,AMER,5/30/2025,4/30/2025,04/08/2025,04/10/2025,$720,REP 32,REP 32,04/07/2025,52,Not Run-Rate,AMER,Hermione Granger,Pipeline
+893,OPP - 893 - Renewal,Renewal,Stage 2,Core,AMER,6/16/2025,6/16/2025,05/08/2024,6/18/2024,$720,REP 6,REP 6,6/17/2024,404,Not Run-Rate,AMER,Cho Chang,Pipeline
+894,OPP - 894 - Renewal,Renewal,Stage 2,Core,AMER,5/15/2025,5/15/2025,5/15/2024,1/27/2025,$720,REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+895,OPP - 895 - Renewal,Renewal,Stage 2,Core,EMEA,7/13/2025,7/13/2025,7/31/2024,11/15/2024,$713,REP 45,REP 45,11/11/2024,347,Not Run-Rate,EMEA,Terry Boot,Pipeline
+896,OPP - 896 - Renewal,Renewal,Stage 3,Core,AMER,4/19/2025,4/19/2025,4/19/2024,3/31/2025,$706,REP 43,REP 43,3/31/2025,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+897,OPP - 897 - Upsell,Upsell,Stage 5,Core,APAC,5/27/2025,5/27/2025,2/28/2025,2/28/2025,$704,REP 30,REP 30,2/24/2025,88,Not Run-Rate,APAC,Severus Snape,Commit
+898,OPP - 898 - Renewal,Renewal,Stage 5,Core,AMER,6/15/2025,6/15/2025,5/30/2023,05/02/2024,$703,REP 58,REP 58,4/29/2024,747,Not Run-Rate,AMER,Harry Potter,Commit
+899,OPP - 899 - Renewal,Renewal,Stage 5,Core,AMER,4/25/2025,4/25/2025,4/25/2024,4/25/2024,$702,REP 67,REP 67,4/22/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+900,OPP - 900 - Net New,Net New,Stage 6,Sign,AMER,04/11/2025,04/11/2025,3/27/2025,3/27/2025,$696,REP 2,REP 2,3/24/2025,15,Not Run-Rate,AMER,Hermione Granger,Commit
+901,OPP - 901 - Net New,Net New,Stage 6,Sign,AMER,04/11/2025,04/11/2025,04/11/2025,04/11/2025,$696,REP 2,NOT ASSIGNED,04/07/2025,0,Run-Rate,AMER,Hermione Granger,Commit
+902,OPP - 902 - Upsell,Upsell,Stage 5,Core,EMEA,06/07/2025,06/07/2025,12/08/2024,12/08/2024,$691,REP 68,REP 68,12/06/2024,181,Not Run-Rate,EMEA,Ron Weasley,Commit
+903,OPP - 903 - Upsell,Upsell,Stage 5,Core,AMER,4/18/2025,4/18/2025,1/23/2025,1/23/2025,$690,REP 42,REP 42,1/20/2025,85,Not Run-Rate,AMER,Filius Flitwick,Commit
+904,OPP - 904 - Renewal,Renewal,Stage 2,Core,AMER,07/12/2025,07/12/2025,07/05/2024,07/05/2024,$680,REP 6,REP 6,07/01/2024,372,Not Run-Rate,AMER,Cho Chang,Pipeline
+905,OPP - 905 - Upsell,Upsell,Stage 5,Core,AMER,6/17/2025,6/17/2025,12/18/2024,12/18/2024,$675,REP 20,REP 20,12/16/2024,181,Not Run-Rate,AMER,Filius Flitwick,Commit
+906,OPP - 906 - Upsell,Upsell,Stage 5,Core,AMER,06/03/2025,06/03/2025,03/05/2025,03/05/2025,$673,REP 53,REP 53,03/03/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+907,OPP - 907 - Renewal,Renewal,Stage 2,Core,AMER,7/22/2025,7/22/2025,7/22/2023,11/02/2023,$672,REP 57,REP 57,10/30/2023,731,Not Run-Rate,AMER,Cho Chang,Pipeline
+908,OPP - 908 - Upsell,Upsell,Stage 5,Core,AMER,4/15/2025,4/15/2025,11/20/2024,11/20/2024,$667,REP 57,REP 57,11/18/2024,146,Not Run-Rate,AMER,Cho Chang,Commit
+909,OPP - 909 - Renewal,Renewal,Stage 5,Core,AMER,4/26/2025,4/26/2025,5/13/2023,7/31/2024,$666,REP 62,REP 62,7/29/2024,714,Not Run-Rate,AMER,Harry Potter,Commit
+910,OPP - 910 - Upsell,Upsell,Stage 5,Core,AMER,5/29/2025,5/29/2025,2/28/2025,2/28/2025,$644,REP 3,REP 3,2/24/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+911,OPP - 911 - Renewal,Renewal,Stage 2,Core,AMER,4/27/2025,4/27/2025,4/27/2024,12/30/2024,$644,REP 64,REP 64,12/30/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+912,OPP - 912 - Renewal,Renewal,Stage 2,Sign,AMER,6/17/2025,6/17/2025,6/28/2024,04/03/2025,$634,REP 1,REP 1,3/31/2025,354,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+913,OPP - 913 - Renewal,Renewal,Stage 2,Core,AMER,5/19/2025,5/19/2025,4/22/2024,04/03/2025,$630,REP 58,REP 48,3/31/2025,392,Not Run-Rate,AMER,Harry Potter,Pipeline
+914,OPP - 914 - Net New,Net New,Stage 4,Sign,AMER,4/30/2025,02/07/2025,2/28/2025,2/28/2025,$630,REP 65,REP 65,2/24/2025,61,Not Run-Rate,AMER,Cho Chang,Best Case
+915,OPP - 915 - Renewal,Renewal,Stage 2,Core,AMER,05/01/2025,05/01/2025,11/01/2024,01/02/2025,$621,REP 6,REP 6,12/30/2024,181,Not Run-Rate,AMER,Cho Chang,Pipeline
+916,OPP - 916 - Renewal,Renewal,Stage 4,Core,AMER,06/04/2025,06/04/2025,06/04/2024,3/14/2025,$616,REP 53,REP 53,03/10/2025,365,Not Run-Rate,AMER,Cho Chang,Best Case
+917,OPP - 917 - Renewal,Renewal,Stage 2,Core,AMER,9/21/2025,9/21/2025,8/27/2024,8/27/2024,$610,REP 58,REP 58,8/26/2024,390,Not Run-Rate,AMER,Harry Potter,Pipeline
+918,OPP - 918 - Renewal,Renewal,Stage 2,Core,AMER,8/27/2025,8/27/2025,8/15/2024,8/15/2024,$610,REP 59,REP 59,08/12/2024,377,Not Run-Rate,AMER,Cho Chang,Pipeline
+919,OPP - 919 - Upsell,Upsell,Stage 5,Core,AMER,05/10/2025,05/10/2025,11/20/2024,11/20/2024,$600,REP 65,REP 65,11/18/2024,171,Not Run-Rate,AMER,Cho Chang,Commit
+920,OPP - 920 - Upsell,Upsell,Stage 5,Core,AMER,4/30/2025,4/30/2025,1/30/2025,1/30/2025,$600,REP 53,REP 53,1/27/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+921,OPP - 921 - Upsell,Upsell,Stage 5,Core,AMER,05/02/2025,05/02/2025,02/03/2025,02/03/2025,$600,REP 47,REP 47,02/03/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+922,OPP - 922 - Upsell,Upsell,Stage 5,Core,AMER,06/10/2025,06/10/2025,03/12/2025,03/12/2025,$600,REP 54,REP 54,03/10/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+923,OPP - 923 - Renewal,Renewal,Stage 5,Core,AMER,4/26/2025,4/26/2025,4/25/2024,7/17/2024,$600,REP 36,REP 36,7/15/2024,366,Not Run-Rate,AMER,Harry Potter,Commit
+924,OPP - 924 - Renewal,Renewal,Stage 5,Core,AMER,5/26/2025,5/26/2025,5/29/2024,1/27/2025,$600,REP 59,REP 59,1/27/2025,362,Not Run-Rate,AMER,Cho Chang,Commit
+925,OPP - 925 - Renewal,Renewal,Stage 5,Core,AMER,07/03/2025,07/03/2025,9/27/2024,04/03/2025,$600,REP 47,REP 47,3/31/2025,279,Not Run-Rate,AMER,Cho Chang,Commit
+926,OPP - 926 - Renewal,Renewal,Stage 2,Core,AMER,4/30/2025,4/30/2025,4/30/2024,3/27/2025,$576,REP 61,REP 61,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+927,OPP - 927 - Upsell,Upsell,Stage 5,Core,AMER,05/08/2025,05/08/2025,02/07/2025,02/07/2025,$576,REP 59,REP 59,02/03/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+928,OPP - 928 - Renewal,Renewal,Stage 5,Core,EMEA,06/10/2025,06/10/2025,06/10/2024,1/20/2025,$576,REP 31,REP 31,1/20/2025,365,Not Run-Rate,EMEA,Terry Boot,Commit
+929,OPP - 929 - Upsell,Upsell,Stage 3,Core,AMER,4/18/2025,03/06/2025,3/19/2025,3/19/2025,$562,REP 36,REP 36,3/17/2025,30,Not Run-Rate,AMER,Harry Potter,Pipeline
+930,OPP - 930 - Renewal,Renewal,Stage 3,Core,AMER,7/16/2025,7/16/2025,7/17/2024,3/20/2025,$562,REP 53,REP 53,3/17/2025,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+931,OPP - 931 - Renewal,Renewal,Stage 5,Core,EMEA,5/24/2025,5/24/2025,5/16/2024,5/17/2024,$561,REP 51,REP 51,5/13/2024,373,Not Run-Rate,EMEA,Cho Chang,Commit
+932,OPP - 932 - Renewal,Renewal,Stage 5,Core,AMER,05/12/2025,05/12/2025,05/12/2024,2/25/2025,$558,REP 53,REP 53,2/24/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+933,OPP - 933 - Renewal,Renewal,Stage 2,Core,AMER,4/26/2025,4/26/2025,4/16/2024,4/16/2024,$549,REP 59,REP 59,4/15/2024,375,Not Run-Rate,AMER,Cho Chang,Pipeline
+934,OPP - 934 - Renewal,Renewal,Stage 6,Core,EMEA,4/16/2025,4/16/2025,06/05/2024,1/27/2025,$547,REP 73,NOT ASSIGNED,1/27/2025,315,Not Run-Rate,EMEA,Colin Creevey,Commit
+935,OPP - 935 - Net New,Net New,Stage 6,Core,AMER,4/28/2025,3/31/2025,3/25/2025,3/25/2025,$540,REP 32,REP 32,3/24/2025,34,Not Run-Rate,AMER,Hermione Granger,Commit
+936,OPP - 936 - Renewal,Renewal,Stage 6,Core,AMER,4/15/2025,4/15/2025,4/15/2024,12/19/2024,$540,REP 59,REP 59,12/16/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+937,OPP - 937 - Renewal,Renewal,Stage 3,Core,AMER,4/24/2025,4/24/2025,4/24/2024,1/27/2025,$540,REP 59,REP 59,1/27/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+938,OPP - 938 - Renewal,Renewal,Stage 5,Core,AMER,4/17/2025,4/17/2025,3/14/2024,04/08/2025,$540,REP 47,REP 47,04/07/2025,399,Not Run-Rate,AMER,Cho Chang,Commit
+939,OPP - 939 - Renewal,Renewal,Stage 2,Core,AMER,4/16/2025,4/16/2025,4/23/2024,4/23/2024,$528,REP 65,REP 65,4/22/2024,358,Not Run-Rate,AMER,Cho Chang,Pipeline
+940,OPP - 940 - Renewal,Renewal,Stage 5,Sign,AMER,6/16/2025,6/16/2025,6/20/2023,3/28/2025,$528,REP 33,REP 33,3/24/2025,727,Not Run-Rate,AMER,Susan Bones,Commit
+941,OPP - 941 - Renewal,Renewal,Stage 6,Core,AMER,05/12/2025,05/12/2025,05/12/2024,03/06/2025,$523,REP 67,REP 67,03/03/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+942,OPP - 942 - Upsell,Upsell,Stage 5,Core,APAC,06/03/2025,06/03/2025,03/05/2025,03/05/2025,$518,REP 23,REP 23,03/03/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+943,OPP - 943 - Renewal,Renewal,Stage 4,Core,APAC,6/23/2025,6/23/2025,10/08/2024,10/08/2024,$518,REP 30,REP 30,10/07/2024,258,Not Run-Rate,APAC,Severus Snape,Best Case
+944,OPP - 944 - Upsell,Upsell,Stage 5,Core,AMER,6/22/2025,6/22/2025,3/25/2025,3/25/2025,$513,REP 54,REP 54,3/24/2025,89,Not Run-Rate,AMER,Filius Flitwick,Commit
+945,OPP - 945 - Upsell,Upsell,Stage 5,Core,EMEA,07/03/2025,07/03/2025,04/04/2025,04/04/2025,$511,REP 66,REP 66,3/31/2025,90,Not Run-Rate,EMEA,Terry Boot,Commit
+946,OPP - 946 - Renewal,Renewal,Stage 5,Core,APAC,06/01/2025,06/01/2025,05/08/2024,03/08/2025,$507,REP 30,REP 30,03/07/2025,389,Not Run-Rate,APAC,Severus Snape,Commit
+947,OPP - 947 - Upsell,Upsell,Stage 6,Sign,AMER,04/11/2025,04/11/2025,04/11/2025,04/11/2025,$500,REP 2,NOT ASSIGNED,04/07/2025,0,Run-Rate,AMER,Hermione Granger,Commit
+948,OPP - 948 - Renewal,Renewal,Stage 2,Core,AMER,07/05/2025,07/05/2025,6/17/2024,11/20/2024,$480,REP 65,REP 65,11/18/2024,383,Not Run-Rate,AMER,Cho Chang,Pipeline
+949,OPP - 949 - Renewal,Renewal,Stage 2,Core,AMER,6/25/2025,6/25/2025,6/25/2024,6/25/2024,$480,REP 20,REP 20,6/24/2024,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+950,OPP - 950 - Upsell,Upsell,Stage 5,Core,AMER,6/21/2025,6/21/2025,3/23/2025,3/23/2025,$480,REP 62,REP 62,3/21/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+951,OPP - 951 - Renewal,Renewal,Stage 2,Core,EMEA,5/22/2025,5/22/2025,5/16/2024,04/11/2025,$473,REP 13,NOT ASSIGNED,04/07/2025,371,Not Run-Rate,DASH,Remus Lupin,Pipeline
+952,OPP - 952 - Upsell,Upsell,Stage 5,Core,EMEA,4/23/2025,4/23/2025,1/24/2025,1/24/2025,$462,REP 49,REP 49,1/20/2025,89,Not Run-Rate,EMEA,Ron Weasley,Commit
+953,OPP - 953 - Upsell,Upsell,Stage 5,Core,EMEA,5/14/2025,5/14/2025,2/13/2025,2/13/2025,$461,REP 66,REP 66,02/10/2025,90,Not Run-Rate,EMEA,Terry Boot,Commit
+954,OPP - 954 - Upsell,Upsell,Stage 5,Core,AMER,5/26/2025,5/26/2025,2/27/2025,2/27/2025,$461,REP 42,REP 42,2/24/2025,88,Not Run-Rate,AMER,Filius Flitwick,Commit
+955,OPP - 955 - Upsell,Upsell,Stage 5,Core,APAC,05/04/2025,05/04/2025,02/05/2025,02/05/2025,$457,REP 30,REP 30,02/03/2025,88,Not Run-Rate,APAC,Severus Snape,Commit
+956,OPP - 956 - Renewal,Renewal,Stage 4,Core,AMER,4/19/2025,4/19/2025,4/17/2024,3/17/2025,$450,REP 58,REP 58,3/17/2025,367,Not Run-Rate,AMER,Harry Potter,Best Case
+957,OPP - 957 - Renewal,Renewal,Stage 5,Core,AMER,6/15/2025,6/15/2025,6/15/2022,3/24/2025,$450,REP 20,REP 20,3/24/2025,1096,Not Run-Rate,AMER,Filius Flitwick,Commit
+958,OPP - 958 - Upsell,Upsell,Stage 5,Sign,AMER,6/30/2025,2/22/2025,3/18/2025,3/18/2025,$449,REP 33,REP 33,3/17/2025,104,Not Run-Rate,AMER,Susan Bones,Commit
+959,OPP - 959 - Net New,Net New,Stage 2,Core,JAPAN,4/28/2025,4/14/2025,03/11/2025,03/11/2025,$443,REP 5,REP 5,03/10/2025,48,Not Run-Rate,JAPAN,Colin Creevey,Pipeline
+960,OPP - 960 - Upsell,Upsell,Stage 5,Core,EMEA,5/25/2025,5/25/2025,11/27/2024,11/27/2024,$441,REP 46,REP 46,11/25/2024,179,Not Run-Rate,EMEA,Amelia Bones,Commit
+961,OPP - 961 - Renewal,Renewal,Stage 3,Core,EMEA,09/06/2025,09/06/2025,12/28/2022,1/16/2023,$435,REP 49,REP 49,1/16/2023,983,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+962,OPP - 962 - Renewal,Renewal,Stage 2,Core,AMER,07/12/2025,07/12/2025,6/13/2024,12/09/2024,$432,REP 53,REP 53,12/09/2024,394,Not Run-Rate,AMER,Cho Chang,Pipeline
+963,OPP - 963 - Renewal,Renewal,Stage 2,Core,AMER,09/10/2025,09/10/2025,09/10/2024,11/19/2024,$432,REP 53,REP 53,11/18/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+964,OPP - 964 - Renewal,Renewal,Stage 3,Core,AMER,6/28/2025,6/28/2025,6/28/2024,03/06/2025,$432,REP 64,REP 64,03/03/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+965,OPP - 965 - Renewal,Renewal,Stage 5,Core,AMER,5/30/2025,5/30/2025,06/03/2024,06/03/2024,$432,REP 47,REP 47,06/03/2024,361,Not Run-Rate,AMER,Cho Chang,Commit
+966,OPP - 966 - Renewal,Renewal,Stage 5,Core,AMER,07/08/2025,07/08/2025,07/08/2024,04/09/2025,$430,REP 22,REP 22,04/07/2025,365,Not Run-Rate,AMER,Filius Flitwick,Commit
+967,OPP - 967 - Renewal,Renewal,Stage 5,Core,AMER,7/29/2025,7/29/2025,7/29/2024,3/28/2025,$425,REP 53,REP 53,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+968,OPP - 968 - Upsell,Upsell,Stage 5,Core,EMEA,6/26/2025,6/26/2025,3/28/2025,3/28/2025,$414,REP 26,REP 26,3/24/2025,90,Not Run-Rate,EMEA,Ron Weasley,Commit
+969,OPP - 969 - Upsell,Upsell,Stage 5,Core,APAC,4/18/2025,4/18/2025,11/20/2024,11/20/2024,$408,REP 23,REP 23,11/18/2024,149,Not Run-Rate,APAC,Severus Snape,Commit
+970,OPP - 970 - Renewal,Renewal,Stage 5,Core,AMER,4/27/2025,4/27/2025,4/29/2024,2/21/2025,$405,REP 6,REP 6,2/17/2025,363,Not Run-Rate,AMER,Cho Chang,Commit
+971,OPP - 971 - Upsell,Upsell,Stage 5,Core,APAC,05/03/2025,05/03/2025,02/04/2025,02/04/2025,$403,REP 30,REP 30,02/03/2025,88,Not Run-Rate,APAC,Severus Snape,Commit
+972,OPP - 972 - Upsell,Upsell,Stage 5,Core,AMER,5/17/2025,5/17/2025,2/18/2025,2/18/2025,$402,REP 57,REP 57,2/17/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+973,OPP - 973 - Renewal,Renewal,Stage 2,Core,AMER,6/28/2025,6/28/2025,07/05/2023,3/19/2025,$394,REP 37,REP 37,3/17/2025,724,Not Run-Rate,AMER,Susan Bones,Pipeline
+974,OPP - 974 - Renewal,Renewal,Stage 2,Core,AMER,08/05/2025,08/05/2025,08/02/2024,09/05/2024,$384,REP 57,REP 57,09/02/2024,368,Not Run-Rate,AMER,Cho Chang,Pipeline
+975,OPP - 975 - Renewal,Renewal,Stage 5,Core,AMER,05/10/2025,05/10/2025,05/10/2024,1/21/2025,$374,REP 53,REP 53,1/20/2025,365,Not Run-Rate,AMER,Cho Chang,Commit
+976,OPP - 976 - Renewal,Renewal,Stage 3,Core,AMER,4/21/2025,4/21/2025,4/20/2024,3/24/2025,$360,REP 59,REP 59,3/24/2025,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+977,OPP - 977 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,$360,REP 57,REP 57,3/31/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+978,OPP - 978 - Renewal,Renewal,Stage 5,Core,AMER,06/04/2025,06/04/2025,06/04/2024,2/25/2025,$360,REP 36,REP 36,2/24/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+979,OPP - 979 - Upsell,Upsell,Stage 5,Core,EMEA,5/18/2025,5/18/2025,2/19/2025,2/19/2025,$359,REP 46,REP 46,2/17/2025,88,Not Run-Rate,EMEA,Ron Weasley,Commit
+980,OPP - 980 - Upsell,Upsell,Stage 5,Core,AMER,5/25/2025,5/25/2025,2/26/2025,2/26/2025,$345,REP 33,REP 37,2/24/2025,88,Not Run-Rate,AMER,Susan Bones,Commit
+981,OPP - 981 - Renewal,Renewal,Stage 2,Core,AMER,8/31/2025,8/31/2025,09/02/2024,10/10/2024,$336,REP 65,REP 65,10/07/2024,363,Not Run-Rate,AMER,Cho Chang,Pipeline
+982,OPP - 982 - Renewal,Renewal,Stage 2,Core,AMER,9/19/2025,9/19/2025,9/19/2024,11/01/2024,$336,REP 53,REP 53,10/28/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+983,OPP - 983 - Upsell,Upsell,Stage 5,Core,AMER,07/11/2025,07/11/2025,01/12/2025,01/12/2025,$306,REP 42,REP 42,01/10/2025,180,Not Run-Rate,AMER,Filius Flitwick,Commit
+984,OPP - 984 - Renewal,Renewal,Stage 2,Core,AMER,6/28/2025,6/28/2025,6/27/2024,3/31/2025,$300,REP 6,REP 6,3/31/2025,366,Not Run-Rate,AMER,Cho Chang,Pipeline
+985,OPP - 985 - Upsell,Upsell,Stage 5,Core,AMER,4/25/2025,4/25/2025,1/26/2025,1/26/2025,$300,REP 57,REP 57,1/24/2025,89,Not Run-Rate,AMER,Cho Chang,Commit
+986,OPP - 986 - Upsell,Upsell,Stage 5,Core,AMER,05/04/2025,05/04/2025,02/05/2025,02/05/2025,$300,REP 58,REP 58,02/03/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+987,OPP - 987 - Upsell,Upsell,Stage 5,Core,AMER,5/26/2025,5/26/2025,2/27/2025,2/27/2025,$300,REP 53,REP 53,2/24/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+988,OPP - 988 - Upsell,Upsell,Stage 5,Core,AMER,5/16/2025,5/16/2025,2/17/2025,2/17/2025,$292,REP 48,REP 48,2/17/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+989,OPP - 989 - Renewal,Renewal,Stage 2,Core,AMER,5/18/2025,5/18/2025,5/28/2024,10/28/2024,$288,REP 74,NOT ASSIGNED,10/28/2024,355,Not Run-Rate,AMER,Draco Malfoy,Pipeline
+990,OPP - 990 - Renewal,Renewal,Stage 2,Core,AMER,6/18/2025,6/18/2025,6/18/2024,3/25/2025,$288,REP 59,REP 59,3/24/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+991,OPP - 991 - Renewal,Renewal,Stage 2,Core,AMER,8/18/2025,8/18/2025,8/16/2024,8/16/2024,$288,REP 57,REP 57,08/12/2024,367,Not Run-Rate,AMER,Cho Chang,Pipeline
+992,OPP - 992 - Renewal,Renewal,Stage 2,Core,AMER,8/29/2025,8/29/2025,8/29/2024,3/19/2025,$288,REP 47,REP 47,3/17/2025,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+993,OPP - 993 - Renewal,Renewal,Stage 2,Core,AMER,9/18/2025,9/18/2025,09/10/2024,04/03/2025,$288,REP 59,REP 59,3/31/2025,373,Not Run-Rate,AMER,Cho Chang,Pipeline
+994,OPP - 994 - Upsell,Upsell,Stage 5,Core,AMER,6/16/2025,6/16/2025,3/20/2025,3/20/2025,$288,REP 42,REP 42,3/17/2025,88,Not Run-Rate,AMER,Filius Flitwick,Commit
+995,OPP - 995 - Renewal,Renewal,Stage 5,Core,AMER,6/16/2025,6/16/2025,6/17/2024,01/08/2025,$288,REP 57,REP 57,01/06/2025,364,Not Run-Rate,AMER,Cho Chang,Commit
+996,OPP - 996 - Renewal,Renewal,Stage 2,Core,EMEA,05/09/2025,05/09/2025,05/09/2022,11/02/2023,$284,REP 73,NOT ASSIGNED,10/30/2023,1096,Not Run-Rate,EMEA,Colin Creevey,Pipeline
+997,OPP - 997 - Renewal,Renewal,Stage 5,Core,AMER,07/02/2025,07/02/2025,07/03/2024,04/03/2025,$280,REP 36,REP 36,3/31/2025,364,Not Run-Rate,AMER,Harry Potter,Commit
+998,OPP - 998 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,$278,REP 12,REP 12,3/31/2025,90,Not Run-Rate,AMER,Harry Potter,Commit
+999,OPP - 999 - Upsell,Upsell,Stage 6,Core,EMEA,04/04/2025,04/04/2025,04/04/2025,04/04/2025,$276,REP 9,REP 9,3/31/2025,0,Run-Rate,EMEA,Amelia Bones,Commit
+1000,OPP - 1000 - Renewal,Renewal,Stage 2,Core,EMEA,09/05/2025,09/05/2025,02/12/2025,2/26/2025,$276,REP 24,REP 24,2/24/2025,205,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+1001,OPP - 1001 - Renewal,Renewal,Stage 2,Sign,AMER,06/11/2025,06/11/2025,6/20/2024,04/03/2025,$264,REP 1,REP 1,3/31/2025,356,Not Run-Rate,AMER,Rubeus Hagrid,Pipeline
+1002,OPP - 1002 - Renewal,Renewal,Stage 2,Core,AMER,6/30/2025,6/30/2025,06/03/2024,06/03/2024,$259,REP 59,REP 59,06/03/2024,392,Not Run-Rate,AMER,Cho Chang,Pipeline
+1003,OPP - 1003 - Renewal,Renewal,Stage 6,Sign,AMER,4/22/2025,4/22/2025,5/14/2024,04/10/2025,$259,REP 77,NOT ASSIGNED,04/07/2025,343,Not Run-Rate,AMER,Draco Malfoy,Commit
+1004,OPP - 1004 - Renewal,Renewal,Stage 4,Core,AMER,5/19/2025,5/19/2025,5/20/2024,12/03/2024,$252,REP 65,REP 65,12/02/2024,364,Not Run-Rate,AMER,Cho Chang,Best Case
+1005,OPP - 1005 - Upsell,Upsell,Stage 5,Core,AMER,5/17/2025,5/17/2025,2/18/2025,2/18/2025,$252,REP 59,REP 59,2/17/2025,88,Not Run-Rate,AMER,Cho Chang,Commit
+1006,OPP - 1006 - Renewal,Renewal,Stage 5,Core,AMER,4/23/2025,4/23/2025,4/22/2024,11/20/2024,$252,REP 36,REP 36,11/18/2024,366,Not Run-Rate,AMER,Harry Potter,Commit
+1007,OPP - 1007 - Upsell,Upsell,Stage 5,Core,APAC,5/15/2025,5/15/2025,2/18/2025,2/18/2025,$249,REP 23,REP 23,2/17/2025,86,Not Run-Rate,APAC,Severus Snape,Commit
+1008,OPP - 1008 - Renewal,Renewal,Stage 2,Core,AMER,8/15/2025,8/15/2025,8/21/2024,9/30/2024,$246,REP 15,NOT ASSIGNED,9/30/2024,359,Not Run-Rate,AMER,Hermione Granger,Pipeline
+1009,OPP - 1009 - Renewal,Renewal,Stage 5,Core,EMEA,5/16/2025,5/16/2025,5/16/2024,5/16/2024,$245,REP 24,REP 24,5/13/2024,365,Not Run-Rate,EMEA,Amelia Bones,Commit
+1010,OPP - 1010 - Upsell,Upsell,Stage 5,Core,EMEA,05/08/2025,05/08/2025,2/15/2025,2/15/2025,$245,REP 17,REP 17,2/14/2025,82,Not Run-Rate,EMEA,Amelia Bones,Commit
+1011,OPP - 1011 - Renewal,Renewal,Stage 5,Core,AMER,4/16/2025,4/16/2025,04/02/2024,04/02/2024,$240,REP 47,REP 47,04/01/2024,379,Not Run-Rate,AMER,Cho Chang,Commit
+1012,OPP - 1012 - Renewal,Renewal,Stage 4,Core,AMER,6/18/2025,6/18/2025,6/18/2024,2/27/2025,$233,REP 58,REP 58,2/24/2025,365,Not Run-Rate,AMER,Harry Potter,Best Case
+1013,OPP - 1013 - Upsell,Upsell,Stage 5,Core,EMEA,06/01/2025,06/01/2025,09/03/2024,09/03/2024,$230,REP 66,REP 66,09/02/2024,271,Not Run-Rate,EMEA,Terry Boot,Commit
+1014,OPP - 1014 - Upsell,Upsell,Stage 5,Core,AMER,4/20/2025,4/20/2025,11/20/2024,11/20/2024,$225,REP 42,REP 42,11/18/2024,151,Not Run-Rate,AMER,Filius Flitwick,Commit
+1015,OPP - 1015 - Renewal,Renewal,Stage 6,Core,AMER,05/06/2025,05/06/2025,4/22/2024,02/10/2025,$216,REP 12,REP 12,02/10/2025,379,Not Run-Rate,AMER,Harry Potter,Commit
+1016,OPP - 1016 - Upsell,Upsell,Stage 5,Core,AMER,05/02/2025,3/17/2025,12/20/2024,12/20/2024,$216,REP 20,REP 20,12/16/2024,133,Not Run-Rate,AMER,Filius Flitwick,Commit
+1017,OPP - 1017 - Renewal,Renewal,Stage 3,Core,EMEA,6/22/2025,6/22/2025,6/25/2024,3/13/2025,$215,REP 49,REP 49,03/10/2025,362,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+1018,OPP - 1018 - Upsell,Upsell,Stage 5,Core,EMEA,6/22/2025,6/22/2025,12/23/2024,12/23/2024,$207,REP 45,REP 45,12/23/2024,181,Not Run-Rate,EMEA,Terry Boot,Commit
+1019,OPP - 1019 - Renewal,Renewal,Stage 5,Core,EMEA,07/10/2025,07/10/2025,07/09/2024,04/11/2025,$207,REP 17,REP 17,04/07/2025,366,Not Run-Rate,EMEA,Amelia Bones,Commit
+1020,OPP - 1020 - Upsell,Upsell,Stage 5,Core,AMER,6/30/2025,6/30/2025,04/01/2025,04/01/2025,$204,REP 42,REP 42,3/31/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+1021,OPP - 1021 - Upsell,Upsell,Stage 5,Core,APAC,4/29/2025,4/29/2025,1/29/2025,1/29/2025,$203,REP 30,REP 30,1/27/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+1022,OPP - 1022 - Upsell,Upsell,Stage 5,Core,AMER,07/01/2025,07/01/2025,04/02/2025,04/02/2025,$200,REP 57,REP 57,3/31/2025,90,Not Run-Rate,AMER,Cho Chang,Commit
+1023,OPP - 1023 - Renewal,Renewal,Stage 5,Core,APAC,06/06/2025,06/06/2025,06/06/2024,04/07/2025,$192,REP 23,REP 23,04/07/2025,365,Not Run-Rate,APAC,Severus Snape,Commit
+1024,OPP - 1024 - Renewal,Renewal,Stage 2,Core,AMER,06/04/2025,06/04/2025,06/04/2024,06/04/2024,$192,REP 57,REP 57,06/03/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1025,OPP - 1025 - Renewal,Renewal,Stage 2,Core,EMEA,07/04/2025,07/04/2025,6/30/2024,6/30/2024,$192,REP 46,REP 46,6/28/2024,369,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+1026,OPP - 1026 - Renewal,Renewal,Stage 2,Core,AMER,7/22/2025,7/22/2025,7/23/2024,04/07/2025,$192,REP 65,REP 65,04/07/2025,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+1027,OPP - 1027 - Renewal,Renewal,Stage 2,Core,EMEA,09/04/2025,09/04/2025,09/04/2024,02/04/2025,$191,REP 51,REP 51,02/03/2025,365,Not Run-Rate,EMEA,Cho Chang,Pipeline
+1028,OPP - 1028 - Upsell,Upsell,Stage 5,Core,AMER,6/28/2025,6/28/2025,3/30/2025,3/30/2025,$189,REP 39,REP 39,3/28/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+1029,OPP - 1029 - Renewal,Renewal,Stage 2,Core,AMER,9/19/2025,9/19/2025,9/19/2024,10/10/2024,$180,REP 8,REP 8,10/07/2024,365,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+1030,OPP - 1030 - Renewal,Renewal,Stage 3,Core,AMER,06/03/2025,06/03/2025,05/02/2024,1/31/2025,$180,REP 57,REP 57,1/27/2025,397,Not Run-Rate,AMER,Cho Chang,Pipeline
+1031,OPP - 1031 - Renewal,Renewal,Stage 2,Core,AMER,6/21/2025,6/21/2025,6/21/2024,04/02/2025,$179,REP 58,REP 58,3/31/2025,365,Not Run-Rate,AMER,Harry Potter,Pipeline
+1032,OPP - 1032 - Upsell,Upsell,Stage 5,Core,AMER,5/26/2025,5/26/2025,2/25/2025,2/25/2025,$178,REP 29,REP 29,2/24/2025,90,Not Run-Rate,AMER,Susan Bones,Commit
+1033,OPP - 1033 - Upsell,Upsell,Stage 5,Core,AMER,5/20/2025,5/20/2025,2/21/2025,2/21/2025,$177,REP 36,REP 36,2/17/2025,88,Not Run-Rate,AMER,Harry Potter,Commit
+1034,OPP - 1034 - Renewal,Renewal,Stage 2,Core,AMER,05/03/2025,05/03/2025,04/05/2024,7/17/2024,$169,REP 6,REP 6,7/15/2024,393,Not Run-Rate,AMER,Cho Chang,Pipeline
+1035,OPP - 1035 - Renewal,Renewal,Stage 5,Core,AMER,5/30/2025,5/30/2025,4/15/2024,06/04/2024,$167,REP 40,REP 40,06/03/2024,410,Not Run-Rate,AMER,Harry Potter,Commit
+1036,OPP - 1036 - Upsell,Upsell,Stage 5,Core,AMER,06/02/2025,06/02/2025,03/04/2025,03/04/2025,$165,REP 43,REP 43,03/03/2025,90,Not Run-Rate,AMER,Filius Flitwick,Commit
+1037,OPP - 1037 - Upsell,Upsell,Stage 5,Core,APAC,4/29/2025,4/29/2025,1/29/2025,1/29/2025,$155,REP 23,REP 23,1/27/2025,90,Not Run-Rate,APAC,Severus Snape,Commit
+1038,OPP - 1038 - Renewal,Renewal,Stage 6,Core,AMER,4/15/2025,4/15/2025,4/15/2024,12/19/2024,$154,REP 59,REP 59,12/16/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+1039,OPP - 1039 - Upsell,Upsell,Stage 5,Core,EMEA,5/28/2025,5/28/2025,12/10/2024,12/10/2024,$153,REP 31,REP 31,12/09/2024,169,Not Run-Rate,EMEA,Terry Boot,Commit
+1040,OPP - 1040 - Renewal,Renewal,Stage 2,Core,AMER,4/30/2025,4/30/2025,05/02/2024,11/21/2024,$153,REP 32,REP 32,11/18/2024,363,Not Run-Rate,AMER,Hermione Granger,Pipeline
+1041,OPP - 1041 - Renewal,Renewal,Stage 2,Core,AMER,9/28/2025,9/28/2025,8/30/2024,8/30/2024,$132,REP 59,REP 59,8/26/2024,394,Not Run-Rate,AMER,Cho Chang,Pipeline
+1042,OPP - 1042 - Upsell,Upsell,Stage 5,Core,AMER,4/15/2025,3/25/2025,04/10/2025,04/10/2025,$131,REP 40,REP 40,04/07/2025,5,Run-Rate,AMER,Harry Potter,Commit
+1043,OPP - 1043 - Renewal,Renewal,Stage 2,Core,AMER,05/11/2025,05/11/2025,05/12/2024,05/12/2024,$125,REP 59,REP 59,05/10/2024,364,Not Run-Rate,AMER,Cho Chang,Pipeline
+1044,OPP - 1044 - Renewal,Renewal,Stage 5,Core,AMER,4/29/2025,4/29/2025,05/02/2024,05/02/2024,$120,REP 22,REP 22,4/29/2024,362,Not Run-Rate,AMER,Filius Flitwick,Commit
+1045,OPP - 1045 - Upsell,Upsell,Stage 5,Core,JAPAN,4/18/2025,4/15/2025,04/11/2025,04/11/2025,$117,REP 18,REP 18,04/07/2025,7,Run-Rate,JAPAN,Colin Creevey,Commit
+1046,OPP - 1046 - Renewal,Renewal,Stage 3,Core,APAC,6/30/2025,6/30/2025,6/28/2023,04/01/2025,$114,REP 30,REP 30,3/31/2025,733,Not Run-Rate,APAC,Severus Snape,Pipeline
+1047,OPP - 1047 - Renewal,Renewal,Stage 2,Core,APAC,5/29/2025,5/29/2025,5/29/2024,11/06/2024,$110,REP 78,NOT ASSIGNED,11/04/2024,365,Not Run-Rate,APAC,Severus Snape,Pipeline
+1048,OPP - 1048 - Renewal,Renewal,Stage 5,Core,AMER,5/16/2025,5/16/2025,5/17/2024,8/21/2024,$108,REP 58,REP 58,8/19/2024,364,Not Run-Rate,AMER,Harry Potter,Commit
+1049,OPP - 1049 - Renewal,Renewal,Stage 3,Sign,AMER,04/01/2025,04/01/2025,4/18/2024,04/07/2025,$105,REP 54,REP 54,04/07/2025,348,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+1050,OPP - 1050 - Renewal,Renewal,Stage 6,Core,AMER,5/15/2025,5/15/2025,08/01/2024,12/17/2024,$99,REP 25,REP 25,12/16/2024,287,Not Run-Rate,AMER,Harry Potter,Commit
+1051,OPP - 1051 - Renewal,Renewal,Stage 5,Core,AMER,06/01/2025,06/01/2025,05/10/2024,07/11/2024,$97,REP 58,REP 58,07/08/2024,387,Not Run-Rate,AMER,Harry Potter,Commit
+1052,OPP - 1052 - Renewal,Renewal,Stage 2,Core,AMER,6/19/2025,6/19/2025,06/05/2024,06/05/2024,$97,REP 57,REP 57,06/03/2024,379,Not Run-Rate,AMER,Cho Chang,Pipeline
+1053,OPP - 1053 - Renewal,Renewal,Stage 5,Core,AMER,6/25/2025,6/25/2025,6/24/2024,03/06/2025,$96,REP 8,REP 8,03/03/2025,366,Not Run-Rate,AMER,Filius Flitwick,Commit
+1054,OPP - 1054 - Renewal,Renewal,Stage 2,Core,AMER,7/27/2025,7/27/2025,7/29/2024,10/28/2024,$96,REP 6,REP 6,10/28/2024,363,Not Run-Rate,AMER,Cho Chang,Pipeline
+1055,OPP - 1055 - Renewal,Renewal,Stage 2,Core,AMER,8/28/2025,8/28/2025,8/28/2024,9/23/2024,$84,REP 65,REP 65,9/23/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1056,OPP - 1056 - Renewal,Renewal,Stage 2,Core,AMER,8/16/2025,8/16/2025,7/19/2023,11/02/2023,$79,REP 54,REP 39,10/30/2023,759,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+1057,OPP - 1057 - Upsell,Upsell,Stage 5,Core,AMER,04/01/2025,3/23/2025,1/14/2025,1/14/2025,$72,REP 29,REP 29,1/13/2025,77,Not Run-Rate,AMER,Susan Bones,Commit
+1058,OPP - 1058 - Renewal,Renewal,Stage 6,Core,AMER,7/15/2025,7/15/2025,7/15/2024,11/14/2024,$60,REP 53,REP 53,11/11/2024,365,Not Run-Rate,AMER,Cho Chang,Commit
+1059,OPP - 1059 - Renewal,Renewal,Stage 2,Core,AMER,07/02/2025,07/02/2025,07/02/2024,11/15/2024,$60,REP 15,NOT ASSIGNED,11/11/2024,365,Not Run-Rate,AMER,Hermione Granger,Pipeline
+1060,OPP - 1060 - Renewal,Renewal,Stage 2,Core,AMER,07/11/2025,07/11/2025,07/11/2024,10/16/2024,$60,REP 6,REP 6,10/14/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1061,OPP - 1061 - Renewal,Renewal,Stage 6,Core,AMER,4/16/2025,4/16/2025,4/16/2024,03/12/2025,$58,REP 40,REP 40,03/10/2025,365,Not Run-Rate,AMER,Harry Potter,Commit
+1062,OPP - 1062 - Renewal,Renewal,Stage 2,Core,EMEA,08/07/2025,08/07/2025,8/28/2024,12/12/2024,$54,REP 75,NOT ASSIGNED,12/09/2024,344,Not Run-Rate,EMEA,Colin Creevey,Pipeline
+1063,OPP - 1063 - Renewal,Renewal,Stage 2,Core,AMER,6/28/2025,6/28/2025,5/30/2024,5/30/2024,$48,REP 54,REP 54,5/27/2024,394,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+1064,OPP - 1064 - Renewal,Renewal,Stage 2,Core,AMER,07/12/2025,07/12/2025,07/12/2024,07/12/2024,$48,REP 57,REP 57,07/08/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1065,OPP - 1065 - Renewal,Renewal,Stage 2,Core,AMER,08/03/2025,08/03/2025,08/03/2024,11/08/2024,$48,REP 57,REP 57,11/04/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1066,OPP - 1066 - Renewal,Renewal,Stage 2,Core,AMER,09/03/2025,09/03/2025,09/05/2024,11/13/2024,$48,REP 6,REP 6,11/11/2024,363,Not Run-Rate,AMER,Cho Chang,Pipeline
+1067,OPP - 1067 - Renewal,Renewal,Stage 5,Core,AMER,05/09/2025,05/09/2025,05/07/2024,05/07/2024,$48,REP 47,REP 47,05/06/2024,367,Not Run-Rate,AMER,Cho Chang,Commit
+1068,OPP - 1068 - Renewal,Renewal,Stage 6,Core,EMEA,05/05/2025,05/05/2025,05/08/2023,9/21/2023,$46,REP 31,REP 31,9/18/2023,728,Not Run-Rate,EMEA,Terry Boot,Commit
+1069,OPP - 1069 - Renewal,Renewal,Stage 3,Core,EMEA,5/13/2025,5/13/2025,5/13/2024,3/13/2025,$46,REP 49,REP 49,03/10/2025,365,Not Run-Rate,EMEA,Ron Weasley,Pipeline
+1070,OPP - 1070 - Renewal,Renewal,Stage 2,Core,EMEA,8/26/2025,8/26/2025,8/27/2024,11/18/2024,$46,REP 9,REP 9,11/18/2024,364,Not Run-Rate,EMEA,Amelia Bones,Pipeline
+1071,OPP - 1071 - Renewal,Renewal,Stage 5,Core,AMER,5/14/2025,5/14/2025,5/16/2024,8/14/2024,$40,REP 43,REP 43,08/12/2024,363,Not Run-Rate,AMER,Filius Flitwick,Commit
+1072,OPP - 1072 - Renewal,Renewal,Stage 2,Core,AMER,4/24/2025,4/24/2025,4/24/2024,4/24/2024,$40,REP 79,NOT ASSIGNED,4/22/2024,365,Not Run-Rate,AMER,Draco Malfoy,Pipeline
+1073,OPP - 1073 - Renewal,Renewal,Stage 2,Core,AMER,6/14/2025,6/14/2025,6/14/2024,08/08/2024,$24,REP 59,REP 59,08/05/2024,365,Not Run-Rate,AMER,Cho Chang,Pipeline
+1074,OPP - 1074 - Renewal,Renewal,Stage 4,Core,AMER,4/16/2025,4/16/2025,4/13/2023,4/14/2023,$20,REP 10,REP 10,04/10/2023,734,Not Run-Rate,AMER,Susan Bones,Commit
+1075,OPP - 1075 - Renewal,Renewal,Stage 2,Core,AMER,9/26/2025,9/26/2025,9/24/2024,3/27/2025,$3,REP 57,REP 57,3/24/2025,367,Not Run-Rate,AMER,Cho Chang,Pipeline
+1076,OPP - 1076 - Renewal,Renewal,Stage 2,Core,EMEA,7/28/2025,7/28/2025,6/30/2023,2/18/2025,$0,REP 31,REP 31,2/17/2025,759,Not Run-Rate,EMEA,Terry Boot,Pipeline
+1077,OPP - 1077 - Renewal,Renewal,Stage 3,Core,AMER,4/23/2025,4/23/2025,04/11/2024,3/27/2025,$0,REP 43,REP 43,3/24/2025,377,Not Run-Rate,AMER,Filius Flitwick,Pipeline
+1078,OPP - 1078 - Net New,Net New,Stage 5,Core,AMER,05/01/2025,04/01/2025,04/10/2025,04/10/2025,$-,REP 2,REP 84,04/07/2025,21,Not Run-Rate,AMER,Hermione Granger,Commit
