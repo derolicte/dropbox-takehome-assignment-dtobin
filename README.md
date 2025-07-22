@@ -30,7 +30,7 @@ This project demonstrates SQL modeling and ETL processing for exploratory sales 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-org/dropbox_takehome_project.git
+   git clone ttps://github.com/derolicte/dropbox-takehome-assigment-dtobin.git
    cd dropbox_takehome_project
    ```
 
